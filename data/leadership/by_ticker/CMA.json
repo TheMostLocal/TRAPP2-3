@@ -1,0 +1,737 @@
+{
+  "ticker": "CMA",
+  "fetchedAt": "2026-10-04T21:35:19.511028Z",
+  "people": [
+    {
+      "qid": "Q55259271",
+      "name": "Robert Palmer Howard",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q55259271",
+        "name": "Robert Palmer Howard",
+        "dateOfBirth": "1823-01-12",
+        "birthPlace": "Montreal",
+        "image": null,
+        "occupations": [
+          "physician"
+        ],
+        "education": [
+          "McGill University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q46549029",
+      "name": "Joseph Workman",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q46549029",
+        "name": "Joseph Workman",
+        "dateOfBirth": "1805-05-26",
+        "birthPlace": "Lisburn",
+        "image": null,
+        "occupations": [
+          "psychiatrist"
+        ],
+        "education": [
+          "McGill Faculty of Medicine and Health Sciences"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q43138426",
+      "name": "LeBaron Botsford",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q43138426",
+        "name": "LeBaron Botsford",
+        "dateOfBirth": "1812-01-26",
+        "birthPlace": "Westcock",
+        "image": null,
+        "occupations": [
+          "physician"
+        ],
+        "education": [
+          "University of Glasgow Medical School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q28047859",
+      "name": "Chris Simpson",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q28047859",
+        "name": "Chris Simpson",
+        "dateOfBirth": "1967-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CS%20photo.jpg",
+        "occupations": [
+          "cardiologist"
+        ],
+        "education": [
+          "University of New Brunswick",
+          "Dalhousie University",
+          "Nackawic Senior High School",
+          "Queen's University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2014-01-01",
+            "end": "2015-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q14949451",
+      "name": "Jonathan Campbell Meakins",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q14949451",
+        "name": "Jonathan Campbell Meakins",
+        "dateOfBirth": "1882-05-18",
+        "birthPlace": "Hamilton",
+        "image": null,
+        "occupations": [
+          "journalist",
+          "physician"
+        ],
+        "education": [
+          "University of Sydney",
+          "University of Edinburgh"
+        ],
+        "employers": [
+          {
+            "company": "University of Edinburgh",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "1935-01-01",
+            "end": "1936-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q8006520",
+      "name": "William Canniff",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q8006520",
+        "name": "William Canniff",
+        "dateOfBirth": "1830-06-20",
+        "birthPlace": "Upper Canada",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
+        "occupations": [
+          "historian",
+          "surgeon"
+        ],
+        "education": [
+          "New York University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6755366",
+      "name": "Marc Baltzan",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6755366",
+        "name": "Marc Baltzan",
+        "dateOfBirth": "1929-10-31",
+        "birthPlace": "Saskatoon",
+        "image": null,
+        "occupations": [
+          "physician"
+        ],
+        "education": [
+          "McGill University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "1982-01-01",
+            "end": "1983-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6128535",
+      "name": "James Alexander Grant",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6128535",
+        "name": "James Alexander Grant",
+        "dateOfBirth": "1831-08-11",
+        "birthPlace": "Inverness",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
+        "occupations": [
+          "politician",
+          "physician"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1893-12-07",
+            "end": "1896-06-22"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1872-07-20",
+            "end": "1874-01-21"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1867-08-07",
+            "end": "1872-07-19"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5621289",
+      "name": "Gustave Gingras",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5621289",
+        "name": "Gustave Gingras",
+        "dateOfBirth": "1918-01-18",
+        "birthPlace": "Montreal",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
+        "occupations": [
+          "physician",
+          "neurosurgeon"
+        ],
+        "education": [
+          "Universit\u00e9 de Montr\u00e9al"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "1972-01-01",
+            "end": "1973-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5314258",
+      "name": "Duncan Archibald Graham",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5314258",
+        "name": "Duncan Archibald Graham",
+        "dateOfBirth": "1882-01-08",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
+        "occupations": [
+          "pathologist",
+          "physician"
+        ],
+        "education": [
+          "University of Toronto"
+        ],
+        "employers": [
+          {
+            "company": "University of Toronto",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Sir John and Lady Eaton Professor and Chair of Medicine",
+            "company": null,
+            "start": "1919-01-01",
+            "end": "1947-01-01"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1940-01-01",
+            "end": "1941-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5218130",
+      "name": "Daniel McNeill Parker",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5218130",
+        "name": "Daniel McNeill Parker",
+        "dateOfBirth": "1822-04-28",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "politician",
+          "physician"
+        ],
+        "education": [
+          "University of Edinburgh"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4963535",
+      "name": "Brian Day",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q4963535",
+        "name": "Brian Day",
+        "dateOfBirth": "1947-01-29",
+        "birthPlace": "Liverpool",
+        "image": null,
+        "occupations": [
+          "surgeon"
+        ],
+        "education": [
+          "School of Medicine, University of Manchester",
+          "University of British Columbia"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2007-01-01",
+            "end": "2008-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4898408",
+      "name": "Bette Stephenson",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q4898408",
+        "name": "Bette Stephenson",
+        "dateOfBirth": "1924-07-31",
+        "birthPlace": "Aurora",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
+        "occupations": [
+          "politician",
+          "physician"
+        ],
+        "education": [
+          "University of Toronto"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the Ontario Provincial Parliament",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1974-01-01",
+            "end": "1975-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3568677",
+      "name": "William Hales Hingston",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3568677",
+        "name": "William Hales Hingston",
+        "dateOfBirth": "1829-06-29",
+        "birthPlace": "Hinchinbrooke",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
+        "occupations": [
+          "surgeon",
+          "banker",
+          "politician",
+          "physician",
+          "writer"
+        ],
+        "education": [
+          "McGill University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1896-06-23",
+            "end": "1900-11-06"
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1904-11-03",
+            "end": "1907-02-19"
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1900-11-07",
+            "end": "1904-11-02"
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1896-01-02",
+            "end": "1896-06-22"
+          },
+          {
+            "title": "Mayor of Montreal",
+            "company": null,
+            "start": "1875-01-01",
+            "end": "1877-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q62061334",
+      "name": "George Edgeworth Fenwick",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q62061334",
+        "name": "George Edgeworth Fenwick",
+        "dateOfBirth": "1825-01-01",
+        "birthPlace": "Quebec City",
+        "image": null,
+        "occupations": [
+          "physician",
+          "university teacher"
+        ],
+        "education": [
+          "McGill University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q61645235",
+      "name": "Gigi Osler",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q61645235",
+        "name": "Gigi Osler",
+        "dateOfBirth": "1968-09-09",
+        "birthPlace": "Winnipeg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
+        "occupations": [
+          "university teacher",
+          "surgeon",
+          "physician"
+        ],
+        "education": [
+          "University of Manitoba"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "2025-04-28",
+            "end": null
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "2022-09-26",
+            "end": "2025-04-27"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q80976",
+      "name": "Prince Philip, Duke of Edinburgh",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q80976",
+        "name": "Prince Philip, Duke of Edinburgh",
+        "dateOfBirth": "1921-06-10",
+        "birthPlace": "Corfu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
+        "occupations": [
+          "polo player",
+          "military officer",
+          "naval officer",
+          "prince consort"
+        ],
+        "education": [
+          "Cheam School",
+          "Britannia Royal Naval College",
+          "Gordonstoun",
+          "Schule Schloss Salem"
+        ],
+        "employers": [
+          {
+            "company": "University of Oxford",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Lord High Admiral",
+            "company": null,
+            "start": "2011-06-10",
+            "end": "2021-04-09"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1959-01-01",
+            "end": "1960-01-01"
+          },
+          {
+            "title": "Member of the Privy Council of the United Kingdom",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "Consort of the United Kingdom",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": null,
+            "end": "http://www"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q128672",
+      "name": "Charles Tupper",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q128672",
+        "name": "Charles Tupper",
+        "dateOfBirth": "1821-07-02",
+        "birthPlace": "Amherst",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
+        "occupations": [
+          "diplomat",
+          "politician",
+          "lawyer",
+          "physician"
+        ],
+        "education": [
+          "University of Edinburgh Medical School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1896-02-04",
+            "end": "1896-06-22"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1882-06-20",
+            "end": "1884-05-23"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1874-01-22",
+            "end": "1878-09-16"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1867-08-07",
+            "end": "1872-07-19"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1887-02-22",
+            "end": "1888-05-22"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1878-09-17",
+            "end": "1882-06-19"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1872-07-20",
+            "end": "1874-01-21"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1896-06-23",
+            "end": "1900-11-06"
+          },
+          {
+            "title": "Member of the Privy Council of the United Kingdom",
+            "company": null,
+            "start": "1907-11-09",
+            "end": "1915-10-30"
+          },
+          {
+            "title": "Prime Minister of Canada",
+            "company": null,
+            "start": "1896-05-01",
+            "end": "1896-07-08"
+          },
+          {
+            "title": "Minister of Finance",
+            "company": null,
+            "start": "1887-01-27",
+            "end": "1888-05-22"
+          },
+          {
+            "title": "Secretary of State for Canada",
+            "company": null,
+            "start": "1896-01-15",
+            "end": "1896-07-08"
+          },
+          {
+            "title": "member of the Nova Scotia House of Assembly",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1867-01-01",
+            "end": "1869-01-01"
+          },
+          {
+            "title": "Leader of the Official Opposition",
+            "company": null,
+            "start": "1896-07-11",
+            "end": "1901-02-05"
+          },
+          {
+            "title": "ambassador",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "Premier of Nova Scotia",
+            "company": null,
+            "start": "1864-05-11",
+            "end": "1867-07-03"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3525153",
+      "name": "Thomas George Roddick",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3525153",
+        "name": "Thomas George Roddick",
+        "dateOfBirth": "1846-07-31",
+        "birthPlace": "Harbour Grace",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
+        "occupations": [
+          "university teacher",
+          "surgeon",
+          "dean",
+          "politician",
+          "physician"
+        ],
+        "education": [
+          "Nova Scotia Teachers College",
+          "McGill Faculty of Medicine and Health Sciences"
+        ],
+        "employers": [
+          {
+            "company": "McGill University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1900-11-07",
+            "end": "1904-11-02"
+          },
+          {
+            "title": "member of the House of Commons of Canada",
+            "company": null,
+            "start": "1896-06-23",
+            "end": "1900-11-06"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1890-01-01",
+            "end": "1891-01-01"
+          }
+        ]
+      }
+    }
+  ]
+}

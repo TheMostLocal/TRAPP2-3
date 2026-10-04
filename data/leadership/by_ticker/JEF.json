@@ -1,0 +1,32 @@
+{
+  "ticker": "JEF",
+  "fetchedAt": "2026-10-04T21:33:18.349420Z",
+  "people": [
+    {
+      "qid": "Q7323856",
+      "name": "Richard B. Handler",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7323856",
+        "name": "Richard B. Handler",
+        "dateOfBirth": "1961-05-23",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "investment banker",
+          "financier",
+          "chief executive officer"
+        ],
+        "education": [
+          "University of Rochester",
+          "Pascack Hills High School",
+          "Stanford Graduate School of Business",
+          "Stanford University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

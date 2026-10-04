@@ -1,0 +1,26 @@
+{
+  "qid": "Q6167185",
+  "name": "Jay Short",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jay%20Short.jpeg",
+  "occupations": [
+    "biochemist",
+    "business executive"
+  ],
+  "education": [
+    "Taylor University",
+    "Case Western Reserve University"
+  ],
+  "employers": [
+    {
+      "company": "BioAtla",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "BCAB"
+  ]
+}

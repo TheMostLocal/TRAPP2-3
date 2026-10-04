@@ -1,0 +1,77 @@
+{
+  "ticker": "DEO",
+  "fetchedAt": "2026-10-04T21:35:19.511680Z",
+  "people": [
+    {
+      "qid": "Q16732482",
+      "name": "Ivan Menezes",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q16732482",
+        "name": "Ivan Menezes",
+        "dateOfBirth": "1960-01-01",
+        "birthPlace": "Pune",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/First%20Minister%20meets%20new%20recruits%20to%20the%20Diageo%20apprentice%20scheme%20%28cropped%29.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "St. Stephen's College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6165504",
+      "name": "Javier Ferr\u00e1n",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6165504",
+        "name": "Javier Ferr\u00e1n",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "ESADE Business School",
+          "University of Miami",
+          "ESADE",
+          "University of Barcelona"
+        ],
+        "employers": [
+          {
+            "company": "Desigual",
+            "start": "2014-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "BlackRock",
+            "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Diageo",
+            "start": "2016-01-01",
+            "end": null
+          },
+          {
+            "company": "Bacardi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lion Capital LLP",
+            "start": null,
+            "end": "2019-01-01"
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

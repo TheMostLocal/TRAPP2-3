@@ -1,0 +1,392 @@
+{
+  "ticker": "HP",
+  "fetchedAt": "2026-10-04T21:33:18.347592Z",
+  "people": [
+    {
+      "qid": "Q73185799",
+      "name": "Enrique Lores",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q73185799",
+        "name": "Enrique Lores",
+        "dateOfBirth": "1965-11-01",
+        "birthPlace": "Madrid",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enrique%20Lores%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "ESADE Business School",
+          "Technical University of Valencia",
+          "ESADE"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q24572527",
+      "name": "Stacy Brown-Philpot",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q24572527",
+        "name": "Stacy Brown-Philpot",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "The Wharton School",
+          "Stanford University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q22003518",
+      "name": "Stephanie A. Burns",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q22003518",
+        "name": "Stephanie A. Burns",
+        "dateOfBirth": "1955-01-24",
+        "birthPlace": "Torrington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephanie%20Burns%20CHF-Innovation-Day-2011-Sept-20-075%20crop.jpg",
+        "occupations": [
+          "chemist"
+        ],
+        "education": [
+          "Florida International University",
+          "University of Montpellier",
+          "Iowa State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q21552573",
+      "name": "Rick Clemmer",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21552573",
+        "name": "Rick Clemmer",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Southern Methodist University",
+          "Texas Tech University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q18379146",
+      "name": "Bruce Broussard",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q18379146",
+        "name": "Bruce Broussard",
+        "dateOfBirth": "1963-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Trump%20Delivers%20Remarks%20on%20Protecting%20Seniors%20with%20Diabetes%20%2849942093502%29%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7349086",
+      "name": "Robert Bennett",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7349086",
+        "name": "Robert Bennett",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Columbia Business School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6146371",
+      "name": "Jami Miscik",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6146371",
+        "name": "Jami Miscik",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jami%20Miscik.jpg",
+        "occupations": [
+          "intelligence analyst"
+        ],
+        "education": [
+          "Josef Korbel School of International Studies",
+          "University of Denver",
+          "Pepperdine University"
+        ],
+        "employers": [
+          {
+            "company": "Kissinger Associates",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4833246",
+      "name": "A\u00edda \u00c1lvarez",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4833246",
+        "name": "A\u00edda \u00c1lvarez",
+        "dateOfBirth": "1950-01-01",
+        "birthPlace": "Aguadilla",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aida%20Alvarez%20in%201999%20%2811B%29.jpg",
+        "occupations": [
+          "journalist",
+          "banker"
+        ],
+        "education": [
+          "Radcliffe College",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Administrator of the Small Business Administration",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114601101",
+      "name": "Mary Anne Citrino",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114601101",
+        "name": "Mary Anne Citrino",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Harvard Business School",
+          "Princeton University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114600699",
+      "name": "Chip Bergh",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114600699",
+        "name": "Chip Bergh",
+        "dateOfBirth": "1957-08-26",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Lafayette College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109733314",
+      "name": "Shumeet Banerji",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109733314",
+        "name": "Shumeet Banerji",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/39.%20St.Gallen%20Symposium-Shumeet%20Banerji-HSGN%20028-01928.JPG",
+        "occupations": [],
+        "education": [
+          "Kellogg School of Management"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "non-executive director",
+            "company": null,
+            "start": "2022-01-01",
+            "end": "2025-11-21"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q109633973",
+      "name": "Kim Rucker",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109633973",
+        "name": "Kim Rucker",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Iowa",
+          "John F. Kennedy School of Government",
+          "Harvard Law School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q73185799",
+      "name": "Enrique Lores",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q73185799",
+        "name": "Enrique Lores",
+        "dateOfBirth": "1965-11-01",
+        "birthPlace": "Madrid",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enrique%20Lores%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "ESADE Business School",
+          "Technical University of Valencia",
+          "ESADE"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q68711545",
+      "name": "Subra Suresh",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q68711545",
+        "name": "Subra Suresh",
+        "dateOfBirth": "1956-05-30",
+        "birthPlace": "Mumbai",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subra%20Suresh%2C%20Director%20of%20the%20National%20Science%20Foundation.jpg",
+        "occupations": [
+          "university teacher"
+        ],
+        "education": [
+          "Iowa State University",
+          "Indian Institute of Technology Madras",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "Nanyang Technological University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Singapore Management University",
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "company": "Carnegie Mellon University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q380484",
+      "name": "David Packard",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q380484",
+        "name": "David Packard",
+        "dateOfBirth": "1912-09-07",
+        "birthPlace": "Pueblo",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
+        "occupations": [
+          "engineer",
+          "entrepreneur",
+          "computer scientist"
+        ],
+        "education": [
+          "Stanford University",
+          "Centennial High School"
+        ],
+        "employers": [
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Electric",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "United States Deputy Secretary of Defense",
+            "company": null,
+            "start": "1969-01-24",
+            "end": "1971-12-13"
+          }
+        ]
+      }
+    }
+  ]
+}

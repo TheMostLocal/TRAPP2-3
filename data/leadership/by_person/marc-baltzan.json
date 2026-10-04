@@ -1,0 +1,25 @@
+{
+  "qid": "Q6755366",
+  "name": "Marc Baltzan",
+  "dateOfBirth": "1929-10-31",
+  "birthPlace": "Saskatoon",
+  "image": null,
+  "occupations": [
+    "physician"
+  ],
+  "education": [
+    "McGill University"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "president",
+      "company": null,
+      "start": "1982-01-01",
+      "end": "1983-01-01"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}
