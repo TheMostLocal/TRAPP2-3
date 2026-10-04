@@ -1,0 +1,23 @@
+{
+  "ticker": "BCAB",
+  "qid": "Q104480051",
+  "fetchedAt": "2026-10-04T18:41:28.566048Z",
+  "source": "wikidata",
+  "name": "BioAtla",
+  "description": "company in San Diego, United States",
+  "website": "https://www.bioatla.com/",
+  "isin": null,
+  "inception": "2007-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "San Diego",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Jay Short"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

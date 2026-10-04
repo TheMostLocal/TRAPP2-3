@@ -1,0 +1,23 @@
+{
+  "ticker": "IDT",
+  "qid": "Q2796478",
+  "fetchedAt": "2026-10-04T19:15:24.640529Z",
+  "source": "wikidata",
+  "name": "IDTV",
+  "description": "Dutch film and television production company",
+  "website": "http://www.idtv.nl",
+  "isin": null,
+  "inception": "1977-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Amsterdam",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Harry de Winter"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

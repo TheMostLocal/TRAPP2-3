@@ -1,0 +1,23 @@
+{
+  "ticker": "CHRS",
+  "qid": "Q141592967",
+  "fetchedAt": "2026-10-04T18:47:40.671018Z",
+  "source": "wikidata",
+  "name": "Cultural Heritage Research Services",
+  "description": "archaeological research and historic preservation firm",
+  "website": "http://chrsinc.com/",
+  "isin": null,
+  "inception": "1981-01-01",
+  "employees": null,
+  "industry": "cultural resources management",
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Kenneth Basalik"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

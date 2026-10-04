@@ -1,0 +1,23 @@
+{
+  "ticker": "ABCB",
+  "qid": "Q27150140",
+  "fetchedAt": "2026-10-04T18:32:54.968231Z",
+  "source": "wikidata",
+  "name": "Ameris Bancorp",
+  "description": "publicly traded banking company",
+  "website": "https://ir.amerisbank.com",
+  "isin": null,
+  "inception": "1971-01-01",
+  "employees": null,
+  "industry": "bank",
+  "headquarters": "Riverplace Tower",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "retail banking"
+    }
+  ],
+  "countries": []
+}

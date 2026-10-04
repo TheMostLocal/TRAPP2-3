@@ -1,0 +1,26 @@
+{
+  "ticker": "ANF",
+  "qid": "Q319344",
+  "fetchedAt": "2026-10-04T18:38:25.764030Z",
+  "source": "wikidata",
+  "name": "Abercrombie & Fitch",
+  "description": "American fashion retailer",
+  "website": "https://www.abercrombie.com/",
+  "isin": "US0028962076",
+  "inception": "1892-01-01",
+  "employees": 6900,
+  "industry": "retail",
+  "headquarters": "New Albany",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Ezra Fitch"
+    },
+    {
+      "name": "David T. Abercrombie"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

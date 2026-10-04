@@ -1,0 +1,23 @@
+{
+  "ticker": "BRKR",
+  "qid": "Q431454",
+  "fetchedAt": "2026-10-04T18:43:14.274904Z",
+  "source": "wikidata",
+  "name": "Bruker",
+  "description": "American company",
+  "website": "http://www.bruker.com",
+  "isin": "US1167941087",
+  "inception": "1960-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Billerica",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "G\u00fcnther Laukien"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

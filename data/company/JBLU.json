@@ -1,0 +1,28 @@
+{
+  "ticker": "JBLU",
+  "qid": "Q161086",
+  "fetchedAt": "2026-10-04T19:17:22.258860Z",
+  "source": "wikidata",
+  "name": "JetBlue Airways",
+  "description": "airline from the United States",
+  "website": "https://www.jetblue.com/",
+  "isin": "US4771431016",
+  "inception": "1999-01-01",
+  "employees": 20000,
+  "industry": null,
+  "headquarters": "Long Island City",
+  "executives": [
+    {
+      "name": "Joanna Geraghty",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "David Neeleman"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

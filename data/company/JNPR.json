@@ -1,0 +1,44 @@
+{
+  "ticker": "JNPR",
+  "qid": "Q1049080",
+  "fetchedAt": "2026-10-04T19:18:17.443169Z",
+  "source": "wikidata",
+  "name": "Juniper Networks",
+  "description": "American multinational technology company",
+  "website": "https://juniper.net",
+  "isin": "US48203R1041",
+  "inception": "1996-02-06",
+  "employees": 9419,
+  "industry": "Photographic and Photocopying Equipment Manufacturing [2012\u20132022 definition]",
+  "headquarters": "Sunnyvale",
+  "executives": [
+    {
+      "name": "Rami Rahim",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Pradeep Sindhu"
+    }
+  ],
+  "products": [
+    {
+      "name": "business software"
+    },
+    {
+      "name": "electrical switch"
+    },
+    {
+      "name": "router"
+    },
+    {
+      "name": "computer security"
+    },
+    {
+      "name": "networking hardware"
+    }
+  ],
+  "countries": []
+}

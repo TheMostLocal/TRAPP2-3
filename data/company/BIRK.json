@@ -1,0 +1,23 @@
+{
+  "ticker": "BIRK",
+  "qid": "Q8008568",
+  "fetchedAt": "2026-10-04T18:42:00.347605Z",
+  "source": "wikidata",
+  "name": "William Ellis School",
+  "description": "school in Camden, UK",
+  "website": "http://www.williamellis.camden.sch.uk/",
+  "isin": null,
+  "inception": "1862-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "William Ellis"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

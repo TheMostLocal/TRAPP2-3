@@ -1,0 +1,23 @@
+{
+  "ticker": "ENVX",
+  "qid": "Q124624329",
+  "fetchedAt": "2026-10-04T18:54:41.558320Z",
+  "source": "wikidata",
+  "name": "Enovix Corporation",
+  "description": "battery technology company",
+  "website": "https://www.enovix.com/",
+  "isin": "US2935941078",
+  "inception": null,
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "battery"
+    }
+  ],
+  "countries": []
+}

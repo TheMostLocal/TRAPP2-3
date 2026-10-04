@@ -1,0 +1,23 @@
+{
+  "ticker": "DB",
+  "qid": "Q9322",
+  "fetchedAt": "2026-10-04T18:50:25.860795Z",
+  "source": "wikidata",
+  "name": "Deutsche Bahn",
+  "description": "German logistics company",
+  "website": "https://www.deutschebahn.com/",
+  "isin": null,
+  "inception": "1994-01-01",
+  "employees": 336990,
+  "industry": "rail transport",
+  "headquarters": "BahnTower",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "rail transport"
+    }
+  ],
+  "countries": []
+}

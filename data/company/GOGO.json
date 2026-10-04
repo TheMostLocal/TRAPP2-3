@@ -1,0 +1,23 @@
+{
+  "ticker": "GOGO",
+  "qid": "Q27065",
+  "fetchedAt": "2026-10-04T19:07:32.448442Z",
+  "source": "wikidata",
+  "name": "Gogo Inflight Internet",
+  "description": "provider of in-flight broadband Internet service and other connectivity services",
+  "website": "http://www.gogoair.com/",
+  "isin": "US38046C1099",
+  "inception": "1991-01-01",
+  "employees": null,
+  "industry": "aerospace industry",
+  "headquarters": "Itasca",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "in-flight entertainment"
+    }
+  ],
+  "countries": []
+}

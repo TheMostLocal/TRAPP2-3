@@ -1,0 +1,27 @@
+{
+  "ticker": "GNK",
+  "qid": "Q5564162",
+  "fetchedAt": "2026-10-04T19:06:51.901897Z",
+  "source": "wikidata",
+  "name": "Greene King",
+  "description": "British brewery and pub retailer",
+  "website": "https://www.greeneking.co.uk/",
+  "isin": null,
+  "inception": "1799-01-01",
+  "employees": null,
+  "industry": "food and tobacco industry",
+  "headquarters": "Bury St Edmunds",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Benjamin Greene"
+    }
+  ],
+  "products": [
+    {
+      "name": "beer"
+    }
+  ],
+  "countries": []
+}

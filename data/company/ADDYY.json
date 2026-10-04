@@ -1,0 +1,41 @@
+{
+  "ticker": "ADDYY",
+  "qid": "Q3895",
+  "fetchedAt": "2026-10-04T18:33:53.639556Z",
+  "source": "wikidata",
+  "name": "Adidas AG",
+  "description": "German multinational corporation",
+  "website": "https://www.adidas.com/",
+  "isin": "DE000A1EWWW0",
+  "inception": "1924-07-01",
+  "employees": 59030,
+  "industry": "sports industry",
+  "headquarters": "Herzogenaurach",
+  "executives": [
+    {
+      "name": "Bj\u00f8rn Gulden",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Adolf Dassler"
+    }
+  ],
+  "products": [
+    {
+      "name": "sportswear"
+    },
+    {
+      "name": "footwear"
+    },
+    {
+      "name": "sports equipment"
+    },
+    {
+      "name": "personal care product"
+    }
+  ],
+  "countries": []
+}

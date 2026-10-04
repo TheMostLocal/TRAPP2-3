@@ -1,0 +1,32 @@
+{
+  "ticker": "ALLY",
+  "qid": "Q2032800",
+  "fetchedAt": "2026-10-04T18:37:15.764625Z",
+  "source": "wikidata",
+  "name": "Ally Financial",
+  "description": "American financial services company",
+  "website": "https://www.ally.com/",
+  "isin": "US02005N3089",
+  "inception": "1919-01-01",
+  "employees": null,
+  "industry": "Consumer Lending",
+  "headquarters": "New York City",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "personal loan"
+    },
+    {
+      "name": "brokerage firm"
+    },
+    {
+      "name": "mortgage loan"
+    },
+    {
+      "name": "financial services"
+    }
+  ],
+  "countries": []
+}

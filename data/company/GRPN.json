@@ -1,0 +1,23 @@
+{
+  "ticker": "GRPN",
+  "qid": "Q852787",
+  "fetchedAt": "2026-10-04T19:09:07.492497Z",
+  "source": "wikidata",
+  "name": "Groupon",
+  "description": "American worldwide e-commerce marketplace",
+  "website": "http://www.groupon.com/",
+  "isin": "US3994731079",
+  "inception": "2008-01-01",
+  "employees": 3675,
+  "industry": "e-commerce",
+  "headquarters": "Chicago",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Andrew Mason"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

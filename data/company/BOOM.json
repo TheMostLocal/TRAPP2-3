@@ -1,0 +1,23 @@
+{
+  "ticker": "BOOM",
+  "qid": "Q4943376",
+  "fetchedAt": "2026-10-04T18:43:09.207412Z",
+  "source": "wikidata",
+  "name": "Boom! Studios",
+  "description": "American comic book and graphic novel publisher",
+  "website": "http://www.boom-studios.com",
+  "isin": null,
+  "inception": "2005-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Los Angeles",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Ross Richie"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

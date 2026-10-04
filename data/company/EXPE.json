@@ -1,0 +1,37 @@
+{
+  "ticker": "EXPE",
+  "qid": "Q8085893",
+  "fetchedAt": "2026-10-04T18:56:43.366622Z",
+  "source": "wikidata",
+  "name": "Expedia Group",
+  "description": "American-based parent company to several global online travel brands",
+  "website": "https://www.expediagroup.com/",
+  "isin": "US30212P3038",
+  "inception": "1996-10-22",
+  "employees": null,
+  "industry": "tourism industry",
+  "headquarters": "Seattle",
+  "executives": [
+    {
+      "name": "Ariane Gorin",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Barry Diller",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [
+    {
+      "name": "Chelsea Clinton",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Rich Barton"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

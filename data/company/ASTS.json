@@ -1,0 +1,26 @@
+{
+  "ticker": "ASTS",
+  "qid": "Q112659289",
+  "fetchedAt": "2026-10-04T18:39:24.284121Z",
+  "source": "wikidata",
+  "name": "AST SpaceMobile",
+  "description": "American satellite manufacturer",
+  "website": "https://ast-science.com/",
+  "isin": "US00217D1000",
+  "inception": "2017-01-01",
+  "employees": null,
+  "industry": "space industry",
+  "headquarters": "Midland",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "artificial satellite"
+    },
+    {
+      "name": "AST SpaceMobile Network"
+    }
+  ],
+  "countries": []
+}

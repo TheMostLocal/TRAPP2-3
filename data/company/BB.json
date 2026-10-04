@@ -1,0 +1,38 @@
+{
+  "ticker": "BB",
+  "qid": "Q502121",
+  "fetchedAt": "2026-10-04T18:41:21.431999Z",
+  "source": "wikidata",
+  "name": "BlackBerry",
+  "description": "enterprise software and the Internet of things company",
+  "website": "https://blackberry.com",
+  "isin": "CA09228F1036",
+  "inception": "1984-03-07",
+  "employees": 3647,
+  "industry": "Internet of Things",
+  "headquarters": "Waterloo",
+  "executives": [
+    {
+      "name": "John S. Chen",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Mike Lazaridis"
+    }
+  ],
+  "products": [
+    {
+      "name": "telecommunications device"
+    },
+    {
+      "name": "mobile phone"
+    },
+    {
+      "name": "software"
+    }
+  ],
+  "countries": []
+}

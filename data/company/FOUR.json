@@ -1,0 +1,23 @@
+{
+  "ticker": "FOUR",
+  "qid": "Q1424786",
+  "fetchedAt": "2026-10-04T19:03:56.004800Z",
+  "source": "wikidata",
+  "name": "Four Seasons Hotels and Resorts",
+  "description": "Canadian luxury hotel and resort company",
+  "website": "https://www.fourseasons.com",
+  "isin": null,
+  "inception": "1960-01-01",
+  "employees": null,
+  "industry": "hospitality industry",
+  "headquarters": "Toronto",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Isadore Sharp"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

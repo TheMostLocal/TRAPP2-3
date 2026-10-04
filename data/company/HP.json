@@ -1,0 +1,133 @@
+{
+  "ticker": "HP",
+  "qid": "Q80978",
+  "fetchedAt": "2026-10-04T19:13:15.326813Z",
+  "source": "wikidata",
+  "name": "Hewlett-Packard",
+  "description": "American information technology company",
+  "website": "https://www.hp.com/",
+  "isin": "US40434L1052",
+  "inception": "1939-07-02",
+  "employees": 48000,
+  "industry": "information technology industry",
+  "headquarters": "Palo Alto",
+  "executives": [
+    {
+      "name": "Enrique Lores",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [
+    {
+      "name": "Stacy Brown-Philpot",
+      "role": "Board Member"
+    },
+    {
+      "name": "Stephanie A. Burns",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rick Clemmer",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bruce Broussard",
+      "role": "Board Member"
+    },
+    {
+      "name": "Robert Bennett",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jami Miscik",
+      "role": "Board Member"
+    },
+    {
+      "name": "A\u00edda \u00c1lvarez",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mary Anne Citrino",
+      "role": "Board Member"
+    },
+    {
+      "name": "Chip Bergh",
+      "role": "Board Member"
+    },
+    {
+      "name": "Shumeet Banerji",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kim Rucker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Enrique Lores",
+      "role": "Board Member"
+    },
+    {
+      "name": "Subra Suresh",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "David Packard"
+    },
+    {
+      "name": "Bill Hewlett"
+    }
+  ],
+  "products": [
+    {
+      "name": "networking hardware"
+    },
+    {
+      "name": "systems integrator"
+    },
+    {
+      "name": "pocket computer"
+    },
+    {
+      "name": "tablet computer"
+    },
+    {
+      "name": "image scanner"
+    },
+    {
+      "name": "personal computer"
+    },
+    {
+      "name": "computer storage media"
+    },
+    {
+      "name": "digital camera"
+    },
+    {
+      "name": "mobile phone"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "server"
+    },
+    {
+      "name": "laptop"
+    },
+    {
+      "name": "printer"
+    },
+    {
+      "name": "smartphone"
+    },
+    {
+      "name": "computer hardware"
+    },
+    {
+      "name": "computer"
+    }
+  ],
+  "countries": []
+}

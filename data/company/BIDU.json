@@ -1,0 +1,30 @@
+{
+  "ticker": "BIDU",
+  "qid": "Q14772",
+  "fetchedAt": "2026-10-04T18:41:32.515005Z",
+  "source": "wikidata",
+  "name": "Baidu",
+  "description": "Chinese web services company",
+  "website": "https://www.baidu.com/",
+  "isin": "KYG070341048",
+  "inception": "2000-01-01",
+  "employees": 31000,
+  "industry": "Internet",
+  "headquarters": "Beijing",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Robin Li"
+    }
+  ],
+  "products": [
+    {
+      "name": "search engine"
+    },
+    {
+      "name": "software"
+    }
+  ],
+  "countries": []
+}

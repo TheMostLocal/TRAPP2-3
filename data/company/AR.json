@@ -1,0 +1,23 @@
+{
+  "ticker": "AR",
+  "qid": "Q265049",
+  "fetchedAt": "2026-10-04T18:39:14.327016Z",
+  "source": "wikidata",
+  "name": "archINFORM",
+  "description": "international architecture database",
+  "website": "https://www.archinform.net",
+  "isin": null,
+  "inception": "1994-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Sascha Hendel"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

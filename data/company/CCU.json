@@ -1,0 +1,23 @@
+{
+  "ticker": "CCU",
+  "qid": "Q707140",
+  "fetchedAt": "2026-10-04T18:44:10.403085Z",
+  "source": "wikidata",
+  "name": "Chinese Culture University",
+  "description": "private university in Taipei, Taiwan",
+  "website": "http://www.pccu.edu.tw",
+  "isin": null,
+  "inception": "1962-01-01",
+  "employees": 666,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Chang Chi-yun"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

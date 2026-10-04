@@ -1,0 +1,27 @@
+{
+  "ticker": "FOSL",
+  "qid": "Q356212",
+  "fetchedAt": "2026-10-04T19:03:18.682118Z",
+  "source": "wikidata",
+  "name": "Fossil",
+  "description": "American designer and manufacturer of accessories",
+  "website": "https://www.fossil.com/",
+  "isin": "US3498821004",
+  "inception": "1984-01-01",
+  "employees": null,
+  "industry": "bijou",
+  "headquarters": "Richardson",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Tom Kartsotis"
+    }
+  ],
+  "products": [
+    {
+      "name": "watch"
+    }
+  ],
+  "countries": []
+}

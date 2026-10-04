@@ -1,0 +1,24 @@
+{
+  "ticker": "FRO",
+  "qid": "Q529157",
+  "fetchedAt": "2026-10-04T19:04:26.934676Z",
+  "source": "wikidata",
+  "name": "Frontline",
+  "description": "shipping company",
+  "website": "https://www.frontlineplc.cy",
+  "isin": "CY0200352116",
+  "inception": "1985-01-01",
+  "employees": null,
+  "industry": "shipping",
+  "headquarters": "Limassol",
+  "executives": [
+    {
+      "name": "Lars H. Barstad",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

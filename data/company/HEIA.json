@@ -1,0 +1,36 @@
+{
+  "ticker": "HEIA",
+  "qid": "Q180855",
+  "fetchedAt": "2026-10-04T19:11:14.002935Z",
+  "source": "wikidata",
+  "name": "Heineken International",
+  "description": "Dutch beer company",
+  "website": "https://www.heinekeninternational.com",
+  "isin": "NL0000009165",
+  "inception": "1864-07-12",
+  "employees": null,
+  "industry": "brewing industry",
+  "headquarters": "Amsterdam",
+  "executives": [
+    {
+      "name": "Jean-Fran\u00e7ois van Boxmeer",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Freddy Heineken",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Gerard Adriaan Heineken"
+    }
+  ],
+  "products": [
+    {
+      "name": "beer"
+    }
+  ],
+  "countries": []
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "HTZ",
+  "qid": "Q95205133",
+  "fetchedAt": "2026-10-04T19:14:21.813746Z",
+  "source": "wikidata",
+  "name": "Hertz Global Holdings",
+  "description": "US holding company",
+  "website": null,
+  "isin": "US42805T1051",
+  "inception": "2015-01-01",
+  "employees": 38000,
+  "industry": "tourism industry",
+  "headquarters": "Estero",
+  "executives": [
+    {
+      "name": "Kathryn V. Marinello",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [
+    {
+      "name": "Daniel A. Ninivaggi",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kathryn V. Marinello",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

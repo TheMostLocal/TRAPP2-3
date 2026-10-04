@@ -1,0 +1,32 @@
+{
+  "ticker": "CHWY",
+  "qid": "Q28130158",
+  "fetchedAt": "2026-10-04T18:48:17.143145Z",
+  "source": "wikidata",
+  "name": "Chewy",
+  "description": "internet retailer of pet items",
+  "website": "https://www.chewy.com",
+  "isin": "US16679L1098",
+  "inception": "2011-01-01",
+  "employees": null,
+  "industry": "retail",
+  "headquarters": "Dania Beach",
+  "executives": [
+    {
+      "name": "Sumit Singh",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Ryan Cohen"
+    }
+  ],
+  "products": [
+    {
+      "name": "pet food"
+    }
+  ],
+  "countries": []
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "EXE",
+  "qid": "Q2962826",
+  "fetchedAt": "2026-10-04T18:56:34.604274Z",
+  "source": "wikidata",
+  "name": "Expand Energy",
+  "description": "American energy company",
+  "website": "http://www.chk.com/",
+  "isin": "US1651671075",
+  "inception": "1989-01-01",
+  "employees": null,
+  "industry": "petroleum industry",
+  "headquarters": "Oklahoma City",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Tom L. Ward"
+    },
+    {
+      "name": "Aubrey McClendon"
+    }
+  ],
+  "products": [
+    {
+      "name": "petroleum"
+    }
+  ],
+  "countries": []
+}

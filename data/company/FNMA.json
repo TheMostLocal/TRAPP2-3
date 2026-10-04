@@ -1,0 +1,81 @@
+{
+  "ticker": "FNMA",
+  "qid": "Q621096",
+  "fetchedAt": "2026-10-04T18:57:46.208625Z",
+  "source": "wikidata",
+  "name": "Fannie Mae",
+  "description": "government-backed financial services company",
+  "website": "https://www.fanniemae.com/",
+  "isin": "US3135861090",
+  "inception": "1938-01-01",
+  "employees": 7700,
+  "industry": "financial services",
+  "headquarters": "Northwest",
+  "executives": [
+    {
+      "name": "Timothy Mayopoulos",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [
+    {
+      "name": "Antony Jenkins",
+      "role": "Board Member"
+    },
+    {
+      "name": "Simon Johnson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Sheila Bair",
+      "role": "Board Member"
+    },
+    {
+      "name": "David Benson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Manolo S\u00e1nchez",
+      "role": "Board Member"
+    },
+    {
+      "name": "Diane Nordin",
+      "role": "Board Member"
+    },
+    {
+      "name": "Karin Kimbrough",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mike Heid",
+      "role": "Board Member"
+    },
+    {
+      "name": "Renee Glover",
+      "role": "Board Member"
+    },
+    {
+      "name": "Hugh Frater",
+      "role": "Board Member"
+    },
+    {
+      "name": "Amy Alving",
+      "role": "Board Member"
+    },
+    {
+      "name": "Robert Herz",
+      "role": "Board Member"
+    },
+    {
+      "name": "Chris Brummer",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [],
+  "products": [
+    {
+      "name": "mortgage-backed security"
+    }
+  ],
+  "countries": []
+}

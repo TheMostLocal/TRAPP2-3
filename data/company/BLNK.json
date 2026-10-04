@@ -1,0 +1,35 @@
+{
+  "ticker": "BLNK",
+  "qid": "Q62065645",
+  "fetchedAt": "2026-10-04T18:42:32.095034Z",
+  "source": "wikidata",
+  "name": "Blink",
+  "description": "electric car charger network in the United States, Uk, Ireland, Greece, Belgium",
+  "website": "https://www.blinkcharging.com/",
+  "isin": null,
+  "inception": "2009-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Miami Beach",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": [
+    {
+      "name": "Ireland"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Belgium"
+    }
+  ]
+}

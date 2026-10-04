@@ -1,0 +1,23 @@
+{
+  "ticker": "IEP",
+  "qid": "Q859363",
+  "fetchedAt": "2026-10-04T19:15:40.287928Z",
+  "source": "wikidata",
+  "name": "Paris Institute of Political Studies",
+  "description": "higher-education institution in Paris, France",
+  "website": "https://www.sciencespo.fr/",
+  "isin": null,
+  "inception": "1872-01-01",
+  "employees": 3280,
+  "industry": "higher education",
+  "headquarters": "Paris",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "\u00c9mile Boutmy"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

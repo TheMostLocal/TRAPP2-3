@@ -1,0 +1,32 @@
+{
+  "ticker": "DEO",
+  "qid": "Q161140",
+  "fetchedAt": "2026-10-04T18:52:53.303221Z",
+  "source": "wikidata",
+  "name": "Diageo",
+  "description": "multinational alcoholic beverages company",
+  "website": "http://www.diageo.com",
+  "isin": "GB0002374006",
+  "inception": "1997-12-17",
+  "employees": 29860,
+  "industry": "beverage industry",
+  "headquarters": "London",
+  "executives": [
+    {
+      "name": "Ivan Menezes",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Javier Ferr\u00e1n",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "alcoholic beverage"
+    }
+  ],
+  "countries": []
+}

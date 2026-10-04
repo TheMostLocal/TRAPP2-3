@@ -1,0 +1,28 @@
+{
+  "ticker": "DLTR",
+  "qid": "Q5289230",
+  "fetchedAt": "2026-10-04T18:53:09.827040Z",
+  "source": "wikidata",
+  "name": "Dollar Tree",
+  "description": "chain of low cost retail stores in North America",
+  "website": "https://www.dollartree.com/",
+  "isin": "US2567461080",
+  "inception": "1986-01-01",
+  "employees": 145000,
+  "industry": "retail",
+  "headquarters": "Chesapeake",
+  "executives": [
+    {
+      "name": "Macon Foscue Brock, Jr.",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Macon Foscue Brock, Jr."
+    }
+  ],
+  "products": [],
+  "countries": []
+}

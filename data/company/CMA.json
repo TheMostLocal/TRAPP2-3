@@ -1,0 +1,96 @@
+{
+  "ticker": "CMA",
+  "qid": "Q2867874",
+  "fetchedAt": "2026-10-04T18:48:32.134833Z",
+  "source": "wikidata",
+  "name": "Canadian Medical Association",
+  "description": "association of doctors in Canada",
+  "website": "https://www.cma.ca/",
+  "isin": null,
+  "inception": "1867-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Ottawa",
+  "executives": [
+    {
+      "name": "Robert Palmer Howard",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Joseph Workman",
+      "role": "Chairperson"
+    },
+    {
+      "name": "LeBaron Botsford",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Chris Simpson",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Jonathan Campbell Meakins",
+      "role": "Chairperson"
+    },
+    {
+      "name": "William Canniff",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Marc Baltzan",
+      "role": "Chairperson"
+    },
+    {
+      "name": "James Alexander Grant",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Gustave Gingras",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Duncan Archibald Graham",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Daniel McNeill Parker",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Brian Day",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Bette Stephenson",
+      "role": "Chairperson"
+    },
+    {
+      "name": "William Hales Hingston",
+      "role": "Chairperson"
+    },
+    {
+      "name": "George Edgeworth Fenwick",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Gigi Osler",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Prince Philip, Duke of Edinburgh",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Charles Tupper",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Thomas George Roddick",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}
