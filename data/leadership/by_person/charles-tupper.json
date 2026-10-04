@@ -1,0 +1,124 @@
+{
+  "qid": "Q128672",
+  "name": "Charles Tupper",
+  "dateOfBirth": "1821-07-02",
+  "birthPlace": "Amherst",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
+  "occupations": [
+    "diplomat",
+    "politician",
+    "lawyer",
+    "physician"
+  ],
+  "education": [
+    "University of Edinburgh Medical School"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1896-02-04",
+      "end": "1896-06-22"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1882-06-20",
+      "end": "1884-05-23"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1874-01-22",
+      "end": "1878-09-16"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1867-08-07",
+      "end": "1872-07-19"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1887-02-22",
+      "end": "1888-05-22"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1878-09-17",
+      "end": "1882-06-19"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1872-07-20",
+      "end": "1874-01-21"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1896-06-23",
+      "end": "1900-11-06"
+    },
+    {
+      "title": "Member of the Privy Council of the United Kingdom",
+      "company": null,
+      "start": "1907-11-09",
+      "end": "1915-10-30"
+    },
+    {
+      "title": "Prime Minister of Canada",
+      "company": null,
+      "start": "1896-05-01",
+      "end": "1896-07-08"
+    },
+    {
+      "title": "Minister of Finance",
+      "company": null,
+      "start": "1887-01-27",
+      "end": "1888-05-22"
+    },
+    {
+      "title": "Secretary of State for Canada",
+      "company": null,
+      "start": "1896-01-15",
+      "end": "1896-07-08"
+    },
+    {
+      "title": "member of the Nova Scotia House of Assembly",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "president",
+      "company": null,
+      "start": "1867-01-01",
+      "end": "1869-01-01"
+    },
+    {
+      "title": "Leader of the Official Opposition",
+      "company": null,
+      "start": "1896-07-11",
+      "end": "1901-02-05"
+    },
+    {
+      "title": "ambassador",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "Premier of Nova Scotia",
+      "company": null,
+      "start": "1864-05-11",
+      "end": "1867-07-03"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "qid": "Q14949451",
+  "name": "Jonathan Campbell Meakins",
+  "dateOfBirth": "1882-05-18",
+  "birthPlace": "Hamilton",
+  "image": null,
+  "occupations": [
+    "journalist",
+    "physician"
+  ],
+  "education": [
+    "University of Sydney",
+    "University of Edinburgh"
+  ],
+  "employers": [
+    {
+      "company": "University of Edinburgh",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "president",
+      "company": null,
+      "start": "1935-01-01",
+      "end": "1936-01-01"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}

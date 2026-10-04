@@ -1,0 +1,52 @@
+{
+  "ticker": "BB",
+  "fetchedAt": "2026-10-04T21:35:19.510145Z",
+  "people": [
+    {
+      "qid": "Q6256206",
+      "name": "John S. Chen",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6256206",
+        "name": "John S. Chen",
+        "dateOfBirth": "1955-07-01",
+        "birthPlace": "British Hong Kong",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Chen%20at%20Techonomy%202010.jpg",
+        "occupations": [
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Brown University",
+          "Northfield Mount Hermon School",
+          "La Salle College",
+          "California Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "BlackBerry",
+            "start": "2013-11-01",
+            "end": null
+          },
+          {
+            "company": "Sybase",
+            "start": "1997-01-01",
+            "end": "2013-01-01"
+          },
+          {
+            "company": "Unisys",
+            "start": "1979-01-01",
+            "end": "1991-01-01"
+          },
+          {
+            "company": "Siemens Nixdorf Informationssysteme",
+            "start": "1995-01-01",
+            "end": "1997-01-01"
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

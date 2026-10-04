@@ -1,0 +1,26 @@
+{
+  "qid": "Q4963535",
+  "name": "Brian Day",
+  "dateOfBirth": "1947-01-29",
+  "birthPlace": "Liverpool",
+  "image": null,
+  "occupations": [
+    "surgeon"
+  ],
+  "education": [
+    "School of Medicine, University of Manchester",
+    "University of British Columbia"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "president",
+      "company": null,
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}

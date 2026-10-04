@@ -1,0 +1,48 @@
+{
+  "qid": "Q3525153",
+  "name": "Thomas George Roddick",
+  "dateOfBirth": "1846-07-31",
+  "birthPlace": "Harbour Grace",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
+  "occupations": [
+    "university teacher",
+    "surgeon",
+    "dean",
+    "politician",
+    "physician"
+  ],
+  "education": [
+    "Nova Scotia Teachers College",
+    "McGill Faculty of Medicine and Health Sciences"
+  ],
+  "employers": [
+    {
+      "company": "McGill University",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1900-11-07",
+      "end": "1904-11-02"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1896-06-23",
+      "end": "1900-11-06"
+    },
+    {
+      "title": "president",
+      "company": null,
+      "start": "1890-01-01",
+      "end": "1891-01-01"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}

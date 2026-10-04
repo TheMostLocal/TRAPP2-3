@@ -1,0 +1,35 @@
+{
+  "qid": "Q109646570",
+  "name": "Amy Alving",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "Stanford University",
+    "Princeton University"
+  ],
+  "employers": [
+    {
+      "company": "Defense Advanced Research Projects Agency",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "University of Minnesota",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Leidos",
+      "start": "2007-01-01",
+      "end": "2013-01-01"
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "FNMA"
+  ]
+}

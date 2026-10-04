@@ -1,0 +1,489 @@
+{
+  "ticker": "FNMA",
+  "fetchedAt": "2026-10-04T21:35:19.512437Z",
+  "people": [
+    {
+      "qid": "Q18085292",
+      "name": "Timothy Mayopoulos",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q18085292",
+        "name": "Timothy Mayopoulos",
+        "dateOfBirth": "1959-03-07",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "entrepreneur",
+          "lawyer"
+        ],
+        "education": [
+          "New York University School of Law",
+          "Cornell University"
+        ],
+        "employers": [
+          {
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
+          },
+          {
+            "company": "Fannie Mae",
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "company": "Fannie Mae",
+            "start": "2010-01-01",
+            "end": "2012-01-01"
+          },
+          {
+            "company": "Fannie Mae",
+            "start": "2012-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
+          },
+          {
+            "company": "Silicon Valley Bridge Bank",
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "title": "company secretary",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "general counsel",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "title": "chief administrative officer",
+            "company": null,
+            "start": "2010-01-01",
+            "end": "2012-01-01"
+          },
+          {
+            "title": "executive vice president",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4777219",
+      "name": "Antony Jenkins",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4777219",
+        "name": "Antony Jenkins",
+        "dateOfBirth": "1961-07-11",
+        "birthPlace": "Manchester",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
+        "occupations": [
+          "entrepreneur",
+          "banker"
+        ],
+        "education": [
+          "Cranfield School of Management",
+          "Cranfield University",
+          "University College, Oxford"
+        ],
+        "employers": [
+          {
+            "company": "Barclays",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1461050",
+      "name": "Simon Johnson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1461050",
+        "name": "Simon Johnson",
+        "dateOfBirth": "1963-01-16",
+        "birthPlace": "Sheffield",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
+        "occupations": [
+          "economist",
+          "university teacher"
+        ],
+        "education": [
+          "University of Oxford",
+          "Massachusetts Institute of Technology",
+          "University of Manchester"
+        ],
+        "employers": [
+          {
+            "company": "MIT Sloan School of Management",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Duke University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief economist",
+            "company": null,
+            "start": "2007-03-01",
+            "end": "2008-08-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q451150",
+      "name": "Sheila Bair",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q451150",
+        "name": "Sheila Bair",
+        "dateOfBirth": "1954-04-03",
+        "birthPlace": "Wichita",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
+        "occupations": [
+          "university teacher",
+          "businessperson",
+          "lawyer",
+          "economist",
+          "politician"
+        ],
+        "education": [
+          "University of Kansas",
+          "University of Massachusetts Amherst",
+          "University of Kansas School of Law"
+        ],
+        "employers": [
+          {
+            "company": "University of Massachusetts Amherst",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "2015-08-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114402272",
+      "name": "David Benson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114402272",
+        "name": "David Benson",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles",
+          "Harvard Medical School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109651930",
+      "name": "Manolo S\u00e1nchez",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109651930",
+        "name": "Manolo S\u00e1nchez",
+        "dateOfBirth": null,
+        "birthPlace": "Murcia",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "adjunct professor"
+        ],
+        "education": [
+          "College of Europe",
+          "London School of Economics and Political Science",
+          "Yale University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109651879",
+      "name": "Diane Nordin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109651879",
+        "name": "Diane Nordin",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Harvard University",
+          "Wheaton College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109648134",
+      "name": "Karin Kimbrough",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109648134",
+        "name": "Karin Kimbrough",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karin%20Kimbrough%20at%20Jobs%20Reset%20Summit.jpg",
+        "occupations": [
+          "businessperson",
+          "economist"
+        ],
+        "education": [
+          "John F. Kennedy School of Government",
+          "Stanford University",
+          "University of Oxford"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109648054",
+      "name": "Mike Heid",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109648054",
+        "name": "Mike Heid",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109648034",
+      "name": "Renee Glover",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109648034",
+        "name": "Renee Glover",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Alphonso%20Jackson%20at%20Chicago%20White%20Sox%20Baseball%20Game%20-%20Secretary%20Alphonso%20Jackson%20attending%20Chicago%20White%20Sox%20baseball%20game%20at%20U.S.%20Cellular%20Field%20in%20Chicago%2C%20Illinois%2C%20alo%20-%20DPLA%20-%20969f4a5acef77659fe564e312f6d52dc.JPG",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Yale University",
+          "Boston University",
+          "Fisk University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109648017",
+      "name": "Hugh Frater",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109648017",
+        "name": "Hugh Frater",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Columbia Business School",
+          "Dartmouth College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109646570",
+      "name": "Amy Alving",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109646570",
+        "name": "Amy Alving",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Stanford University",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Defense Advanced Research Projects Agency",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Minnesota",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q107171612",
+      "name": "Robert Herz",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q107171612",
+        "name": "Robert Herz",
+        "dateOfBirth": "1953-06-18",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "company director",
+          "chartered accountant"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q97940148",
+      "name": "Chris Brummer",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q97940148",
+        "name": "Chris Brummer",
+        "dateOfBirth": "1975-07-08",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "jurist",
+          "university teacher",
+          "law professor"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

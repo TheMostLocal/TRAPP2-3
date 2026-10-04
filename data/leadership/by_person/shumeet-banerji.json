@@ -1,0 +1,23 @@
+{
+  "qid": "Q109733314",
+  "name": "Shumeet Banerji",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/39.%20St.Gallen%20Symposium-Shumeet%20Banerji-HSGN%20028-01928.JPG",
+  "occupations": [],
+  "education": [
+    "Kellogg School of Management"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "non-executive director",
+      "company": null,
+      "start": "2022-01-01",
+      "end": "2025-11-21"
+    }
+  ],
+  "currentTickers": [
+    "HP"
+  ]
+}

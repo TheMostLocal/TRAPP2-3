@@ -1,0 +1,52 @@
+{
+  "ticker": "BIDU",
+  "fetchedAt": "2026-10-04T21:35:19.510265Z",
+  "people": [
+    {
+      "qid": "Q92985",
+      "name": "Robin Li",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q92985",
+        "name": "Robin Li",
+        "dateOfBirth": "1968-11-17",
+        "birthPlace": "Yangquan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Li%20%282020%29.png",
+        "occupations": [
+          "software engineer",
+          "software developer",
+          "inventor",
+          "computer scientist",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "University at Buffalo",
+          "Peking University"
+        ],
+        "employers": [
+          {
+            "company": "Baidu",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2004-01-01",
+            "end": null
+          },
+          {
+            "title": "member of the National Committee of the Chinese People's Political Consultative Conference",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

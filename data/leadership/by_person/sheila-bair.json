@@ -1,0 +1,43 @@
+{
+  "qid": "Q451150",
+  "name": "Sheila Bair",
+  "dateOfBirth": "1954-04-03",
+  "birthPlace": "Wichita",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
+  "occupations": [
+    "university teacher",
+    "businessperson",
+    "lawyer",
+    "economist",
+    "politician"
+  ],
+  "education": [
+    "University of Kansas",
+    "University of Massachusetts Amherst",
+    "University of Kansas School of Law"
+  ],
+  "employers": [
+    {
+      "company": "University of Massachusetts Amherst",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "president",
+      "company": null,
+      "start": "2015-08-01",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "FNMA"
+  ]
+}
