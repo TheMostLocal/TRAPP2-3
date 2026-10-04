@@ -1,0 +1,70 @@
+{
+  "ticker": "ADDYY",
+  "fetchedAt": "2026-10-04T21:35:19.509130Z",
+  "people": [
+    {
+      "qid": "Q370191",
+      "name": "Bj\u00f8rn Gulden",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q370191",
+        "name": "Bj\u00f8rn Gulden",
+        "dateOfBirth": "1965-06-04",
+        "birthPlace": "Zurich",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-06-26%20Fussball%2C%20Frauen%2C%20Deutsche%20Nationalmannschaft%2C%20Media%20Day%201DX%206470%20by%20Stepro.jpg",
+        "occupations": [
+          "association football player",
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Salling Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Puma",
+            "start": "2013-01-01",
+            "end": "2022-01-01"
+          },
+          {
+            "company": "Adidas AG",
+            "start": "2023-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q76751",
+      "name": "Adolf Dassler",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q76751",
+        "name": "Adolf Dassler",
+        "dateOfBirth": "1900-11-03",
+        "birthPlace": "Herzogenaurach",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adi%20dassler%20young.jpg",
+        "occupations": [
+          "politician",
+          "entrepreneur",
+          "fashion designer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Adidas AG",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

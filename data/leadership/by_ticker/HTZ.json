@@ -1,0 +1,76 @@
+{
+  "ticker": "HTZ",
+  "fetchedAt": "2026-10-04T21:33:18.348102Z",
+  "people": [
+    {
+      "qid": "Q6377142",
+      "name": "Kathryn V. Marinello",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6377142",
+        "name": "Kathryn V. Marinello",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": "United States",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Hofstra University",
+          "Lund University",
+          "State University of New York at Albany"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q108403653",
+      "name": "Daniel A. Ninivaggi",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q108403653",
+        "name": "Daniel A. Ninivaggi",
+        "dateOfBirth": "1964-06-27",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive",
+          "judge"
+        ],
+        "education": [
+          "Booth School of Business",
+          "Columbia University",
+          "University of Chicago"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6377142",
+      "name": "Kathryn V. Marinello",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6377142",
+        "name": "Kathryn V. Marinello",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": "United States",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Hofstra University",
+          "Lund University",
+          "State University of New York at Albany"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}
