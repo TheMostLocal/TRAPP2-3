@@ -1,0 +1,26 @@
+{
+  "qid": "Q141592937",
+  "name": "Kenneth Basalik",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "archaeologist",
+    "researcher"
+  ],
+  "education": [
+    "University of Pennsylvania",
+    "Temple University"
+  ],
+  "employers": [
+    {
+      "company": "Cultural Heritage Research Services",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "CHRS"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "qid": "Q80976",
+  "name": "Prince Philip, Duke of Edinburgh",
+  "dateOfBirth": "1921-06-10",
+  "birthPlace": "Corfu",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
+  "occupations": [
+    "polo player",
+    "military officer",
+    "naval officer",
+    "prince consort"
+  ],
+  "education": [
+    "Cheam School",
+    "Britannia Royal Naval College",
+    "Gordonstoun",
+    "Schule Schloss Salem"
+  ],
+  "employers": [
+    {
+      "company": "University of Oxford",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "Lord High Admiral",
+      "company": null,
+      "start": "2011-06-10",
+      "end": "2021-04-09"
+    },
+    {
+      "title": "president",
+      "company": null,
+      "start": "1959-01-01",
+      "end": "1960-01-01"
+    },
+    {
+      "title": "Member of the Privy Council of the United Kingdom",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "Consort of the United Kingdom",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "member of the House of Lords",
+      "company": null,
+      "start": null,
+      "end": "http://www"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}

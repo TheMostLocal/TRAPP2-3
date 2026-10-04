@@ -1,0 +1,26 @@
+{
+  "qid": "Q55615074",
+  "name": "Jihan Wu",
+  "dateOfBirth": "1986-01-01",
+  "birthPlace": "Chongqing",
+  "image": null,
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "Peking University"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "BTDR",
+    "BTDR"
+  ]
+}

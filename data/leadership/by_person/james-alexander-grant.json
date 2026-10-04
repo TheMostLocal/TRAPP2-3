@@ -1,0 +1,36 @@
+{
+  "qid": "Q6128535",
+  "name": "James Alexander Grant",
+  "dateOfBirth": "1831-08-11",
+  "birthPlace": "Inverness",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
+  "occupations": [
+    "politician",
+    "physician"
+  ],
+  "education": [],
+  "employers": [],
+  "positions": [
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1893-12-07",
+      "end": "1896-06-22"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1872-07-20",
+      "end": "1874-01-21"
+    },
+    {
+      "title": "member of the House of Commons of Canada",
+      "company": null,
+      "start": "1867-08-07",
+      "end": "1872-07-19"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}
