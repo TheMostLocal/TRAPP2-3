@@ -1,0 +1,29 @@
+{
+  "ticker": "SOS",
+  "qid": "Q135984078",
+  "fetchedAt": "2026-10-04T21:48:09.823236Z",
+  "source": "wikidata",
+  "name": "Storage Computer Corporation",
+  "description": "former American technology company",
+  "website": "http://www.storage.com/",
+  "isin": null,
+  "inception": "1991-08-26",
+  "employees": 80,
+  "industry": "computer hardware industry",
+  "headquarters": "Nashua",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "direct-attached storage"
+    },
+    {
+      "name": "network-attached storage"
+    },
+    {
+      "name": "storage area network"
+    }
+  ],
+  "countries": []
+}

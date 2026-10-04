@@ -1,0 +1,23 @@
+{
+  "ticker": "SLM",
+  "qid": "Q669606",
+  "fetchedAt": "2026-10-04T21:47:39.342071Z",
+  "source": "wikidata",
+  "name": "Swiss Locomotive and Machine Works",
+  "description": "Swiss railway equipment manufacturer",
+  "website": null,
+  "isin": null,
+  "inception": "1871-01-01",
+  "employees": null,
+  "industry": "vehicle construction",
+  "headquarters": "Winterthur",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Charles Brown"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

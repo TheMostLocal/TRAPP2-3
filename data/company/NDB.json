@@ -1,0 +1,28 @@
+{
+  "ticker": "NDB",
+  "qid": "Q8579145",
+  "fetchedAt": "2026-10-04T21:37:17.831745Z",
+  "source": "wikidata",
+  "name": "New Development Bank",
+  "description": "multilateral development bank established by the BRICS states",
+  "website": "http://www.ndb.int",
+  "isin": null,
+  "inception": "2015-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Shanghai",
+  "executives": [
+    {
+      "name": "Dilma Rousseff",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "BRICS"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

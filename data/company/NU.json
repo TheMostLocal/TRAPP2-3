@@ -1,0 +1,24 @@
+{
+  "ticker": "NU",
+  "qid": "Q309350",
+  "fetchedAt": "2026-10-04T21:38:48.077863Z",
+  "source": "wikidata",
+  "name": "Northwestern University",
+  "description": "private university in Evanston, Illinois, U.S.",
+  "website": null,
+  "isin": null,
+  "inception": "1851-01-01",
+  "employees": 3915,
+  "industry": "higher education",
+  "headquarters": "Evanston",
+  "executives": [
+    {
+      "name": "Morton O. Schapiro",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

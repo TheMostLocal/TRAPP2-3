@@ -1,0 +1,30 @@
+{
+  "ticker": "MODG",
+  "qid": "Q1027181",
+  "fetchedAt": "2026-10-04T21:35:51.191062Z",
+  "source": "wikidata",
+  "name": "Callaway Golf Company",
+  "description": "American golf equipment manufacturer",
+  "website": "https://www.callawaygolf.com/",
+  "isin": "US1311931042",
+  "inception": "1982-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Carlsbad",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Ely Callaway Jr."
+    }
+  ],
+  "products": [
+    {
+      "name": "golf equipment"
+    },
+    {
+      "name": "sports equipment"
+    }
+  ],
+  "countries": []
+}

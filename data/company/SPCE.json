@@ -1,0 +1,30 @@
+{
+  "ticker": "SPCE",
+  "qid": "Q373225",
+  "fetchedAt": "2026-10-04T21:48:20.973391Z",
+  "source": "wikidata",
+  "name": "Virgin Galactic",
+  "description": "American spaceflight company",
+  "website": "https://www.virgingalactic.com/",
+  "isin": "US92766K4031",
+  "inception": "2004-01-01",
+  "employees": null,
+  "industry": "space tourism",
+  "headquarters": "Las Cruces",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Burt Rutan"
+    },
+    {
+      "name": "Richard Branson"
+    }
+  ],
+  "products": [
+    {
+      "name": "spaceplane"
+    }
+  ],
+  "countries": []
+}

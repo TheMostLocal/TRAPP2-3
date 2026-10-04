@@ -1,0 +1,28 @@
+{
+  "ticker": "ZM",
+  "qid": "Q17460900",
+  "fetchedAt": "2026-10-04T21:55:04.817328Z",
+  "source": "wikidata",
+  "name": "Zoom Communications",
+  "description": "company responsible for the Zoom software",
+  "website": "https://www.zoom.com/",
+  "isin": "US98980L1017",
+  "inception": "2011-04-21",
+  "employees": 2000,
+  "industry": "video conference",
+  "headquarters": "San Jose",
+  "executives": [
+    {
+      "name": "Eric S. Yuan",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Eric S. Yuan"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

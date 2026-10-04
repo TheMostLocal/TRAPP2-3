@@ -1,0 +1,23 @@
+{
+  "ticker": "PLCE",
+  "qid": "Q3520257",
+  "fetchedAt": "2026-10-04T21:42:38.139792Z",
+  "source": "wikidata",
+  "name": "The Children's Place",
+  "description": "retailer of children's apparel and accessories",
+  "website": "https://www.childrensplace.com",
+  "isin": "US1689051076",
+  "inception": "1969-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Secaucus",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "clothing"
+    }
+  ],
+  "countries": []
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "NEU",
+  "qid": "Q37548",
+  "fetchedAt": "2026-10-04T21:37:27.657862Z",
+  "source": "wikidata",
+  "name": "Northeastern University",
+  "description": "private university in Boston, Massachusetts, USA",
+  "website": "https://www.northeastern.edu/",
+  "isin": null,
+  "inception": "1898-01-01",
+  "employees": 1830,
+  "industry": "higher education",
+  "headquarters": "Boston",
+  "executives": [
+    {
+      "name": "Joseph Elias Aoun",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

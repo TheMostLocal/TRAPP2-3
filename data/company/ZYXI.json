@@ -1,0 +1,23 @@
+{
+  "ticker": "ZYXI",
+  "qid": "Q17147182",
+  "fetchedAt": "2026-10-04T21:55:22.716171Z",
+  "source": "wikidata",
+  "name": "Zynex",
+  "description": "American medical device manufacturer",
+  "website": "http://www.zynexmed.com/",
+  "isin": null,
+  "inception": "2001-01-01",
+  "employees": null,
+  "industry": "medical technology",
+  "headquarters": "Lone Tree",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "medical device"
+    }
+  ],
+  "countries": []
+}

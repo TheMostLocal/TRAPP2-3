@@ -1,0 +1,28 @@
+{
+  "ticker": "WOLF",
+  "qid": "Q5183828",
+  "fetchedAt": "2026-10-04T21:51:50.573029Z",
+  "source": "wikidata",
+  "name": "Wolfspeed",
+  "description": "manufacturer of wide bandgap semiconductors, focused on silicon carbide and gallium nitride materials",
+  "website": "https://www.wolfspeed.com/",
+  "isin": "US9778521024",
+  "inception": "1987-01-01",
+  "employees": 3200,
+  "industry": "electronics",
+  "headquarters": "Durham",
+  "executives": [
+    {
+      "name": "Gregg Lowe",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "light-emitting diode"
+    }
+  ],
+  "countries": []
+}

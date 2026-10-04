@@ -1,0 +1,28 @@
+{
+  "ticker": "RACE",
+  "qid": "Q427318",
+  "fetchedAt": "2026-10-04T21:43:25.234089Z",
+  "source": "wikidata",
+  "name": "Royal Academy of Exact, Physical and Natural Sciences",
+  "description": "academy of sciences of Spain",
+  "website": "https://rac.es/",
+  "isin": null,
+  "inception": "1847-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Real Academia de Ciencias Exactas, F\u00edsicas y Naturales building",
+  "executives": [
+    {
+      "name": "Jes\u00fas Mar\u00eda Sanz-Serna",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Isabella II of Spain"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

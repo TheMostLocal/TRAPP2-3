@@ -1,0 +1,23 @@
+{
+  "ticker": "LAC",
+  "qid": "Q124655501",
+  "fetchedAt": "2026-10-04T21:31:57.919082Z",
+  "source": "wikidata",
+  "name": "Lithium Americas",
+  "description": "Canadian mining company",
+  "website": "https://www.lithiumamericas.com/",
+  "isin": "CA53681J1030",
+  "inception": "2023-10-03",
+  "employees": null,
+  "industry": "mining",
+  "headquarters": "Vancouver",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "lithium carbonate"
+    }
+  ],
+  "countries": []
+}

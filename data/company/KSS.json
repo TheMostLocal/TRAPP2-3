@@ -1,0 +1,23 @@
+{
+  "ticker": "KSS",
+  "qid": "Q3544337",
+  "fetchedAt": "2026-10-04T21:31:37.951695Z",
+  "source": "wikidata",
+  "name": "KSS",
+  "description": "Japanese company",
+  "website": null,
+  "isin": null,
+  "inception": null,
+  "employees": null,
+  "industry": "video game industry",
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "anime"
+    }
+  ],
+  "countries": []
+}

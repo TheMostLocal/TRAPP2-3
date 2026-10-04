@@ -1,0 +1,23 @@
+{
+  "ticker": "LPX",
+  "qid": "Q1872227",
+  "fetchedAt": "2026-10-04T21:33:58.579822Z",
+  "source": "wikidata",
+  "name": "Louisiana-Pacific",
+  "description": "American building products company",
+  "website": "http://lpcorp.com/",
+  "isin": "US5463471053",
+  "inception": "1973-01-01",
+  "employees": null,
+  "industry": "construction",
+  "headquarters": "Nashville",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "building material"
+    }
+  ],
+  "countries": []
+}

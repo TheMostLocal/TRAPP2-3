@@ -1,0 +1,23 @@
+{
+  "ticker": "VTLE",
+  "qid": "Q16981100",
+  "fetchedAt": "2026-10-04T21:51:18.182802Z",
+  "source": "wikidata",
+  "name": "Vital Energy",
+  "description": "independent energy company focused on the exploration, development and acquisition of petroleum and natural gas",
+  "website": "http://www.laredopetro.com",
+  "isin": "US5168062058",
+  "inception": "2011-01-01",
+  "employees": null,
+  "industry": "petroleum industry",
+  "headquarters": "Tulsa",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "natural gas"
+    }
+  ],
+  "countries": []
+}

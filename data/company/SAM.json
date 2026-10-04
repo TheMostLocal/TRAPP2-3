@@ -1,0 +1,27 @@
+{
+  "ticker": "SAM",
+  "qid": "Q894558",
+  "fetchedAt": "2026-10-04T21:45:49.024988Z",
+  "source": "wikidata",
+  "name": "Boston Beer Company",
+  "description": "beer company",
+  "website": "http://www.bostonbeer.com/",
+  "isin": "US1005571070",
+  "inception": "1985-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Boston",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Jim Koch"
+    }
+  ],
+  "products": [
+    {
+      "name": "Samuel Adams"
+    }
+  ],
+  "countries": []
+}

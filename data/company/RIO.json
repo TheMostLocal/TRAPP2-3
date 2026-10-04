@@ -1,0 +1,41 @@
+{
+  "ticker": "RIO",
+  "qid": "Q821293",
+  "fetchedAt": "2026-10-04T21:45:08.235486Z",
+  "source": "wikidata",
+  "name": "Rio Tinto Group",
+  "description": "Anglo-Australian multinational mining company",
+  "website": "https://www.riotinto.com/",
+  "isin": null,
+  "inception": "1873-01-01",
+  "employees": null,
+  "industry": "mining industry",
+  "headquarters": "Melbourne",
+  "executives": [
+    {
+      "name": "Jean-S\u00e9bastien Jacques",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Simon Thompson",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Jan du Plessis",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [
+    {
+      "name": "Auckland Geddes, 1st Baron Geddes",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [],
+  "products": [
+    {
+      "name": "chalcopyrite"
+    }
+  ],
+  "countries": []
+}

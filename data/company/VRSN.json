@@ -1,0 +1,27 @@
+{
+  "ticker": "VRSN",
+  "qid": "Q734338",
+  "fetchedAt": "2026-10-04T21:51:14.589805Z",
+  "source": "wikidata",
+  "name": "Verisign",
+  "description": "American Internet company",
+  "website": "https://www.verisign.com",
+  "isin": "US92343E1029",
+  "inception": "1995-04-12",
+  "employees": 1019,
+  "industry": "telecommunications",
+  "headquarters": "Reston",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "James Bidzos"
+    }
+  ],
+  "products": [
+    {
+      "name": "software"
+    }
+  ],
+  "countries": []
+}

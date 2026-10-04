@@ -1,0 +1,36 @@
+{
+  "ticker": "RYAAY",
+  "qid": "Q170614",
+  "fetchedAt": "2026-10-04T21:45:30.513518Z",
+  "source": "wikidata",
+  "name": "Ryanair",
+  "description": "low-cost airline of Ireland",
+  "website": "https://www.ryanair.com/",
+  "isin": "IE00BYTBXV33",
+  "inception": "1985-01-01",
+  "employees": 13000,
+  "industry": null,
+  "headquarters": "Dublin Airport",
+  "executives": [
+    {
+      "name": "Eddie Wilson",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "David Bonderman",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Tony Ryan",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Tony Ryan"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

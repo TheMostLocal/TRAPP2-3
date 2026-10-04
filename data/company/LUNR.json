@@ -1,0 +1,27 @@
+{
+  "ticker": "LUNR",
+  "qid": "Q60760151",
+  "fetchedAt": "2026-10-04T21:34:14.682872Z",
+  "source": "wikidata",
+  "name": "Intuitive Machines",
+  "description": "American space products and services company",
+  "website": "https://www.intuitivemachines.com/",
+  "isin": "US46125A1007",
+  "inception": "2013-01-01",
+  "employees": null,
+  "industry": "space-based economy",
+  "headquarters": "Houston",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Kam Ghaffarian"
+    }
+  ],
+  "products": [
+    {
+      "name": "Nova-C"
+    }
+  ],
+  "countries": []
+}

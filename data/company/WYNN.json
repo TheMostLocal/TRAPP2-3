@@ -1,0 +1,27 @@
+{
+  "ticker": "WYNN",
+  "qid": "Q2274089",
+  "fetchedAt": "2026-10-04T21:53:04.301193Z",
+  "source": "wikidata",
+  "name": "Wynn Resorts",
+  "description": "American gaming, hospitality and entertainment company",
+  "website": "https://www.wynnresorts.com/",
+  "isin": "US9831341071",
+  "inception": "2002-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Las Vegas",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Steve Wynn"
+    }
+  ],
+  "products": [
+    {
+      "name": "casino"
+    }
+  ],
+  "countries": []
+}

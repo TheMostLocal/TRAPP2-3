@@ -1,0 +1,26 @@
+{
+  "ticker": "W",
+  "qid": "Q565",
+  "fetchedAt": "2026-10-04T21:51:26.338495Z",
+  "source": "wikidata",
+  "name": "Wikimedia Commons",
+  "description": "online repository of free-use image, audio, and other media files",
+  "website": "https://commons.wikimedia.org/",
+  "isin": null,
+  "inception": "2004-09-07",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Erik M\u00f6ller"
+    },
+    {
+      "name": "Jimmy Wales"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

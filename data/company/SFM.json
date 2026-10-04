@@ -1,0 +1,24 @@
+{
+  "ticker": "SFM",
+  "qid": "Q913672",
+  "fetchedAt": "2026-10-04T21:47:02.181601Z",
+  "source": "wikidata",
+  "name": "San Francisco Museum of Modern Art",
+  "description": "modern art museum in San Francisco, California, USA",
+  "website": "https://www.sfmoma.org",
+  "isin": null,
+  "inception": "1935-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "San Francisco",
+  "executives": [
+    {
+      "name": "Robert J. Fisher",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

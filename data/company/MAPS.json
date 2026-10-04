@@ -1,0 +1,29 @@
+{
+  "ticker": "MAPS",
+  "qid": "Q11869662",
+  "fetchedAt": "2026-10-04T21:35:00.247100Z",
+  "source": "wikidata",
+  "name": "MapSite",
+  "description": "public map service provided by the National Land Survey of Finland",
+  "website": "https://asiointi.maanmittauslaitos.fi/karttapaikka/",
+  "isin": null,
+  "inception": null,
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "Finland 50k"
+    },
+    {
+      "name": "internet map service"
+    },
+    {
+      "name": "open geodata"
+    }
+  ],
+  "countries": []
+}

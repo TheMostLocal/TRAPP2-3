@@ -1,0 +1,27 @@
+{
+  "ticker": "TWG",
+  "qid": "Q16966589",
+  "fetchedAt": "2026-10-04T21:49:58.801185Z",
+  "source": "wikidata",
+  "name": "TWG Tea",
+  "description": "tea brand established in Singapore",
+  "website": "https://www.twgtea.com",
+  "isin": null,
+  "inception": "2008-01-01",
+  "employees": null,
+  "industry": "retail",
+  "headquarters": "Singapore",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "tea"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Singapore"
+    }
+  ]
+}

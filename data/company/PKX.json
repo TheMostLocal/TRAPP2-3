@@ -1,0 +1,23 @@
+{
+  "ticker": "PKX",
+  "qid": "Q483946",
+  "fetchedAt": "2026-10-04T21:42:23.339275Z",
+  "source": "wikidata",
+  "name": "POSCO",
+  "description": "company, from Pohang, South Korea; with New York Exchange -listed share (PKX)",
+  "website": "http://www.posco.com",
+  "isin": "US6934831099",
+  "inception": "1968-04-01",
+  "employees": 37225,
+  "industry": "iron and steel industry",
+  "headquarters": "Pohang",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Park Tae-joon"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

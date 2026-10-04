@@ -1,0 +1,23 @@
+{
+  "ticker": "LNG",
+  "qid": "Q27926500",
+  "fetchedAt": "2026-10-04T21:33:25.258139Z",
+  "source": "wikidata",
+  "name": "Cheniere Energy",
+  "description": "American liquified natural gas company",
+  "website": "http://www.cheniere.com",
+  "isin": "US16411R2085",
+  "inception": "1996-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Houston",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "liquefied natural gas"
+    }
+  ],
+  "countries": []
+}

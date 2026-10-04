@@ -1,0 +1,23 @@
+{
+  "ticker": "LOVE",
+  "qid": "Q6690181",
+  "fetchedAt": "2026-10-04T21:33:41.327791Z",
+  "source": "wikidata",
+  "name": "LoveSac",
+  "description": "American furniture retailer",
+  "website": "https://www.lovesac.com",
+  "isin": null,
+  "inception": "1995-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Stamford",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Shawn David Nelson"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

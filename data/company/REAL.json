@@ -1,0 +1,23 @@
+{
+  "ticker": "REAL",
+  "qid": "Q1322403",
+  "fetchedAt": "2026-10-04T21:44:30.766833Z",
+  "source": "wikidata",
+  "name": "Royal Academy of Fine Arts of San Fernando",
+  "description": "Spanish art school, museum and gallery in Madrid, Spain",
+  "website": "http://www.realacademiabellasartessanfernando.com/",
+  "isin": null,
+  "inception": "1752-04-12",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Palace of Goyeneche",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Ferdinand VI of Spain"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

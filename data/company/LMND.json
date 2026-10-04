@@ -1,0 +1,30 @@
+{
+  "ticker": "LMND",
+  "qid": "Q37019245",
+  "fetchedAt": "2026-10-04T21:33:10.507721Z",
+  "source": "wikidata",
+  "name": "Lemonade",
+  "description": "Insurance company offering renters and homeowners insurance policies for homes, apartments, co-ops and condos",
+  "website": "https://www.lemonade.com/",
+  "isin": "US52567D1072",
+  "inception": "2015-01-01",
+  "employees": null,
+  "industry": "insurance",
+  "headquarters": "New York City",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Daniel Schreiber"
+    },
+    {
+      "name": "Shai Wininger"
+    }
+  ],
+  "products": [
+    {
+      "name": "home insurance"
+    }
+  ],
+  "countries": []
+}

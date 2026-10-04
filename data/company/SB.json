@@ -1,0 +1,27 @@
+{
+  "ticker": "SB",
+  "qid": "Q947354",
+  "fetchedAt": "2026-10-04T21:46:50.546136Z",
+  "source": "wikidata",
+  "name": "Shaw Brothers Studio",
+  "description": "film production company in Hong Kong",
+  "website": "http://www.shawbrothers.hk",
+  "isin": null,
+  "inception": "1958-12-27",
+  "employees": null,
+  "industry": "film production",
+  "headquarters": "Hong Kong",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Run Run Shaw"
+    }
+  ],
+  "products": [
+    {
+      "name": "film"
+    }
+  ],
+  "countries": []
+}

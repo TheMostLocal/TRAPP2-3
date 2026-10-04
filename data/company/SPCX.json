@@ -1,0 +1,88 @@
+{
+  "ticker": "SPCX",
+  "qid": "Q193701",
+  "fetchedAt": "2026-10-04T21:48:27.270587Z",
+  "source": "wikidata",
+  "name": "SpaceX",
+  "description": "American spaceflight and AI company",
+  "website": "https://spacex.com",
+  "isin": "US84615Q1031",
+  "inception": "2002-03-14",
+  "employees": 22000,
+  "industry": "space industry",
+  "headquarters": "Starbase",
+  "executives": [
+    {
+      "name": "Elon Musk",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [
+    {
+      "name": "Steve Jurvetson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Luke Nosek",
+      "role": "Board Member"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bret Johnsen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "role": "Board Member"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Elon Musk"
+    }
+  ],
+  "products": [
+    {
+      "name": "Raptor"
+    },
+    {
+      "name": "Falcon"
+    },
+    {
+      "name": "Kestrel"
+    },
+    {
+      "name": "Dragon"
+    },
+    {
+      "name": "Merlin"
+    },
+    {
+      "name": "SpaceX Draco"
+    },
+    {
+      "name": "Octagrabber"
+    },
+    {
+      "name": "Starhopper"
+    },
+    {
+      "name": "autonomous spaceport drone ship"
+    },
+    {
+      "name": "SuperDraco"
+    }
+  ],
+  "countries": []
+}

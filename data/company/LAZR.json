@@ -1,0 +1,28 @@
+{
+  "ticker": "LAZR",
+  "qid": "Q106240666",
+  "fetchedAt": "2026-10-04T21:32:29.860124Z",
+  "source": "wikidata",
+  "name": "Luminar Technologies",
+  "description": "U.S. company specializing in lidar autonomous driving technology",
+  "website": "https://www.luminartech.com/",
+  "isin": "US5504243032",
+  "inception": "2011-01-01",
+  "employees": null,
+  "industry": "automotive industry",
+  "headquarters": "Orlando",
+  "executives": [
+    {
+      "name": "Austin Russell",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Austin Russell"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

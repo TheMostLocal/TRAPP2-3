@@ -1,0 +1,23 @@
+{
+  "ticker": "VITL",
+  "qid": "Q126870010",
+  "fetchedAt": "2026-10-04T21:51:10.654511Z",
+  "source": "wikidata",
+  "name": "Vital Farms",
+  "description": "American egg and butter brand",
+  "website": "https://vitalfarms.com/",
+  "isin": "US92847W1036",
+  "inception": "2007-01-01",
+  "employees": null,
+  "industry": "food industry",
+  "headquarters": "Austin",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "egg as food"
+    }
+  ],
+  "countries": []
+}

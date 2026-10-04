@@ -1,0 +1,50 @@
+{
+  "ticker": "MSTR",
+  "qid": "Q1192211",
+  "fetchedAt": "2026-10-04T21:36:10.694486Z",
+  "source": "wikidata",
+  "name": "Strategy",
+  "description": "American technology company",
+  "website": "https://www.microstrategy.com/",
+  "isin": "US5949724083",
+  "inception": "1989-01-01",
+  "employees": 1539,
+  "industry": "software industry",
+  "headquarters": "Tysons",
+  "executives": [
+    {
+      "name": "Michael J. Saylor",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Sanju Bansal"
+    },
+    {
+      "name": "Michael J. Saylor"
+    }
+  ],
+  "products": [
+    {
+      "name": "data analysis software"
+    },
+    {
+      "name": "business intelligence software"
+    },
+    {
+      "name": "mobile app"
+    },
+    {
+      "name": "computer program"
+    },
+    {
+      "name": "application software"
+    },
+    {
+      "name": "software"
+    }
+  ],
+  "countries": []
+}

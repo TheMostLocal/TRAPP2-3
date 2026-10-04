@@ -1,0 +1,26 @@
+{
+  "ticker": "MGM",
+  "qid": "Q179200",
+  "fetchedAt": "2026-10-04T21:35:23.137330Z",
+  "source": "wikidata",
+  "name": "Metro-Goldwyn-Mayer",
+  "description": "American film and television and distribution company",
+  "website": "https://mgm.com/",
+  "isin": null,
+  "inception": "1924-04-17",
+  "employees": null,
+  "industry": "film production",
+  "headquarters": "Los Angeles",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Marcus Loew"
+    },
+    {
+      "name": "Louis B. Mayer"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

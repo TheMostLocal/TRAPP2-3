@@ -1,0 +1,23 @@
+{
+  "ticker": "RGLD",
+  "qid": "Q7374224",
+  "fetchedAt": "2026-10-04T21:44:45.103777Z",
+  "source": "wikidata",
+  "name": "Royal Gold",
+  "description": "American mining company",
+  "website": "http://www.royalgold.com",
+  "isin": "US7802871084",
+  "inception": "1991-01-01",
+  "employees": null,
+  "industry": "mining",
+  "headquarters": "Denver",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "gold"
+    }
+  ],
+  "countries": []
+}

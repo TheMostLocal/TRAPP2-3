@@ -1,0 +1,23 @@
+{
+  "ticker": "PFPT",
+  "qid": "Q4047452",
+  "fetchedAt": "2026-10-04T21:41:24.580874Z",
+  "source": "wikidata",
+  "name": "Proofpoint, Inc.",
+  "description": "Cybersecurity Firm",
+  "website": "https://www.proofpoint.com/",
+  "isin": null,
+  "inception": "2002-01-01",
+  "employees": null,
+  "industry": "computer security",
+  "headquarters": "Sunnyvale",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "email filtering"
+    }
+  ],
+  "countries": []
+}

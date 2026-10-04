@@ -1,0 +1,36 @@
+{
+  "ticker": "SIRI",
+  "qid": "Q3277465",
+  "fetchedAt": "2026-10-04T21:47:20.568432Z",
+  "source": "wikidata",
+  "name": "Sirius XM Rad",
+  "description": "American broadcasting company headquartered in Midtown Manhattan, New York City",
+  "website": "https://www.siriusxm.com/",
+  "isin": "US82968B1035",
+  "inception": "2008-07-29",
+  "employees": 5515,
+  "industry": "radio broadcasting",
+  "headquarters": "New York City",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Robert Briskman"
+    },
+    {
+      "name": "Martine Rothblatt"
+    },
+    {
+      "name": "David Margolese"
+    }
+  ],
+  "products": [
+    {
+      "name": "satellite radio"
+    },
+    {
+      "name": "internet radio"
+    }
+  ],
+  "countries": []
+}

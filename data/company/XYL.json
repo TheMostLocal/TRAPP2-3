@@ -1,0 +1,32 @@
+{
+  "ticker": "XYL",
+  "qid": "Q3146975",
+  "fetchedAt": "2026-10-04T21:54:04.845794Z",
+  "source": "wikidata",
+  "name": "Xylem Inc.",
+  "description": "large American water technology provider",
+  "website": "http://www.xylem.com",
+  "isin": "US98419M1009",
+  "inception": "2011-01-01",
+  "employees": 17800,
+  "industry": "industrial manufacturing",
+  "headquarters": "White Plains",
+  "executives": [
+    {
+      "name": "Matthew Pine",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Patrick Decker",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Steven Loranger",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

@@ -1,0 +1,58 @@
+{
+  "ticker": "TNA",
+  "qid": "Q131728",
+  "fetchedAt": "2026-10-04T21:49:32.248038Z",
+  "source": "wikidata",
+  "name": "Total Nonstop Action Wrestling",
+  "description": "American professional wrestling promotion",
+  "website": "https://tnawrestling.com/",
+  "isin": null,
+  "inception": "2002-05-10",
+  "employees": null,
+  "industry": "professional wrestling",
+  "headquarters": "Nashville",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Bob Ryder"
+    },
+    {
+      "name": "Jerry Jarrett"
+    },
+    {
+      "name": "Jeff Jarrett"
+    }
+  ],
+  "products": [
+    {
+      "name": "tie-in"
+    },
+    {
+      "name": "pay-per-view"
+    },
+    {
+      "name": "merchandising"
+    },
+    {
+      "name": "publishing"
+    },
+    {
+      "name": "home video"
+    },
+    {
+      "name": "video on demand"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "television"
+    }
+  ],
+  "countries": [
+    {
+      "name": "worldwide"
+    }
+  ]
+}

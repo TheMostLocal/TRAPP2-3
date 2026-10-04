@@ -1,0 +1,47 @@
+{
+  "ticker": "PENN",
+  "qid": "Q49117",
+  "fetchedAt": "2026-10-04T21:41:21.117753Z",
+  "source": "wikidata",
+  "name": "University of Pennsylvania",
+  "description": "private research university in Philadelphia, Pennsylvania, United States",
+  "website": "https://upenn.edu",
+  "isin": null,
+  "inception": "1740-11-14",
+  "employees": 19456,
+  "industry": "higher education",
+  "headquarters": "Philadelphia",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "William Shippen"
+    },
+    {
+      "name": "William Allen"
+    },
+    {
+      "name": "Thomas Lawrence"
+    },
+    {
+      "name": "Tench Francis, Sr."
+    },
+    {
+      "name": "Philip Syng"
+    },
+    {
+      "name": "Benjamin Franklin"
+    },
+    {
+      "name": "James Logan"
+    },
+    {
+      "name": "Phineas Bond"
+    },
+    {
+      "name": "John Inglis"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "MAR",
+  "qid": "Q1141173",
+  "fetchedAt": "2026-10-04T21:35:19.319428Z",
+  "source": "wikidata",
+  "name": "Marriott International",
+  "description": "international hospitality company in Bethesda, Maryland, United States",
+  "website": "https://www.marriott.com.cn/",
+  "isin": "US5719032022",
+  "inception": "1993-10-08",
+  "employees": null,
+  "industry": "tourism industry",
+  "headquarters": "Bethesda",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "J. Willard Marriott"
+    }
+  ],
+  "products": [
+    {
+      "name": "resort"
+    },
+    {
+      "name": "hotel"
+    },
+    {
+      "name": "franchising"
+    }
+  ],
+  "countries": []
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "SYM",
+  "qid": "Q534944",
+  "fetchedAt": "2026-10-04T21:49:14.569667Z",
+  "source": "wikidata",
+  "name": "SYM",
+  "description": "Motorcycle company",
+  "website": "https://tw.sym-global.com/",
+  "isin": null,
+  "inception": "1954-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Hsinchu City",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "motorcycle"
+    }
+  ],
+  "countries": []
+}
