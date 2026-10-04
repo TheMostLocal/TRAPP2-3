@@ -1,14 +1,14 @@
 # ============================================================
-#  >>> DESTINATION: <owner>/TRAPP2-2
+#  >>> DESTINATION: TheMostLocal/TRAPP2-3
 #  >>> FILE PATH:   .github/workflows/intraday.yml
-#  >>> FULL PATH:   <owner>/TRAPP2-2/.github/workflows/intraday.yml
+#  >>> FULL PATH:   TheMostLocal/TRAPP2-3/.github/workflows/intraday.yml
 #
 #  Edit/paste directly on GitHub here:
-#  https://github.com/<owner>/TRAPP2-2/edit/main/.github/workflows/intraday.yml
+#  https://github.com/TheMostLocal/TRAPP2-3/edit/main/.github/workflows/intraday.yml
 #
 #  WHAT CHANGED IN THIS FILE
 #  -------------------------
-#  1. 15-MINUTE CADENCE, STAGGERED ACROSS REPOS. This repo fires at :5,20,35,50
+#  1. 15-MINUTE CADENCE, STAGGERED ACROSS REPOS. This repo fires at :10,25,40,55
 #     past the hour. TRAPP2 :0,15,30,45 · TRAPP2-2 :5,20,35,50 ·
 #     TRAPP2-3 :10,25,40,55 · TRAPP2-1 :3,18,33,48. The fleet therefore pushes
 #     fresh prices to the frontend roughly every ~4 minutes, and no two repos
@@ -38,10 +38,10 @@ on:
     # Pre-market warm-up. GitHub Actions cron is queued, not fired-at-time, and
     # observed lag on the first trigger of the day has been hours — the early
     # runs absorb that so the first REAL quote lands at or near the 9:30 ET bell.
-    - cron: '5,20,35,50 8-12 * * 1-5'
+    - cron: '10,25,40,55 8-12 * * 1-5'
     # Regular + extended session: 13:00-21:59 UTC covers 9:30-16:00 ET in both
     # EDT and EST, plus post-market.
-    - cron: '5,20,35,50 13-21 * * 1-5'
+    - cron: '10,25,40,55 13-21 * * 1-5'
   workflow_dispatch:
     inputs:
       force_tape:
