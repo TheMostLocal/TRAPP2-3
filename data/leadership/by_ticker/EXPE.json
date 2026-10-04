@@ -1,0 +1,133 @@
+{
+  "ticker": "EXPE",
+  "fetchedAt": "2026-10-04T21:35:19.512240Z",
+  "people": [
+    {
+      "qid": "Q115614624",
+      "name": "Ariane Gorin",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q115614624",
+        "name": "Ariane Gorin",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q587455",
+      "name": "Barry Diller",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q587455",
+        "name": "Barry Diller",
+        "dateOfBirth": "1942-02-02",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
+        "occupations": [
+          "business executive",
+          "film producer",
+          "entrepreneur"
+        ],
+        "education": [
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
+        ],
+        "employers": [
+          {
+            "company": "Paramount Pictures",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "American Broadcasting Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "William Morris Agency",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q229671",
+      "name": "Chelsea Clinton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q229671",
+        "name": "Chelsea Clinton",
+        "dateOfBirth": "1980-02-27",
+        "birthPlace": "Little Rock",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
+        "occupations": [
+          "film producer",
+          "children's writer",
+          "journalist",
+          "university teacher",
+          "political scientist",
+          "historian",
+          "writer",
+          "businessperson",
+          "entrepreneur"
+        ],
+        "education": [
+          "Sidwell Friends School",
+          "Robert F. Wagner Graduate School of Public Service",
+          "University College, Oxford",
+          "Stanford University",
+          "Mann Arts and Science Magnet Middle School",
+          "Columbia University Mailman School of Public Health"
+        ],
+        "employers": [
+          {
+            "company": "Expedia Group",
+            "start": "2017-03-01",
+            "end": null
+          },
+          {
+            "company": "Columbia University Mailman School of Public Health",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
+            "start": "2003-01-01",
+            "end": "2006-01-01"
+          },
+          {
+            "company": "Avenue Capital Group",
+            "start": "2006-01-01",
+            "end": null
+          },
+          {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
+          },
+          {
+            "company": "Clinton Foundation",
+            "start": "2011-01-01",
+            "end": null
+          },
+          {
+            "company": "New York University",
+            "start": "2010-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

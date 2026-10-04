@@ -1,0 +1,66 @@
+{
+  "ticker": "CHWY",
+  "fetchedAt": "2026-10-04T21:35:19.510923Z",
+  "people": [
+    {
+      "qid": "Q99691919",
+      "name": "Sumit Singh",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q99691919",
+        "name": "Sumit Singh",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "Booth School of Business",
+          "University of Texas at Austin",
+          "I. K. Gujral Punjab Technical University"
+        ],
+        "employers": [
+          {
+            "company": "Chewy",
+            "start": "2017-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q55114633",
+      "name": "Ryan Cohen",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q55114633",
+        "name": "Ryan Cohen",
+        "dateOfBirth": null,
+        "birthPlace": "Montreal",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Cohen%202019.jpg",
+        "occupations": [
+          "entrepreneur",
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "GameStop",
+            "start": "2021-01-01",
+            "end": null
+          },
+          {
+            "company": "Chewy",
+            "start": "2011-01-01",
+            "end": "2018-01-01"
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

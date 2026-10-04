@@ -1,0 +1,53 @@
+{
+  "qid": "Q3568677",
+  "name": "William Hales Hingston",
+  "dateOfBirth": "1829-06-29",
+  "birthPlace": "Hinchinbrooke",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
+  "occupations": [
+    "surgeon",
+    "banker",
+    "politician",
+    "physician",
+    "writer"
+  ],
+  "education": [
+    "McGill University"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "member of the Senate of Canada",
+      "company": null,
+      "start": "1896-06-23",
+      "end": "1900-11-06"
+    },
+    {
+      "title": "member of the Senate of Canada",
+      "company": null,
+      "start": "1904-11-03",
+      "end": "1907-02-19"
+    },
+    {
+      "title": "member of the Senate of Canada",
+      "company": null,
+      "start": "1900-11-07",
+      "end": "1904-11-02"
+    },
+    {
+      "title": "member of the Senate of Canada",
+      "company": null,
+      "start": "1896-01-02",
+      "end": "1896-06-22"
+    },
+    {
+      "title": "Mayor of Montreal",
+      "company": null,
+      "start": "1875-01-01",
+      "end": "1877-01-01"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}

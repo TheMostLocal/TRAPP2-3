@@ -1,0 +1,28 @@
+{
+  "qid": "Q55114633",
+  "name": "Ryan Cohen",
+  "dateOfBirth": null,
+  "birthPlace": "Montreal",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Cohen%202019.jpg",
+  "occupations": [
+    "entrepreneur",
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "GameStop",
+      "start": "2021-01-01",
+      "end": null
+    },
+    {
+      "company": "Chewy",
+      "start": "2011-01-01",
+      "end": "2018-01-01"
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "CHWY"
+  ]
+}
