@@ -76,8 +76,8 @@ jobs:
               git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
               # Belt-and-suspenders: if a merge is mid-flight, force-resolve to ours.
               if [ -d .git/rebase-merge ] || [ -f .git/MERGE_HEAD ]; then
-                git checkout --ours -- data/ 2>/dev/null || true
-                git add -A data/ 2>/dev/null || true
+                git checkout --ours -- data/leadership/ 2>/dev/null || true
+                git add -A data/leadership/ 2>/dev/null || true
                 git commit --no-edit 2>/dev/null || true
               fi
               sleep 5

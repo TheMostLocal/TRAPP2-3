@@ -1,0 +1,69 @@
+{
+  "_schema": "valuatio-signals-v1",
+  "updatedAt": "2026-10-04T18:37:59.410609Z",
+  "tickerCount": 22,
+  "signals": {
+    "macro": {
+      "raw": null,
+      "confidence": 0.0,
+      "tier": "STALE",
+      "note": {
+        "reason": "insufficient sector data"
+      }
+    },
+    "liquidity": {
+      "raw": null,
+      "confidence": 0.0,
+      "tier": "STALE",
+      "note": {
+        "reason": "no liquidity inputs"
+      }
+    },
+    "volatility": {
+      "raw": null,
+      "confidence": 0.0,
+      "tier": "STALE",
+      "note": {}
+    },
+    "valuation": {
+      "raw": -0.9833536249999999,
+      "confidence": 0.7,
+      "tier": "LIVE",
+      "note": {
+        "spy_pe": 24.87
+      }
+    },
+    "trend": {
+      "raw": null,
+      "confidence": 0.0,
+      "tier": "STALE",
+      "note": {
+        "reason": "insufficient SPY history"
+      }
+    },
+    "breadth": {
+      "raw": null,
+      "confidence": 0.0,
+      "tier": "STALE",
+      "note": {
+        "reason": "insufficient sector data"
+      }
+    },
+    "commodity": {
+      "raw": null,
+      "confidence": 0.0,
+      "tier": "STALE",
+      "note": {
+        "reason": "no commodity data"
+      }
+    },
+    "crypto": {
+      "raw": null,
+      "confidence": 0.0,
+      "tier": "STALE",
+      "note": {
+        "reason": "no crypto data"
+      }
+    }
+  }
+}
