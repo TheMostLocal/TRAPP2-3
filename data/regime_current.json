@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-04",
+  "regime": "neutral",
+  "confidence": 0.7,
+  "scores": {
+    "macro": null,
+    "liquidity": null,
+    "volatility": null,
+    "valuation": -0.983,
+    "trend": null,
+    "breadth": null,
+    "commodity": null,
+    "crypto": null
+  },
+  "signal_confidences": {
+    "macro": 0.0,
+    "liquidity": 0.0,
+    "volatility": 0.0,
+    "valuation": 0.7,
+    "trend": 0.0,
+    "breadth": 0.0,
+    "commodity": 0.0,
+    "crypto": 0.0
+  },
+  "current_probabilities": {
+    "expansion": 0.0997,
+    "risk_on_melt_up": 0.0185,
+    "inflation_shock": 0.0578,
+    "recession_fear": 0.029,
+    "risk_off": 0.0939,
+    "neutral": 0.701
+  },
+  "drivers": [
+    {
+      "signal": "valuation",
+      "score": -0.983,
+      "confidence": 0.7,
+      "weight": 0.688,
+      "direction": "bearish"
+    }
+  ],
+  "signal_notes": {
+    "macro": {
+      "reason": "insufficient sector data"
+    },
+    "liquidity": {
+      "reason": "no liquidity inputs"
+    },
+    "volatility": {},
+    "valuation": {
+      "spy_pe": 24.87
+    },
+    "trend": {
+      "reason": "insufficient SPY history"
+    },
+    "breadth": {
+      "reason": "insufficient sector data"
+    },
+    "commodity": {
+      "reason": "no commodity data"
+    },
+    "crypto": {
+      "reason": "no crypto data"
+    }
+  },
+  "computed_at": "2026-10-04T18:37:59+00:00"
+}
