@@ -1,0 +1,242 @@
+{
+  "generatedAt": "2026-10-04T21:33:18.352990Z",
+  "totalPeople": 23,
+  "totalTickers": 6,
+  "lastRangeFilter": "H-M",
+  "thisRunPeople": 23,
+  "thisRunTickers": 28,
+  "index": [
+    {
+      "qid": "Q4457610",
+      "name": "Jean-Fran\u00e7ois van Boxmeer",
+      "slug": "jean-fran-ois-van-boxmeer",
+      "tickers": [
+        "HEIA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q321149",
+      "name": "Freddy Heineken",
+      "slug": "freddy-heineken",
+      "tickers": [
+        "HEIA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q2409479",
+      "name": "Gerard Adriaan Heineken",
+      "slug": "gerard-adriaan-heineken",
+      "tickers": [
+        "HEIA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q73185799",
+      "name": "Enrique Lores",
+      "slug": "enrique-lores",
+      "tickers": [
+        "HP",
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q24572527",
+      "name": "Stacy Brown-Philpot",
+      "slug": "stacy-brown-philpot",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q22003518",
+      "name": "Stephanie A. Burns",
+      "slug": "stephanie-a-burns",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q21552573",
+      "name": "Rick Clemmer",
+      "slug": "rick-clemmer",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q18379146",
+      "name": "Bruce Broussard",
+      "slug": "bruce-broussard",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7349086",
+      "name": "Robert Bennett",
+      "slug": "robert-bennett",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6146371",
+      "name": "Jami Miscik",
+      "slug": "jami-miscik",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q4833246",
+      "name": "A\u00edda \u00c1lvarez",
+      "slug": "a-da-lvarez",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114601101",
+      "name": "Mary Anne Citrino",
+      "slug": "mary-anne-citrino",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114600699",
+      "name": "Chip Bergh",
+      "slug": "chip-bergh",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109733314",
+      "name": "Shumeet Banerji",
+      "slug": "shumeet-banerji",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109633973",
+      "name": "Kim Rucker",
+      "slug": "kim-rucker",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q68711545",
+      "name": "Subra Suresh",
+      "slug": "subra-suresh",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q380484",
+      "name": "David Packard",
+      "slug": "david-packard",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q6377142",
+      "name": "Kathryn V. Marinello",
+      "slug": "kathryn-v-marinello",
+      "tickers": [
+        "HTZ",
+        "HTZ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q108403653",
+      "name": "Daniel A. Ninivaggi",
+      "slug": "daniel-a-ninivaggi",
+      "tickers": [
+        "HTZ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q118088909",
+      "name": "Joanna Geraghty",
+      "slug": "joanna-geraghty",
+      "tickers": [
+        "JBLU"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q7323856",
+      "name": "Richard B. Handler",
+      "slug": "richard-b-handler",
+      "tickers": [
+        "JEF"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q31099193",
+      "name": "Rami Rahim",
+      "slug": "rami-rahim",
+      "tickers": [
+        "JNPR"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7237441",
+      "name": "Pradeep Sindhu",
+      "slug": "pradeep-sindhu",
+      "tickers": [
+        "JNPR"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    }
+  ]
+}

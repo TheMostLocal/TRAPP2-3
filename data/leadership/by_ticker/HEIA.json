@@ -1,0 +1,112 @@
+{
+  "ticker": "HEIA",
+  "fetchedAt": "2026-10-04T21:33:18.347027Z",
+  "people": [
+    {
+      "qid": "Q4457610",
+      "name": "Jean-Fran\u00e7ois van Boxmeer",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q4457610",
+        "name": "Jean-Fran\u00e7ois van Boxmeer",
+        "dateOfBirth": "1961-09-10",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "University of Namur"
+        ],
+        "employers": [
+          {
+            "company": "Mondelez International",
+            "start": "2010-01-01",
+            "end": null
+          },
+          {
+            "company": "Vodafone",
+            "start": "2020-01-01",
+            "end": null
+          },
+          {
+            "company": "Heineken International",
+            "start": "2005-01-01",
+            "end": "2020-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q321149",
+      "name": "Freddy Heineken",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q321149",
+        "name": "Freddy Heineken",
+        "dateOfBirth": "1923-11-04",
+        "birthPlace": "Amsterdam",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Freddy%20Heineken%201987.jpg",
+        "occupations": [
+          "stockbroker",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Heineken International",
+            "start": "1941-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2409479",
+      "name": "Gerard Adriaan Heineken",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q2409479",
+        "name": "Gerard Adriaan Heineken",
+        "dateOfBirth": "1841-09-28",
+        "birthPlace": "Amsterdam",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Adriaan%20Heineken.jpg",
+        "occupations": [
+          "collector",
+          "brewer",
+          "merchant",
+          "entrepreneur"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Heineken International",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}
