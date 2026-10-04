@@ -1,0 +1,25 @@
+{
+  "qid": "Q130241022",
+  "name": "Lars H. Barstad",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [
+    "BI Norwegian Business School"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2020-10-01",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "FRO"
+  ]
+}

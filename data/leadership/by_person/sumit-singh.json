@@ -1,0 +1,26 @@
+{
+  "qid": "Q99691919",
+  "name": "Sumit Singh",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "chief executive officer"
+  ],
+  "education": [
+    "Booth School of Business",
+    "University of Texas at Austin",
+    "I. K. Gujral Punjab Technical University"
+  ],
+  "employers": [
+    {
+      "company": "Chewy",
+      "start": "2017-01-01",
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "CHWY"
+  ]
+}

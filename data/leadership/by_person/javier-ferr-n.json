@@ -1,0 +1,47 @@
+{
+  "qid": "Q6165504",
+  "name": "Javier Ferr\u00e1n",
+  "dateOfBirth": "1956-01-01",
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "ESADE Business School",
+    "University of Miami",
+    "ESADE",
+    "University of Barcelona"
+  ],
+  "employers": [
+    {
+      "company": "Desigual",
+      "start": "2014-01-01",
+      "end": "2017-01-01"
+    },
+    {
+      "company": "BlackRock",
+      "start": "2019-01-01",
+      "end": null
+    },
+    {
+      "company": "Diageo",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "company": "Bacardi",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Lion Capital LLP",
+      "start": null,
+      "end": "2019-01-01"
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "DEO"
+  ]
+}

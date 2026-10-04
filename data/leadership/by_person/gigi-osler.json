@@ -1,0 +1,33 @@
+{
+  "qid": "Q61645235",
+  "name": "Gigi Osler",
+  "dateOfBirth": "1968-09-09",
+  "birthPlace": "Winnipeg",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
+  "occupations": [
+    "university teacher",
+    "surgeon",
+    "physician"
+  ],
+  "education": [
+    "University of Manitoba"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "member of the Senate of Canada",
+      "company": null,
+      "start": "2025-04-28",
+      "end": null
+    },
+    {
+      "title": "member of the Senate of Canada",
+      "company": null,
+      "start": "2022-09-26",
+      "end": "2025-04-27"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ticker": "DLTR",
+  "fetchedAt": "2026-10-04T21:35:19.511746Z",
+  "people": [
+    {
+      "qid": "Q123520943",
+      "name": "Macon Foscue Brock, Jr.",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q123520943",
+        "name": "Macon Foscue Brock, Jr.",
+        "dateOfBirth": "1942-04-11",
+        "birthPlace": "Norfolk",
+        "image": null,
+        "occupations": [
+          "philanthropist",
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Dollar Tree",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q123520943",
+      "name": "Macon Foscue Brock, Jr.",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q123520943",
+        "name": "Macon Foscue Brock, Jr.",
+        "dateOfBirth": "1942-04-11",
+        "birthPlace": "Norfolk",
+        "image": null,
+        "occupations": [
+          "philanthropist",
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Dollar Tree",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

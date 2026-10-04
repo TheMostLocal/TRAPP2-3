@@ -1,0 +1,28 @@
+{
+  "qid": "Q28047859",
+  "name": "Chris Simpson",
+  "dateOfBirth": "1967-01-01",
+  "birthPlace": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CS%20photo.jpg",
+  "occupations": [
+    "cardiologist"
+  ],
+  "education": [
+    "University of New Brunswick",
+    "Dalhousie University",
+    "Nackawic Senior High School",
+    "Queen's University"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "president",
+      "company": null,
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    }
+  ],
+  "currentTickers": [
+    "CMA"
+  ]
+}
