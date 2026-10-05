@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-05T11:19:35.251884Z",
+  "fetchedAt": "2026-10-05T14:23:03.794645Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -72,14 +72,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
           "children's writer",
-          "political scientist",
           "film producer",
           "journalist",
           "university teacher",
           "historian",
-          "entrepreneur",
+          "political scientist",
           "businessperson",
-          "writer"
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "Sidwell Friends School",

@@ -1,6 +1,6 @@
 {
   "ticker": "JBLU",
-  "fetchedAt": "2026-10-05T12:01:27.936064Z",
+  "fetchedAt": "2026-10-05T14:19:06.023885Z",
   "people": [
     {
       "qid": "Q118088909",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joanna%20Geraghty%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "businessperson",
           "lawyer",
+          "businessperson",
           "airline executive"
         ],
         "education": [
