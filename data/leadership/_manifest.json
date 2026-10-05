@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T13:08:39.489673Z",
-  "totalPeople": 139,
+  "generatedAt": "2026-10-05T14:24:35.795083Z",
+  "totalPeople": 140,
   "totalTickers": 42,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 51,
-  "thisRunTickers": 109,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 59,
+  "thisRunTickers": 85,
   "index": [
     {
       "qid": "Q370191",
@@ -1408,6 +1408,16 @@
       ],
       "positionsCount": 2,
       "employersCount": 0
+    },
+    {
+      "qid": "Q137910641",
+      "name": "Eddie Wilson",
+      "slug": "eddie-wilson",
+      "tickers": [
+        "RYAAY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
     }
   ]
 }

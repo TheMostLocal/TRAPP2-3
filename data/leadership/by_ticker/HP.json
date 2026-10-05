@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-10-05T12:01:27.933032Z",
+  "fetchedAt": "2026-10-05T14:19:06.020917Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -204,8 +204,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -358,9 +358,9 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
+          "entrepreneur",
           "computer scientist",
-          "engineer",
-          "entrepreneur"
+          "engineer"
         ],
         "education": [
           "Stanford University",
