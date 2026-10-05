@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-04T21:35:19.512240Z",
+  "fetchedAt": "2026-10-05T11:19:35.251884Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -31,13 +31,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "business executive",
           "film producer",
+          "business executive",
           "entrepreneur"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -71,15 +71,15 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "film producer",
           "children's writer",
+          "political scientist",
+          "film producer",
           "journalist",
           "university teacher",
-          "political scientist",
           "historian",
-          "writer",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
           "Sidwell Friends School",
@@ -101,6 +101,11 @@
             "end": null
           },
           {
+            "company": "Clinton Foundation",
+            "start": "2011-01-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "2003-01-01",
             "end": "2006-01-01"
@@ -114,11 +119,6 @@
             "company": "NBC",
             "start": "2011-11-01",
             "end": "2014-08-01"
-          },
-          {
-            "company": "Clinton Foundation",
-            "start": "2011-01-01",
-            "end": null
           },
           {
             "company": "New York University",

@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-10-04T21:35:19.511028Z",
+  "fetchedAt": "2026-10-05T11:19:35.246210Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -233,8 +233,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -262,8 +262,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "pathologist",
-          "physician"
+          "physician",
+          "pathologist"
         ],
         "education": [
           "University of Toronto"
@@ -389,8 +389,8 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "surgeon",
           "banker",
+          "surgeon",
           "politician",
           "physician",
           "writer"
@@ -445,8 +445,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -504,9 +504,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
           "polo player",
-          "military officer",
           "naval officer",
-          "prince consort"
+          "prince consort",
+          "military officer"
         ],
         "education": [
           "Cheam School",
@@ -694,11 +694,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "university teacher",
           "surgeon",
+          "physician",
+          "university teacher",
           "dean",
-          "politician",
-          "physician"
+          "politician"
         ],
         "education": [
           "Nova Scotia Teachers College",

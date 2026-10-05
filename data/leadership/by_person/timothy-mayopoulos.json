@@ -5,18 +5,28 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "entrepreneur",
-    "lawyer"
+    "lawyer",
+    "entrepreneur"
   ],
   "education": [
-    "New York University School of Law",
-    "Cornell University"
+    "Cornell University",
+    "New York University School of Law"
   ],
   "employers": [
     {
       "company": "Bank of America",
       "start": "2004-01-01",
       "end": "2009-01-01"
+    },
+    {
+      "company": "Credit Suisse",
+      "start": "2000-01-01",
+      "end": "2001-01-01"
+    },
+    {
+      "company": "Deutsche Bank",
+      "start": "2002-01-01",
+      "end": "2004-01-01"
     },
     {
       "company": "Fannie Mae",
@@ -32,16 +42,6 @@
       "company": "Fannie Mae",
       "start": "2012-01-01",
       "end": "2018-01-01"
-    },
-    {
-      "company": "Credit Suisse",
-      "start": "2000-01-01",
-      "end": "2001-01-01"
-    },
-    {
-      "company": "Deutsche Bank",
-      "start": "2002-01-01",
-      "end": "2004-01-01"
     },
     {
       "company": "Silicon Valley Bridge Bank",

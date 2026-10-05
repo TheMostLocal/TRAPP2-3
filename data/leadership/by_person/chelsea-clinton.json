@@ -5,15 +5,15 @@
   "birthPlace": "Little Rock",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
   "occupations": [
-    "film producer",
     "children's writer",
+    "political scientist",
+    "film producer",
     "journalist",
     "university teacher",
-    "political scientist",
     "historian",
-    "writer",
+    "entrepreneur",
     "businessperson",
-    "entrepreneur"
+    "writer"
   ],
   "education": [
     "Sidwell Friends School",
@@ -35,6 +35,11 @@
       "end": null
     },
     {
+      "company": "Clinton Foundation",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
       "company": "McKinsey & Company",
       "start": "2003-01-01",
       "end": "2006-01-01"
@@ -48,11 +53,6 @@
       "company": "NBC",
       "start": "2011-11-01",
       "end": "2014-08-01"
-    },
-    {
-      "company": "Clinton Foundation",
-      "start": "2011-01-01",
-      "end": null
     },
     {
       "company": "New York University",

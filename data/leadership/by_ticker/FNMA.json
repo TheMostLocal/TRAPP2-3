@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-10-04T21:35:19.512437Z",
+  "fetchedAt": "2026-10-05T11:19:35.252967Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,18 +14,28 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
-          "New York University School of Law",
-          "Cornell University"
+          "Cornell University",
+          "New York University School of Law"
         ],
         "employers": [
           {
             "company": "Bank of America",
             "start": "2004-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -41,16 +51,6 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
           },
           {
             "company": "Silicon Valley Bridge Bank",
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Cranfield School of Management",
@@ -170,13 +170,13 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
-          "university teacher"
+          "university teacher",
+          "economist"
         ],
         "education": [
-          "University of Oxford",
+          "University of Manchester",
           "Massachusetts Institute of Technology",
-          "University of Manchester"
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -218,10 +218,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "businessperson",
-          "lawyer",
           "economist",
-          "politician"
+          "politician",
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "University of Kansas",
@@ -264,9 +264,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
           "University of California, Los Angeles",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Wheaton College"
+          "Wheaton College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -334,8 +334,8 @@
           "economist"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Stanford University",
+          "John F. Kennedy School of Government",
           "University of Oxford"
         ],
         "employers": [],
@@ -476,9 +476,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "jurist",
           "university teacher",
-          "law professor"
+          "law professor",
+          "jurist"
         ],
         "education": [],
         "employers": [],
