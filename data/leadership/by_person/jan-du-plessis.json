@@ -1,0 +1,42 @@
+{
+  "qid": "Q1682415",
+  "name": "Jan du Plessis",
+  "dateOfBirth": "1954-01-22",
+  "birthPlace": "Cape Town",
+  "image": null,
+  "occupations": [
+    "manager",
+    "entrepreneur"
+  ],
+  "education": [
+    "Stellenbosch University"
+  ],
+  "employers": [
+    {
+      "company": "Lloyds Bank",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Rio Tinto Group",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "BT Group",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "president",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "RIO"
+  ]
+}

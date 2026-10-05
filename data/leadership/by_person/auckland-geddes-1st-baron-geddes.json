@@ -1,0 +1,88 @@
+{
+  "qid": "Q337671",
+  "name": "Auckland Geddes, 1st Baron Geddes",
+  "dateOfBirth": "1879-06-21",
+  "birthPlace": "London",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
+  "occupations": [
+    "anatomist",
+    "diplomat",
+    "politician",
+    "military officer",
+    "physician"
+  ],
+  "education": [
+    "University of Edinburgh",
+    "George Watson's College"
+  ],
+  "employers": [
+    {
+      "company": "McGill University",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Foreign Office",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "University of Edinburgh",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "ambassador of the United Kingdom to the United States",
+      "company": null,
+      "start": "1922-01-01",
+      "end": "1924-01-01"
+    },
+    {
+      "title": "Member of the Privy Council of the United Kingdom",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "President of the Local Government Board",
+      "company": null,
+      "start": "1918-01-01",
+      "end": "1919-01-01"
+    },
+    {
+      "title": "ambassador of the United Kingdom of Great Britain and Ireland to the United States",
+      "company": null,
+      "start": "1920-01-01",
+      "end": "1922-01-01"
+    },
+    {
+      "title": "Minister of Reconstruction",
+      "company": null,
+      "start": "1919-01-01",
+      "end": "1919-01-01"
+    },
+    {
+      "title": "member of the 31st Parliament of the United Kingdom",
+      "company": null,
+      "start": "1918-12-14",
+      "end": "1920-03-15"
+    },
+    {
+      "title": "President of the Board of Trade",
+      "company": null,
+      "start": "1919-05-26",
+      "end": "1920-03-19"
+    },
+    {
+      "title": "member of the 30th Parliament of the United Kingdom",
+      "company": null,
+      "start": "1917-10-25",
+      "end": "1918-11-25"
+    }
+  ],
+  "currentTickers": [
+    "RIO"
+  ]
+}

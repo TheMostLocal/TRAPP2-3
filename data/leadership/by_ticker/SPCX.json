@@ -1,0 +1,583 @@
+{
+  "ticker": "SPCX",
+  "fetchedAt": "2026-10-05T13:08:39.481790Z",
+  "people": [
+    {
+      "qid": "Q317521",
+      "name": "Elon Musk",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q317521",
+        "name": "Elon Musk",
+        "dateOfBirth": "1971-06-28",
+        "birthPlace": "Pretoria",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
+        "occupations": [
+          "programmer",
+          "financier",
+          "investor",
+          "civil servant",
+          "philanthropist",
+          "dub actor",
+          "technology entrepreneur",
+          "inventor",
+          "entrepreneur",
+          "engineer",
+          "politician"
+        ],
+        "education": [
+          "Smith School of Business",
+          "Bryanston High School",
+          "Waterkloof House Preparatory School",
+          "Pretoria Boys High School",
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "OpenAI",
+            "start": "2015-12-11",
+            "end": "2019-01-01"
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "title": "co-president",
+            "company": null,
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2008-01-01",
+            "end": "2018-11-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2008-10-01",
+            "end": null
+          },
+          {
+            "title": "Senior Advisor to the President of the United States",
+            "company": null,
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2022-10-28",
+            "end": "2023-06-05"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q9079904",
+      "name": "Steve Jurvetson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q9079904",
+        "name": "Steve Jurvetson",
+        "dateOfBirth": "1967-03-01",
+        "birthPlace": "Arizona",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
+        "occupations": [
+          "business executive",
+          "philanthropist",
+          "businessperson"
+        ],
+        "education": [
+          "St. Mark's School of Texas",
+          "Stanford Graduate School of Business",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Draper Fisher Jurvetson",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6702205",
+      "name": "Luke Nosek",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6702205",
+        "name": "Luke Nosek",
+        "dateOfBirth": "1975-01-01",
+        "birthPlace": "Tarn\u00f3w",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Graphing%20Social%20Patterns%2007%20-%20IMG%209586%20%281527725262%29.jpg",
+        "occupations": [
+          "engineer"
+        ],
+        "education": [
+          "University of Illinois Urbana-Champaign"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1557944",
+      "name": "Gwynne Shotwell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1557944",
+        "name": "Gwynne Shotwell",
+        "dateOfBirth": "1963-11-23",
+        "birthPlace": "Evanston",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwynne%20Shotwell%20at%20pre-launch%20briefing%20for%20CRS-2%20mission%20%28KSC-2013-1704%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson",
+          "military flight engineer"
+        ],
+        "education": [
+          "Robert R. McCormick School of Engineering and Applied Science",
+          "Libertyville High School"
+        ],
+        "employers": [
+          {
+            "company": "Chrysler",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Microcosm",
+            "start": "1998-01-01",
+            "end": "2002-01-01"
+          },
+          {
+            "company": "The Aerospace Corporation",
+            "start": "1988-01-01",
+            "end": "1998-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "2008-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q132533440",
+      "name": "Bret Johnsen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q132533440",
+        "name": "Bret Johnsen",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "SpaceX",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Mindspeed Technologies",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Broadcom",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q111928349",
+      "name": "Antonio Gracias",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q111928349",
+        "name": "Antonio Gracias",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Chicago Law School",
+          "Waseda University",
+          "Georgetown University in Qatar"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q104626485",
+      "name": "Ira Ehrenpreis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q104626485",
+        "name": "Ira Ehrenpreis",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "venture capitalist"
+        ],
+        "education": [
+          "Stanford Law School",
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-01-01",
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2015-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q317521",
+      "name": "Elon Musk",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q317521",
+        "name": "Elon Musk",
+        "dateOfBirth": "1971-06-28",
+        "birthPlace": "Pretoria",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
+        "occupations": [
+          "programmer",
+          "financier",
+          "investor",
+          "civil servant",
+          "philanthropist",
+          "dub actor",
+          "technology entrepreneur",
+          "inventor",
+          "entrepreneur",
+          "engineer",
+          "politician"
+        ],
+        "education": [
+          "Smith School of Business",
+          "Bryanston High School",
+          "Waterkloof House Preparatory School",
+          "Pretoria Boys High School",
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "OpenAI",
+            "start": "2015-12-11",
+            "end": "2019-01-01"
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "title": "co-president",
+            "company": null,
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2008-01-01",
+            "end": "2018-11-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2008-10-01",
+            "end": null
+          },
+          {
+            "title": "Senior Advisor to the President of the United States",
+            "company": null,
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2022-10-28",
+            "end": "2023-06-05"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q317521",
+      "name": "Elon Musk",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q317521",
+        "name": "Elon Musk",
+        "dateOfBirth": "1971-06-28",
+        "birthPlace": "Pretoria",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
+        "occupations": [
+          "programmer",
+          "financier",
+          "investor",
+          "civil servant",
+          "philanthropist",
+          "dub actor",
+          "technology entrepreneur",
+          "inventor",
+          "entrepreneur",
+          "engineer",
+          "politician"
+        ],
+        "education": [
+          "Smith School of Business",
+          "Bryanston High School",
+          "Waterkloof House Preparatory School",
+          "Pretoria Boys High School",
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "OpenAI",
+            "start": "2015-12-11",
+            "end": "2019-01-01"
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "title": "co-president",
+            "company": null,
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2008-01-01",
+            "end": "2018-11-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2008-10-01",
+            "end": null
+          },
+          {
+            "title": "Senior Advisor to the President of the United States",
+            "company": null,
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2022-10-28",
+            "end": "2023-06-05"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "qid": "Q6914927",
+  "name": "Morton O. Schapiro",
+  "dateOfBirth": "1953-07-13",
+  "birthPlace": "Newark",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Morton%20Schapiro%2C%20Meet%20Northwestern%E2%80%99s%20New%20President.jpg",
+  "occupations": [
+    "university teacher",
+    "economist"
+  ],
+  "education": [
+    "University of Pennsylvania",
+    "Hofstra University"
+  ],
+  "employers": [
+    {
+      "company": "Northwestern University",
+      "start": "2009-01-01",
+      "end": "2022-01-01"
+    },
+    {
+      "company": "Williams College",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "NU"
+  ]
+}

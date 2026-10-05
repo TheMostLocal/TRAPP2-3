@@ -1,0 +1,60 @@
+{
+  "ticker": "RACE",
+  "fetchedAt": "2026-10-05T13:08:39.479716Z",
+  "people": [
+    {
+      "qid": "Q5930408",
+      "name": "Jes\u00fas Mar\u00eda Sanz-Serna",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5930408",
+        "name": "Jes\u00fas Mar\u00eda Sanz-Serna",
+        "dateOfBirth": "1953-06-12",
+        "birthPlace": "Valladolid",
+        "image": null,
+        "occupations": [
+          "mathematician",
+          "university teacher"
+        ],
+        "education": [
+          "Colegio de San Jos\u00e9, Valladolid",
+          "University of Dundee",
+          "University of Valladolid"
+        ],
+        "employers": [
+          {
+            "company": "Universidad Carlos III de Madrid",
+            "start": "2014-09-01",
+            "end": null
+          },
+          {
+            "company": "University of Valladolid",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Member of the Royal Academy of Exact, Physical and Natural Sciences",
+            "company": null,
+            "start": "2007-11-28",
+            "end": null
+          },
+          {
+            "title": "rector of the University of Valladolid",
+            "company": null,
+            "start": "1998-06-01",
+            "end": "2006-06-08"
+          },
+          {
+            "title": "president of the Royal Academy of Exact, Physical and Natural Sciences",
+            "company": null,
+            "start": "2018-06-27",
+            "end": "2024-06-26"
+          }
+        ]
+      }
+    }
+  ]
+}

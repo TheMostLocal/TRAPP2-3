@@ -1,0 +1,75 @@
+{
+  "qid": "Q40722",
+  "name": "Dilma Rousseff",
+  "dateOfBirth": "1947-12-14",
+  "birthPlace": "Belo Horizonte",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/04-06-2024%20Reuni%C3%A3o%20com%20a%20Presidente%20do%20Novo%20Banco%20de%20Desenvolvimento%20Dilma%20Rousseff%20%2853769684843%29%20%28cropped%29.jpg",
+  "occupations": [
+    "economist",
+    "politician"
+  ],
+  "education": [
+    "University of Campinas",
+    "Federal University of Rio Grande do Sul"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "municipal secretary of Porto Alegre",
+      "company": null,
+      "start": "1986-01-01",
+      "end": "1988-09-24"
+    },
+    {
+      "title": "Chief of Staff of the Presidency Brazil",
+      "company": null,
+      "start": "2007-01-01",
+      "end": "2010-12-31"
+    },
+    {
+      "title": "Minister of Mines and Energy",
+      "company": null,
+      "start": "2003-01-01",
+      "end": "2005-06-21"
+    },
+    {
+      "title": "Chief of Staff of the Presidency Brazil",
+      "company": null,
+      "start": "2005-06-21",
+      "end": "2006-12-31"
+    },
+    {
+      "title": "President-elect of Brazil",
+      "company": null,
+      "start": "2014-10-26",
+      "end": "2014-12-31"
+    },
+    {
+      "title": "state secretary of Rio Grande do Sul",
+      "company": null,
+      "start": "1999-01-01",
+      "end": "2002-11-02"
+    },
+    {
+      "title": "state secretary of Rio Grande do Sul",
+      "company": null,
+      "start": "1993-12-01",
+      "end": "1994-12-31"
+    },
+    {
+      "title": "President of Brazil",
+      "company": null,
+      "start": "2011-01-01",
+      "end": "2014-12-31"
+    },
+    {
+      "title": "President of Brazil",
+      "company": null,
+      "start": "2015-01-01",
+      "end": "2016-08-31"
+    }
+  ],
+  "currentTickers": [
+    "NDB"
+  ]
+}

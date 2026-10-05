@@ -1,0 +1,199 @@
+{
+  "ticker": "RIO",
+  "fetchedAt": "2026-10-05T13:08:39.480206Z",
+  "people": [
+    {
+      "qid": "Q23416859",
+      "name": "Jean-S\u00e9bastien Jacques",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q23416859",
+        "name": "Jean-S\u00e9bastien Jacques",
+        "dateOfBirth": "1971-01-01",
+        "birthPlace": "France",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "\u00c9cole Centrale Paris"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q39071252",
+      "name": "Simon Thompson",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q39071252",
+        "name": "Simon Thompson",
+        "dateOfBirth": "1959-06-16",
+        "birthPlace": "Bramhall",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "The Manchester Grammar School",
+          "University College, Oxford"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1682415",
+      "name": "Jan du Plessis",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1682415",
+        "name": "Jan du Plessis",
+        "dateOfBirth": "1954-01-22",
+        "birthPlace": "Cape Town",
+        "image": null,
+        "occupations": [
+          "manager",
+          "entrepreneur"
+        ],
+        "education": [
+          "Stellenbosch University"
+        ],
+        "employers": [
+          {
+            "company": "Lloyds Bank",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Rio Tinto Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BT Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q337671",
+      "name": "Auckland Geddes, 1st Baron Geddes",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q337671",
+        "name": "Auckland Geddes, 1st Baron Geddes",
+        "dateOfBirth": "1879-06-21",
+        "birthPlace": "London",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
+        "occupations": [
+          "anatomist",
+          "diplomat",
+          "politician",
+          "military officer",
+          "physician"
+        ],
+        "education": [
+          "University of Edinburgh",
+          "George Watson's College"
+        ],
+        "employers": [
+          {
+            "company": "McGill University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Foreign Office",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Edinburgh",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "ambassador of the United Kingdom to the United States",
+            "company": null,
+            "start": "1922-01-01",
+            "end": "1924-01-01"
+          },
+          {
+            "title": "Member of the Privy Council of the United Kingdom",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "President of the Local Government Board",
+            "company": null,
+            "start": "1918-01-01",
+            "end": "1919-01-01"
+          },
+          {
+            "title": "ambassador of the United Kingdom of Great Britain and Ireland to the United States",
+            "company": null,
+            "start": "1920-01-01",
+            "end": "1922-01-01"
+          },
+          {
+            "title": "Minister of Reconstruction",
+            "company": null,
+            "start": "1919-01-01",
+            "end": "1919-01-01"
+          },
+          {
+            "title": "member of the 31st Parliament of the United Kingdom",
+            "company": null,
+            "start": "1918-12-14",
+            "end": "1920-03-15"
+          },
+          {
+            "title": "President of the Board of Trade",
+            "company": null,
+            "start": "1919-05-26",
+            "end": "1920-03-19"
+          },
+          {
+            "title": "member of the 30th Parliament of the United Kingdom",
+            "company": null,
+            "start": "1917-10-25",
+            "end": "1918-11-25"
+          }
+        ]
+      }
+    }
+  ]
+}

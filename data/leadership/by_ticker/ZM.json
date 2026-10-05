@@ -1,0 +1,78 @@
+{
+  "ticker": "ZM",
+  "fetchedAt": "2026-10-05T13:08:39.485215Z",
+  "people": [
+    {
+      "qid": "Q44870909",
+      "name": "Eric S. Yuan",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q44870909",
+        "name": "Eric S. Yuan",
+        "dateOfBirth": "1970-02-20",
+        "birthPlace": "Tai'an",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Yuan%20The%20Grove%202021%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive",
+          "entrepreneur"
+        ],
+        "education": [
+          "China University of Mining and Technology, Beijing",
+          "Shandong University of Science and Technology"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "vice president of engineering",
+            "company": null,
+            "start": "2007-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q44870909",
+      "name": "Eric S. Yuan",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q44870909",
+        "name": "Eric S. Yuan",
+        "dateOfBirth": "1970-02-20",
+        "birthPlace": "Tai'an",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Yuan%20The%20Grove%202021%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive",
+          "entrepreneur"
+        ],
+        "education": [
+          "China University of Mining and Technology, Beijing",
+          "Shandong University of Science and Technology"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "vice president of engineering",
+            "company": null,
+            "start": "2007-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

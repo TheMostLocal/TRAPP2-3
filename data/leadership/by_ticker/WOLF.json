@@ -1,0 +1,25 @@
+{
+  "ticker": "WOLF",
+  "fetchedAt": "2026-10-05T13:08:39.484141Z",
+  "people": [
+    {
+      "qid": "Q116313248",
+      "name": "Gregg Lowe",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q116313248",
+        "name": "Gregg Lowe",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Rose\u2013Hulman Institute of Technology"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "SAM",
+  "fetchedAt": "2026-10-05T13:08:39.480774Z",
+  "people": [
+    {
+      "qid": "Q6196179",
+      "name": "Jim Koch",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q6196179",
+        "name": "Jim Koch",
+        "dateOfBirth": "1949-05-27",
+        "birthPlace": "Cincinnati",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Koch%202013.jpg",
+        "occupations": [
+          "chairperson of the executive board",
+          "chief executive officer"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Harvard Law School"
+        ],
+        "employers": [
+          {
+            "company": "Boston Beer Company",
+            "start": "1984-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

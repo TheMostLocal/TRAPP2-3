@@ -1,0 +1,26 @@
+{
+  "qid": "Q39071252",
+  "name": "Simon Thompson",
+  "dateOfBirth": "1959-06-16",
+  "birthPlace": "Bramhall",
+  "image": null,
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "The Manchester Grammar School",
+    "University College, Oxford"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "president",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "RIO"
+  ]
+}

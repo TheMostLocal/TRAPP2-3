@@ -1,0 +1,29 @@
+{
+  "qid": "Q639725",
+  "name": "Tony Ryan",
+  "dateOfBirth": "1936-02-02",
+  "birthPlace": "Thurles",
+  "image": null,
+  "occupations": [
+    "entrepreneur",
+    "businessperson"
+  ],
+  "education": [
+    "Northwestern University",
+    "Trinity College, Dublin",
+    "CBS Thurles"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": "1996-01-01",
+      "end": "1998-01-01"
+    }
+  ],
+  "currentTickers": [
+    "RYAAY",
+    "RYAAY"
+  ]
+}

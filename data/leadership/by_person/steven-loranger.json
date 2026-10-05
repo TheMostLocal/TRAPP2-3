@@ -1,0 +1,29 @@
+{
+  "qid": "Q117712117",
+  "name": "Steven Loranger",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [],
+  "education": [
+    "University of Colorado"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2004-06-01",
+      "end": "2011-11-01"
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2013-01-01",
+      "end": "2014-03-01"
+    }
+  ],
+  "currentTickers": [
+    "XYL"
+  ]
+}

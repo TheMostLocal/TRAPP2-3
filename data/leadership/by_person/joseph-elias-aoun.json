@@ -1,0 +1,40 @@
+{
+  "qid": "Q6281101",
+  "name": "Joseph Elias Aoun",
+  "dateOfBirth": "1953-03-26",
+  "birthPlace": "Beirut",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Aoun%20%282897155178%29%20%28cropped%29.jpg",
+  "occupations": [
+    "philosopher",
+    "university president",
+    "linguist"
+  ],
+  "education": [
+    "University of Paris",
+    "Massachusetts Institute of Technology",
+    "Saint Joseph University of Beirut"
+  ],
+  "employers": [
+    {
+      "company": "Northeastern University",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "University of Southern California",
+      "start": null,
+      "end": "2006-01-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "president",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "NEU"
+  ]
+}

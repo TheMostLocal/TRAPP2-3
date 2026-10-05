@@ -1,0 +1,117 @@
+{
+  "ticker": "PENN",
+  "fetchedAt": "2026-10-05T13:08:39.478815Z",
+  "people": [
+    {
+      "qid": "Q8018403",
+      "name": "William Shippen",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q8018403",
+        "name": "William Shippen",
+        "dateOfBirth": "1736-10-21",
+        "birthPlace": "Philadelphia",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Shippen%20-%20by%20Charles%20Willson%20Peale%20after%20a%20portrait%20by%20Gilbert%20Stuart.jpg",
+        "occupations": [
+          "military physician",
+          "physician",
+          "university teacher"
+        ],
+        "education": [
+          "West Nottingham Academy",
+          "University of Edinburgh",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "University of Pennsylvania",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Surgeon General of the United States Army",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q34969",
+      "name": "Benjamin Franklin",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q34969",
+        "name": "Benjamin Franklin",
+        "dateOfBirth": "1706-01-17",
+        "birthPlace": "Boston",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Siffrein%20Duplessis%20-%20Benjamin%20Franklin%20-%20Google%20Art%20Project.jpg",
+        "occupations": [
+          "polymath",
+          "politician",
+          "diplomat",
+          "writer"
+        ],
+        "education": [
+          "Boston Latin School"
+        ],
+        "employers": [
+          {
+            "company": "University of Pennsylvania",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "United States Postmaster General",
+            "company": null,
+            "start": "1775-07-26",
+            "end": "1776-11-07"
+          },
+          {
+            "title": "Delegate to the United States Constitutional Convention",
+            "company": null,
+            "start": "1787-05-25",
+            "end": "1787-09-17"
+          },
+          {
+            "title": "Speaker of the Pennsylvania House of Representatives",
+            "company": null,
+            "start": "1764-05-01",
+            "end": "1764-10-01"
+          },
+          {
+            "title": "member of the Pennsylvania House of Representatives",
+            "company": null,
+            "start": "1764-05-01",
+            "end": "1764-10-01"
+          },
+          {
+            "title": "United States Ambassador to France",
+            "company": null,
+            "start": "1778-09-14",
+            "end": "1785-05-17"
+          },
+          {
+            "title": "United States Ambassador to Sweden",
+            "company": null,
+            "start": "1782-09-28",
+            "end": "1783-04-03"
+          },
+          {
+            "title": "President of the Supreme Executive Council of Pennsylvania",
+            "company": null,
+            "start": "1785-10-18",
+            "end": "1788-11-05"
+          }
+        ]
+      }
+    }
+  ]
+}
