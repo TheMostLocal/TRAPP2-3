@@ -1,0 +1,28 @@
+{
+  "qid": "Q104243795",
+  "name": "Daniel Schreiber",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "chief executive officer",
+    "co-founder"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Powermat Technologies",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Lemonade",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "LMND"
+  ]
+}

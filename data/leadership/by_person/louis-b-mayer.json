@@ -1,0 +1,23 @@
+{
+  "qid": "Q319682",
+  "name": "Louis B. Mayer",
+  "dateOfBirth": "1884-07-12",
+  "birthPlace": "Dymer",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20B%20Mayer%20cropped.jpg",
+  "occupations": [
+    "film producer",
+    "screenwriter"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Metro-Goldwyn-Mayer",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "MGM"
+  ]
+}

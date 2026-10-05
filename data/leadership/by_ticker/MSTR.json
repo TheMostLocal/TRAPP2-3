@@ -1,0 +1,112 @@
+{
+  "ticker": "MSTR",
+  "fetchedAt": "2026-10-05T12:01:27.940555Z",
+  "people": [
+    {
+      "qid": "Q6831501",
+      "name": "Michael J. Saylor",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6831501",
+        "name": "Michael J. Saylor",
+        "dateOfBirth": "1965-02-04",
+        "birthPlace": "Lincoln",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Saylor%202022.png",
+        "occupations": [
+          "executive chairperson",
+          "philanthropist",
+          "author",
+          "inventor",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
+        ],
+        "education": [
+          "Fairborn High School",
+          "MIT Sloan School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Strategy",
+            "start": "1989-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
+            "title": "executive chairperson",
+            "company": null,
+            "start": "2022-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1989-01-01",
+            "end": "2022-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6831501",
+      "name": "Michael J. Saylor",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q6831501",
+        "name": "Michael J. Saylor",
+        "dateOfBirth": "1965-02-04",
+        "birthPlace": "Lincoln",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Saylor%202022.png",
+        "occupations": [
+          "executive chairperson",
+          "philanthropist",
+          "author",
+          "inventor",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
+        ],
+        "education": [
+          "Fairborn High School",
+          "MIT Sloan School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Strategy",
+            "start": "1989-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
+            "title": "executive chairperson",
+            "company": null,
+            "start": "2022-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1989-01-01",
+            "end": "2022-01-01"
+          }
+        ]
+      }
+    }
+  ]
+}

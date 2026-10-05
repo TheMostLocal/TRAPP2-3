@@ -1,0 +1,67 @@
+{
+  "ticker": "LMND",
+  "fetchedAt": "2026-10-05T12:01:27.939113Z",
+  "people": [
+    {
+      "qid": "Q104243795",
+      "name": "Daniel Schreiber",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q104243795",
+        "name": "Daniel Schreiber",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer",
+          "co-founder"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Powermat Technologies",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lemonade",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q104243792",
+      "name": "Shai Wininger",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q104243792",
+        "name": "Shai Wininger",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "co-founder"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Fiverr",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lemonade",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

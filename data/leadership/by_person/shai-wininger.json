@@ -1,0 +1,27 @@
+{
+  "qid": "Q104243792",
+  "name": "Shai Wininger",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "co-founder"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Fiverr",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Lemonade",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "LMND"
+  ]
+}
