@@ -5,8 +5,8 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "lawyer",
-    "entrepreneur"
+    "entrepreneur",
+    "lawyer"
   ],
   "education": [
     "Cornell University",
@@ -80,12 +80,6 @@
       "end": null
     },
     {
-      "title": "member of the board of trustees",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
       "title": "general counsel",
       "company": null,
       "start": "2009-01-01",
@@ -96,6 +90,12 @@
       "company": null,
       "start": "2012-01-01",
       "end": "2018-01-01"
+    },
+    {
+      "title": "member of the board of trustees",
+      "company": null,
+      "start": null,
+      "end": null
     },
     {
       "title": "chief administrative officer",

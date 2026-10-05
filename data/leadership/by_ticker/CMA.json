@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-10-05T11:19:35.246210Z",
+  "fetchedAt": "2026-10-05T14:23:03.788907Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -233,8 +233,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "neurosurgeon",
-          "physician"
+          "physician",
+          "neurosurgeon"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -262,8 +262,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "physician",
-          "pathologist"
+          "pathologist",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -391,9 +391,9 @@
         "occupations": [
           "banker",
           "surgeon",
+          "writer",
           "politician",
-          "physician",
-          "writer"
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -468,8 +468,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
           "university teacher",
-          "surgeon",
-          "physician"
+          "physician",
+          "surgeon"
         ],
         "education": [
           "University of Manitoba"
@@ -694,11 +694,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "surgeon",
-          "physician",
           "university teacher",
+          "surgeon",
           "dean",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "Nova Scotia Teachers College",
