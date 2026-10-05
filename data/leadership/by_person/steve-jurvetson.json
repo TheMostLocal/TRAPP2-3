@@ -16,22 +16,22 @@
   ],
   "employers": [
     {
-      "company": "NeXT",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Hewlett-Packard",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Draper Fisher Jurvetson",
       "start": null,
       "end": null
     },
     {
       "company": "Bain & Company",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "NeXT",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Hewlett-Packard",
       "start": null,
       "end": null
     }

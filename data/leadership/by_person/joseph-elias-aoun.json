@@ -5,14 +5,14 @@
   "birthPlace": "Beirut",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Aoun%20%282897155178%29%20%28cropped%29.jpg",
   "occupations": [
+    "linguist",
     "philosopher",
-    "university president",
-    "linguist"
+    "university president"
   ],
   "education": [
-    "University of Paris",
     "Massachusetts Institute of Technology",
-    "Saint Joseph University of Beirut"
+    "Saint Joseph University of Beirut",
+    "University of Paris"
   ],
   "employers": [
     {
