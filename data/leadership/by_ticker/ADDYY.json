@@ -1,6 +1,6 @@
 {
   "ticker": "ADDYY",
-  "fetchedAt": "2026-10-05T11:19:35.237589Z",
+  "fetchedAt": "2026-10-05T14:23:03.743634Z",
   "people": [
     {
       "qid": "Q370191",
@@ -14,8 +14,8 @@
         "birthPlace": "Zurich",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-06-26%20Fussball%2C%20Frauen%2C%20Deutsche%20Nationalmannschaft%2C%20Media%20Day%201DX%206470%20by%20Stepro.jpg",
         "occupations": [
-          "association football player",
           "chief executive officer",
+          "association football player",
           "businessperson"
         ],
         "education": [],
@@ -51,9 +51,9 @@
         "birthPlace": "Herzogenaurach",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adi%20dassler%20young.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
-          "fashion designer"
+          "fashion designer",
+          "politician"
         ],
         "education": [],
         "employers": [

@@ -5,11 +5,11 @@
   "birthPlace": "London",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
   "occupations": [
-    "anatomist",
     "diplomat",
-    "politician",
+    "anatomist",
+    "physician",
     "military officer",
-    "physician"
+    "politician"
   ],
   "education": [
     "University of Edinburgh",
@@ -17,12 +17,12 @@
   ],
   "employers": [
     {
-      "company": "McGill University",
+      "company": "Foreign Office",
       "start": null,
       "end": null
     },
     {
-      "company": "Foreign Office",
+      "company": "McGill University",
       "start": null,
       "end": null
     },

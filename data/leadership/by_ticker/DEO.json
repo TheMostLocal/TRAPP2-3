@@ -1,6 +1,6 @@
 {
   "ticker": "DEO",
-  "fetchedAt": "2026-10-05T11:19:35.248976Z",
+  "fetchedAt": "2026-10-05T14:23:03.791778Z",
   "people": [
     {
       "qid": "Q16732482",
@@ -38,17 +38,12 @@
           "businessperson"
         ],
         "education": [
-          "ESADE Business School",
-          "University of Miami",
           "ESADE",
-          "University of Barcelona"
+          "University of Barcelona",
+          "ESADE Business School",
+          "University of Miami"
         ],
         "employers": [
-          {
-            "company": "Bacardi",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Desigual",
             "start": "2014-01-01",
@@ -62,6 +57,11 @@
           {
             "company": "Diageo",
             "start": "2016-01-01",
+            "end": null
+          },
+          {
+            "company": "Bacardi",
+            "start": null,
             "end": null
           },
           {
