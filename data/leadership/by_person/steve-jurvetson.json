@@ -5,9 +5,9 @@
   "birthPlace": "Arizona",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
   "occupations": [
+    "businessperson",
     "business executive",
-    "philanthropist",
-    "businessperson"
+    "philanthropist"
   ],
   "education": [
     "St. Mark's School of Texas",
@@ -16,22 +16,22 @@
   ],
   "employers": [
     {
-      "company": "Draper Fisher Jurvetson",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Bain & Company",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "NeXT",
       "start": null,
       "end": null
     },
     {
       "company": "Hewlett-Packard",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Draper Fisher Jurvetson",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Bain & Company",
       "start": null,
       "end": null
     }

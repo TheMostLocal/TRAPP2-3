@@ -13,6 +13,11 @@
   ],
   "employers": [
     {
+      "company": "Leidos",
+      "start": "2007-01-01",
+      "end": "2013-01-01"
+    },
+    {
       "company": "Defense Advanced Research Projects Agency",
       "start": null,
       "end": null
@@ -21,11 +26,6 @@
       "company": "University of Minnesota",
       "start": null,
       "end": null
-    },
-    {
-      "company": "Leidos",
-      "start": "2007-01-01",
-      "end": "2013-01-01"
     }
   ],
   "positions": [],

@@ -10,17 +10,17 @@
   "education": [],
   "employers": [
     {
+      "company": "SpaceX",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Mindspeed Technologies",
       "start": null,
       "end": null
     },
     {
       "company": "Broadcom",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "SpaceX",
       "start": null,
       "end": null
     }
