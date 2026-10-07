@@ -1,20 +1,15 @@
 {
-  "qid": "Q137910641",
+  "qid": "Q24795213",
   "name": "Eddie Wilson",
-  "dateOfBirth": null,
-  "birthPlace": null,
+  "dateOfBirth": "1936-06-05",
+  "birthPlace": "Ludwigsburg",
   "image": null,
   "occupations": [
-    "chief executive officer"
+    "musician",
+    "singer"
   ],
   "education": [],
-  "employers": [
-    {
-      "company": "Ryanair",
-      "start": null,
-      "end": null
-    }
-  ],
+  "employers": [],
   "positions": [],
   "currentTickers": [
     "RYAAY"

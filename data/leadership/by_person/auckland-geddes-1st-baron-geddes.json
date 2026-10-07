@@ -7,9 +7,9 @@
   "occupations": [
     "diplomat",
     "anatomist",
-    "physician",
     "military officer",
-    "politician"
+    "politician",
+    "physician"
   ],
   "education": [
     "University of Edinburgh",
@@ -17,12 +17,12 @@
   ],
   "employers": [
     {
-      "company": "Foreign Office",
+      "company": "McGill University",
       "start": null,
       "end": null
     },
     {
-      "company": "McGill University",
+      "company": "Foreign Office",
       "start": null,
       "end": null
     },
@@ -58,18 +58,6 @@
       "end": "1922-01-01"
     },
     {
-      "title": "Minister of Reconstruction",
-      "company": null,
-      "start": "1919-01-01",
-      "end": "1919-01-01"
-    },
-    {
-      "title": "member of the 31st Parliament of the United Kingdom",
-      "company": null,
-      "start": "1918-12-14",
-      "end": "1920-03-15"
-    },
-    {
       "title": "President of the Board of Trade",
       "company": null,
       "start": "1919-05-26",
@@ -80,6 +68,18 @@
       "company": null,
       "start": "1917-10-25",
       "end": "1918-11-25"
+    },
+    {
+      "title": "Minister of Reconstruction",
+      "company": null,
+      "start": "1919-01-01",
+      "end": "1919-01-01"
+    },
+    {
+      "title": "member of the 31st Parliament of the United Kingdom",
+      "company": null,
+      "start": "1918-12-14",
+      "end": "1920-03-15"
     }
   ],
   "currentTickers": [
