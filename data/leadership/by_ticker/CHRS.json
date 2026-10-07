@@ -1,6 +1,6 @@
 {
   "ticker": "CHRS",
-  "fetchedAt": "2026-10-05T14:23:03.787826Z",
+  "fetchedAt": "2026-10-07T05:13:54.893304Z",
   "people": [
     {
       "qid": "Q141592937",
@@ -18,8 +18,8 @@
           "researcher"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Temple University"
+          "Temple University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
