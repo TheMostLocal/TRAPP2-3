@@ -1,6 +1,6 @@
 {
   "ticker": "BB",
-  "fetchedAt": "2026-10-05T14:23:03.747811Z",
+  "fetchedAt": "2026-10-07T05:13:54.889868Z",
   "people": [
     {
       "qid": "Q6256206",
@@ -18,17 +18,12 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
           "California Institute of Technology",
           "Northfield Mount Hermon School",
-          "La Salle College"
+          "La Salle College",
+          "Brown University"
         ],
         "employers": [
-          {
-            "company": "Siemens Nixdorf Informationssysteme",
-            "start": "1995-01-01",
-            "end": "1997-01-01"
-          },
           {
             "company": "BlackBerry",
             "start": "2013-11-01",
@@ -43,6 +38,11 @@
             "company": "Unisys",
             "start": "1979-01-01",
             "end": "1991-01-01"
+          },
+          {
+            "company": "Siemens Nixdorf Informationssysteme",
+            "start": "1995-01-01",
+            "end": "1997-01-01"
           }
         ],
         "positions": []
