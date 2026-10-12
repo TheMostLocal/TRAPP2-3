@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-07T05:13:54.899522Z",
+  "fetchedAt": "2026-10-12T11:48:39.235553Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -10,13 +10,31 @@
       "career": {
         "qid": "Q115614624",
         "name": "Ariane Gorin",
-        "dateOfBirth": null,
+        "dateOfBirth": "1975-01-01",
         "birthPlace": null,
         "image": null,
-        "occupations": [],
-        "education": [],
-        "employers": [],
-        "positions": []
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "Kellogg School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Expedia Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-05-01",
+            "end": null
+          }
+        ]
       }
     },
     {
@@ -31,8 +49,8 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "business executive",
           "film producer",
+          "business executive",
           "entrepreneur"
         ],
         "education": [
@@ -73,13 +91,13 @@
         "occupations": [
           "children's writer",
           "film producer",
-          "political scientist",
           "journalist",
           "university teacher",
+          "political scientist",
           "historian",
-          "writer",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "writer"
         ],
         "education": [
           "Sidwell Friends School",
@@ -90,16 +108,6 @@
           "Columbia University Mailman School of Public Health"
         ],
         "employers": [
-          {
-            "company": "Expedia Group",
-            "start": "2017-03-01",
-            "end": null
-          },
-          {
-            "company": "Columbia University Mailman School of Public Health",
-            "start": "2012-01-01",
-            "end": null
-          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -119,6 +127,16 @@
             "company": "NBC",
             "start": "2011-11-01",
             "end": "2014-08-01"
+          },
+          {
+            "company": "Expedia Group",
+            "start": "2017-03-01",
+            "end": null
+          },
+          {
+            "company": "Columbia University Mailman School of Public Health",
+            "start": "2012-01-01",
+            "end": null
           },
           {
             "company": "New York University",

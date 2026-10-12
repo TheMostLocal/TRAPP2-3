@@ -7,13 +7,13 @@
   "occupations": [
     "children's writer",
     "film producer",
-    "political scientist",
     "journalist",
     "university teacher",
+    "political scientist",
     "historian",
-    "writer",
+    "businessperson",
     "entrepreneur",
-    "businessperson"
+    "writer"
   ],
   "education": [
     "Sidwell Friends School",
@@ -24,16 +24,6 @@
     "Columbia University Mailman School of Public Health"
   ],
   "employers": [
-    {
-      "company": "Expedia Group",
-      "start": "2017-03-01",
-      "end": null
-    },
-    {
-      "company": "Columbia University Mailman School of Public Health",
-      "start": "2012-01-01",
-      "end": null
-    },
     {
       "company": "Clinton Foundation",
       "start": "2011-01-01",
@@ -53,6 +43,16 @@
       "company": "NBC",
       "start": "2011-11-01",
       "end": "2014-08-01"
+    },
+    {
+      "company": "Expedia Group",
+      "start": "2017-03-01",
+      "end": null
+    },
+    {
+      "company": "Columbia University Mailman School of Public Health",
+      "start": "2012-01-01",
+      "end": null
     },
     {
       "company": "New York University",

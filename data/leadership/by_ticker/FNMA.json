@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-10-07T05:13:54.900391Z",
+  "fetchedAt": "2026-10-12T11:48:39.236454Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "Cornell University",
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "Cranfield School of Management",
@@ -170,13 +170,13 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "economist"
+          "economist",
+          "university teacher"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "University of Manchester",
-          "University of Oxford"
+          "University of Oxford",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -219,9 +219,9 @@
         "occupations": [
           "university teacher",
           "economist",
+          "lawyer",
           "politician",
-          "businessperson",
-          "lawyer"
+          "businessperson"
         ],
         "education": [
           "University of Kansas",
@@ -330,8 +330,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karin%20Kimbrough%20at%20Jobs%20Reset%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "John F. Kennedy School of Government",
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Boston University",
-          "Fisk University"
+          "Fisk University",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -426,11 +426,6 @@
         ],
         "employers": [
           {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
             "end": null
@@ -439,6 +434,11 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": []

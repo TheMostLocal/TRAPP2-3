@@ -1,13 +1,31 @@
 {
   "qid": "Q115614624",
   "name": "Ariane Gorin",
-  "dateOfBirth": null,
+  "dateOfBirth": "1975-01-01",
   "birthPlace": null,
   "image": null,
-  "occupations": [],
-  "education": [],
-  "employers": [],
-  "positions": [],
+  "occupations": [
+    "business executive"
+  ],
+  "education": [
+    "University of California, Berkeley",
+    "Kellogg School of Management"
+  ],
+  "employers": [
+    {
+      "company": "Expedia Group",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2024-05-01",
+      "end": null
+    }
+  ],
   "currentTickers": [
     "EXPE"
   ]
