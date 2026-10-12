@@ -1,6 +1,6 @@
 {
   "ticker": "PENN",
-  "fetchedAt": "2026-10-07T05:14:10.895294Z",
+  "fetchedAt": "2026-10-12T14:00:16.840529Z",
   "people": [
     {
       "qid": "Q8018403",
@@ -19,9 +19,9 @@
           "physician"
         ],
         "education": [
-          "West Nottingham Academy",
+          "University of Edinburgh",
           "Princeton University",
-          "University of Edinburgh"
+          "West Nottingham Academy"
         ],
         "employers": [
           {
@@ -53,9 +53,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Siffrein%20Duplessis%20-%20Benjamin%20Franklin%20-%20Google%20Art%20Project.jpg",
         "occupations": [
           "polymath",
-          "diplomat",
           "politician",
-          "writer"
+          "writer",
+          "diplomat"
         ],
         "education": [
           "Boston Latin School"

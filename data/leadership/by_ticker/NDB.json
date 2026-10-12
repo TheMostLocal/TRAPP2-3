@@ -1,6 +1,6 @@
 {
   "ticker": "NDB",
-  "fetchedAt": "2026-10-07T05:14:10.888961Z",
+  "fetchedAt": "2026-10-12T14:00:16.834215Z",
   "people": [
     {
       "qid": "Q40722",
@@ -14,8 +14,8 @@
         "birthPlace": "Belo Horizonte",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/04-06-2024%20Reuni%C3%A3o%20com%20a%20Presidente%20do%20Novo%20Banco%20de%20Desenvolvimento%20Dilma%20Rousseff%20%2853769684843%29%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
-          "economist"
+          "economist",
+          "politician"
         ],
         "education": [
           "University of Campinas",

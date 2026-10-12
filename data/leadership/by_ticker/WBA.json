@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-10-07T05:14:10.908894Z",
+  "fetchedAt": "2026-10-12T14:00:16.855191Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Stony Brook University"
+          "Stony Brook University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -230,12 +230,12 @@
           "businessperson"
         ],
         "education": [
+          "University of Pennsylvania",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "Stanford Law School",
           "University of Chicago",
-          "University of Pennsylvania"
+          "Stanford Law School"
         ],
         "employers": [
           {
