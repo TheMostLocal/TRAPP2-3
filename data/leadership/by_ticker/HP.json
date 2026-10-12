@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-10-07T05:12:11.296614Z",
+  "fetchedAt": "2026-10-12T12:43:43.582338Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -40,8 +40,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -186,7 +186,7 @@
             "title": "Administrator of the Small Business Administration",
             "company": null,
             "start": null,
-            "end": null
+            "end": "2001-01-20"
           }
         ]
       }
@@ -271,9 +271,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Iowa",
           "John F. Kennedy School of Government",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Iowa"
         ],
         "employers": [],
         "positions": []
@@ -358,9 +358,9 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
-          "engineer",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "engineer"
         ],
         "education": [
           "Stanford University",

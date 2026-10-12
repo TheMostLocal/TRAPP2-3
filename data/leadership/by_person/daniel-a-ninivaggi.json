@@ -5,13 +5,13 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "business executive",
-    "judge"
+    "judge",
+    "business executive"
   ],
   "education": [
+    "University of Chicago",
     "Columbia University",
-    "Booth School of Business",
-    "University of Chicago"
+    "Booth School of Business"
   ],
   "employers": [],
   "positions": [],
