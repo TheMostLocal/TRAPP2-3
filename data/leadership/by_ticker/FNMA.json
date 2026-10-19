@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-10-12T11:48:39.236454Z",
+  "fetchedAt": "2026-10-19T09:46:25.398954Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "entrepreneur"
+          "entrepreneur",
+          "lawyer"
         ],
         "education": [
           "Cornell University",
@@ -38,6 +38,16 @@
             "end": "2004-01-01"
           },
           {
+            "company": "Silicon Valley Bridge Bank",
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
+          },
+          {
             "company": "Fannie Mae",
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -51,16 +61,6 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Silicon Valley Bridge Bank",
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
           }
         ],
         "positions": [
@@ -89,12 +89,6 @@
             "end": null
           },
           {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "general counsel",
             "company": null,
             "start": "2009-01-01",
@@ -105,6 +99,12 @@
             "company": null,
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "chief administrative officer",
@@ -175,8 +175,8 @@
         ],
         "education": [
           "University of Manchester",
-          "University of Oxford",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -217,10 +217,10 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "economist",
-          "lawyer",
+          "university teacher",
           "politician",
+          "lawyer",
           "businessperson"
         ],
         "education": [
@@ -284,13 +284,13 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "businessperson",
-          "adjunct professor"
+          "adjunct professor",
+          "businessperson"
         ],
         "education": [
           "College of Europe",
-          "London School of Economics and Political Science",
-          "Yale University"
+          "Yale University",
+          "London School of Economics and Political Science"
         ],
         "employers": [],
         "positions": []
@@ -334,9 +334,9 @@
           "businessperson"
         ],
         "education": [
-          "John F. Kennedy School of Government",
+          "University of Oxford",
           "Stanford University",
-          "University of Oxford"
+          "John F. Kennedy School of Government"
         ],
         "employers": [],
         "positions": []

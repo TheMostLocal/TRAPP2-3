@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-10-12T11:48:39.230319Z",
+  "fetchedAt": "2026-10-19T09:46:25.392646Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -144,8 +144,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "historian",
-          "surgeon"
+          "surgeon",
+          "historian"
         ],
         "education": [
           "New York University"
@@ -262,8 +262,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "pathologist",
-          "physician"
+          "physician",
+          "pathologist"
         ],
         "education": [
           "University of Toronto"
@@ -389,11 +389,11 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "banker",
           "surgeon",
-          "politician",
+          "banker",
+          "writer",
           "physician",
-          "writer"
+          "politician"
         ],
         "education": [
           "McGill University"
@@ -445,8 +445,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "McGill University"
@@ -467,8 +467,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "surgeon",
           "university teacher",
+          "surgeon",
           "physician"
         ],
         "education": [
@@ -567,9 +567,9 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "diplomat",
-          "politician",
           "lawyer",
+          "politician",
+          "diplomat",
           "physician"
         ],
         "education": [
@@ -694,11 +694,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "surgeon",
-          "politician",
           "university teacher",
-          "physician",
-          "dean"
+          "surgeon",
+          "dean",
+          "politician",
+          "physician"
         ],
         "education": [
           "Nova Scotia Teachers College",

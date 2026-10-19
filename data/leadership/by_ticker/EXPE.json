@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-12T11:48:39.235553Z",
+  "fetchedAt": "2026-10-19T09:46:25.398034Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -90,10 +90,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
           "children's writer",
-          "film producer",
-          "journalist",
-          "university teacher",
           "political scientist",
+          "journalist",
+          "film producer",
+          "university teacher",
           "historian",
           "businessperson",
           "entrepreneur",
@@ -124,11 +124,6 @@
             "end": null
           },
           {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
-          },
-          {
             "company": "Expedia Group",
             "start": "2017-03-01",
             "end": null
@@ -142,6 +137,11 @@
             "company": "New York University",
             "start": "2010-01-01",
             "end": null
+          },
+          {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
           }
         ],
         "positions": []
