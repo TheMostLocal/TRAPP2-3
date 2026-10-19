@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-10-12T14:00:16.844976Z",
+  "fetchedAt": "2026-10-19T11:41:12.770675Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -116,8 +116,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
         "occupations": [
-          "diplomat",
           "anatomist",
+          "diplomat",
           "military officer",
           "politician",
           "physician"

@@ -1,6 +1,6 @@
 {
   "ticker": "RACE",
-  "fetchedAt": "2026-10-12T14:00:16.843230Z",
+  "fetchedAt": "2026-10-19T11:41:12.769174Z",
   "people": [
     {
       "qid": "Q5930408",
@@ -14,8 +14,8 @@
         "birthPlace": "Valladolid",
         "image": null,
         "occupations": [
-          "mathematician",
-          "university teacher"
+          "university teacher",
+          "mathematician"
         ],
         "education": [
           "Colegio de San Jos\u00e9, Valladolid",

@@ -1,6 +1,6 @@
 {
   "ticker": "X",
-  "fetchedAt": "2026-10-12T14:00:16.857104Z",
+  "fetchedAt": "2026-10-19T11:41:12.782202Z",
   "people": [
     {
       "qid": "Q55819254",
@@ -109,8 +109,8 @@
           "official"
         ],
         "education": [
-          "Loyola Law School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Law School"
         ],
         "employers": [],
         "positions": []

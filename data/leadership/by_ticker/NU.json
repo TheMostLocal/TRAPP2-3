@@ -1,6 +1,6 @@
 {
   "ticker": "NU",
-  "fetchedAt": "2026-10-12T14:00:16.836516Z",
+  "fetchedAt": "2026-10-19T11:41:12.762380Z",
   "people": [
     {
       "qid": "Q6914927",
@@ -18,8 +18,8 @@
           "university teacher"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Hofstra University"
+          "Hofstra University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-10-12T14:00:16.855191Z",
+  "fetchedAt": "2026-10-19T11:41:12.780390Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -230,12 +230,12 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
+          "Stanford Law School",
           "University of Chicago",
-          "Stanford Law School"
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -380,11 +380,11 @@
           "politician"
         ],
         "education": [
+          "Stanford University",
+          "University of Michigan",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
-          "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": [

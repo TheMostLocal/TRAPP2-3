@@ -1,6 +1,6 @@
 {
   "ticker": "PENN",
-  "fetchedAt": "2026-10-12T14:00:16.840529Z",
+  "fetchedAt": "2026-10-19T11:41:12.766357Z",
   "people": [
     {
       "qid": "Q8018403",
@@ -14,8 +14,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Shippen%20-%20by%20Charles%20Willson%20Peale%20after%20a%20portrait%20by%20Gilbert%20Stuart.jpg",
         "occupations": [
-          "military physician",
           "university teacher",
+          "military physician",
           "physician"
         ],
         "education": [
@@ -54,8 +54,8 @@
         "occupations": [
           "polymath",
           "politician",
-          "writer",
-          "diplomat"
+          "diplomat",
+          "writer"
         ],
         "education": [
           "Boston Latin School"
