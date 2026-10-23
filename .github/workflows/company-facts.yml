@@ -15,7 +15,8 @@ name: Company Facts Refresh (Monthly)
 
 on:
   schedule:
-    - cron: '0 2 1 * *'  # 1st of every month, 02:00 UTC
+  # z150: off GitHub's busy top / half of the hour, and 10 min after TRAPP2-2's same job (spreads the Yahoo load)
+    - cron: '33 2 1 * *'  # 1st of every month, 02:33 UTC
   workflow_dispatch:
 
 concurrency:
