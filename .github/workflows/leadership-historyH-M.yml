@@ -15,7 +15,8 @@ name: Leadership History Refresh H-M (Weekly)
 
 on:
   schedule:
-    - cron: '0 5 * * MON'  # Every Monday 05:00 UTC (staggered after A-G)
+  # z150: off GitHub's busy top / half of the hour, and 10 min after TRAPP2-2's same job (spreads the Yahoo load)
+    - cron: '23 5 * * MON'  # Every Monday 05:23 UTC (staggered after A-G)
   workflow_dispatch:
 
 concurrency:

@@ -16,7 +16,8 @@ name: Nightly Full Refresh
 
 on:
   schedule:
-    - cron: '30 0 * * *'
+  # z150: off GitHub's busy top / half of the hour, and 10 min after TRAPP2-2's same job (spreads the Yahoo load)
+    - cron: '51 0 * * *'       # 2051 EDT / 1951 EST - after the close and the after-hours tape
   workflow_dispatch:
 
 concurrency:

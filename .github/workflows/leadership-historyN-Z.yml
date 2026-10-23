@@ -13,7 +13,8 @@ name: Leadership History Refresh N-Z (Weekly)
 
 on:
   schedule:
-    - cron: '0 6 * * MON'  # Every Monday 06:00 UTC (2h after A-M)
+  # z150: off GitHub's busy top / half of the hour, and 10 min after TRAPP2-2's same job (spreads the Yahoo load)
+    - cron: '23 6 * * MON'  # Every Monday 06:23 UTC (after H-M)
   workflow_dispatch:
 
 concurrency:
