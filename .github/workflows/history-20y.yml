@@ -25,7 +25,8 @@ name: Refresh 20-Year History (Single Pass)
 
 on:
   schedule:
-    - cron: '0 7 * * *'        # 07:00 UTC daily — after US close + nightly settle
+  # z150: off GitHub's busy top / half of the hour, and 10 min after TRAPP2-2's same job (spreads the Yahoo load)
+    - cron: '27 7 * * *'       # 07:27 UTC daily — after US close + nightly settle
   workflow_dispatch:
     inputs:
       years:
