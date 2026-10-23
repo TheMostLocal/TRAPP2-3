@@ -7,7 +7,8 @@ name: Refresh Financial Statements
 
 on:
   schedule:
-    - cron: '0 7 * * 1'   # Mondays 07:00 UTC
+  # z150: off GitHub's busy top / half of the hour, and 10 min after TRAPP2-2's same job (spreads the Yahoo load)
+    - cron: '47 7 * * 1'  # Mondays 07:47 UTC (after the 20-year history top-up)
   workflow_dispatch:
     inputs:
       tickers:
