@@ -33,6 +33,17 @@ start=$(date +%s)
 hhmm() { echo $((10#$(date -u +%H%M))); }
 in_window() { local n; n=$(hhmm); [ "$n" -ge $((10#$START)) ] && [ "$n" -lt $((10#$STOP)) ]; }
 
+# z158: the shared scripts come from TRAPP2-CORE (checked out at $CORE_DIR by the workflow). A sync can put
+# this repo's own copies back (a reset, a pull), so they are re-applied after every sync - all but this
+# running script itself, which bash is still reading.
+core_overlay() {
+  [ -n "${CORE_DIR:-}" ] && [ -d "$CORE_DIR/pipeline" ] || return 0
+  for f in "$CORE_DIR"/pipeline/*; do
+    [ "$(basename "$f")" = "intraday_loop.sh" ] && continue
+    cp -r "$f" pipeline/
+  done
+}
+
 # nothing is local yet, so this is a plain fast-forward (reset to the fetched tip as a fallback)
 if git fetch -q origin "$BRANCH" 2>/dev/null; then
   git merge -q --ff-only FETCH_HEAD 2>/dev/null || git reset -q --hard FETCH_HEAD
@@ -40,6 +51,8 @@ if git fetch -q origin "$BRANCH" 2>/dev/null; then
 else
   echo "::warning::could not fetch origin/$BRANCH - continuing from the checked-out commit"
 fi
+core_overlay
+[ -n "${CORE_DIR:-}" ] && echo "shared pipeline: TRAPP2-CORE${ALPACA_KEY_ID:+ · Alpaca on}"
 DAY=$(python pipeline/intraday_session.py 2>/dev/null || echo trading)
 SINGLE=""
 in_window || SINGLE="started outside the session window (${START}Z-${STOP}Z)"
@@ -66,6 +79,7 @@ event_pass() {
   python pipeline/human_corrections.py master || true
   python pipeline/append_intraday_snapshot.py || true
   commit_push "Official open / close $(TZ=America/New_York date +%H%M) ET [skip ci]"
+  live_push
 }
 
 one_pass() {
@@ -76,6 +90,16 @@ one_pass() {
   python pipeline/append_intraday_snapshot.py || true
   python pipeline/fetch_intraday_bars.py || true          # z131: 5-min OHLCV incl. pre-market / after hours
   commit_push "Quotes + intraday tape $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+  live_push
+}
+
+# z159: after GitHub has the pass, the same quotes and bars go to Supabase (when SUPABASE_LIVE_* are set) -
+# best-effort, never blocks the loop; the first pass of the job also prunes old bar days
+LIVE_FIRST=1
+live_push() {
+  [ -n "${SUPABASE_LIVE_URL:-}" ] || return 0
+  if [ -n "$LIVE_FIRST" ]; then python pipeline/supabase_live.py --prune || true; LIVE_FIRST=""
+  else python pipeline/supabase_live.py || true; fi
 }
 
 commit_push() {
@@ -107,6 +131,7 @@ while :; do
   EVENT=""
   # keep the checkout current so the next pass builds on what's on GitHub
   git pull -q --no-rebase -X ours origin "$BRANCH" 2>/dev/null || true
+  core_overlay
   now=$(date +%s)
   if [ -n "$SINGLE" ]; then echo "$SINGLE - one pass only"; break; fi
   if [ "$DAY" != "trading" ] && [ -z "${INTRADAY_FORCE:-}" ]; then echo "not a trading day ($DAY) - one pass only"; break; fi
