@@ -1,6 +1,6 @@
 {
   "ticker": "NU",
-  "fetchedAt": "2026-10-19T11:41:12.762380Z",
+  "fetchedAt": "2026-10-26T13:25:04.717357Z",
   "people": [
     {
       "qid": "Q6914927",
@@ -14,12 +14,12 @@
         "birthPlace": "Newark",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Morton%20Schapiro%2C%20Meet%20Northwestern%E2%80%99s%20New%20President.jpg",
         "occupations": [
-          "economist",
-          "university teacher"
+          "university teacher",
+          "economist"
         ],
         "education": [
-          "Hofstra University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Hofstra University"
         ],
         "employers": [
           {

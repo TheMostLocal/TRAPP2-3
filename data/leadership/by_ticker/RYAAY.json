@@ -1,6 +1,6 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-10-19T11:41:12.771541Z",
+  "fetchedAt": "2026-10-26T13:25:04.742486Z",
   "people": [
     {
       "qid": "Q137910641",
@@ -43,9 +43,9 @@
           "lawyer"
         ],
         "education": [
-          "Harvard Law School",
           "University High School",
-          "University of Washington Michael G. Foster School of Business"
+          "University of Washington Michael G. Foster School of Business",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -60,68 +60,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q639725",
-      "name": "Tony Ryan",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q639725",
-        "name": "Tony Ryan",
-        "dateOfBirth": "1936-02-02",
-        "birthPlace": "Thurles",
-        "image": null,
-        "occupations": [
-          "entrepreneur",
-          "businessperson"
-        ],
-        "education": [
-          "Northwestern University",
-          "Trinity College, Dublin",
-          "CBS Thurles"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "1996-01-01",
-            "end": "1998-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q639725",
-      "name": "Tony Ryan",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q639725",
-        "name": "Tony Ryan",
-        "dateOfBirth": "1936-02-02",
-        "birthPlace": "Thurles",
-        "image": null,
-        "occupations": [
-          "entrepreneur",
-          "businessperson"
-        ],
-        "education": [
-          "Northwestern University",
-          "Trinity College, Dublin",
-          "CBS Thurles"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "1996-01-01",
-            "end": "1998-01-01"
-          }
-        ]
       }
     }
   ]
