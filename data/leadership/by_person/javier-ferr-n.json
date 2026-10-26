@@ -15,14 +15,14 @@
   ],
   "employers": [
     {
-      "company": "Bacardi",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Lion Capital LLP",
       "start": null,
       "end": "2019-01-01"
+    },
+    {
+      "company": "Bacardi",
+      "start": null,
+      "end": null
     },
     {
       "company": "Desigual",

@@ -5,10 +5,10 @@
   "birthPlace": "Amherst",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
   "occupations": [
-    "lawyer",
-    "politician",
     "diplomat",
-    "physician"
+    "lawyer",
+    "physician",
+    "politician"
   ],
   "education": [
     "University of Edinburgh Medical School"

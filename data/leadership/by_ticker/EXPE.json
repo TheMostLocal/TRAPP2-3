@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-19T09:46:25.398034Z",
+  "fetchedAt": "2026-10-26T10:25:29.034612Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -89,40 +89,25 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "children's writer",
-          "political scientist",
           "journalist",
-          "film producer",
           "university teacher",
+          "political scientist",
+          "children's writer",
           "historian",
-          "businessperson",
+          "film producer",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
           "Sidwell Friends School",
           "Robert F. Wagner Graduate School of Public Service",
           "University College, Oxford",
-          "Stanford University",
           "Mann Arts and Science Magnet Middle School",
-          "Columbia University Mailman School of Public Health"
+          "Columbia University Mailman School of Public Health",
+          "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Clinton Foundation",
-            "start": "2011-01-01",
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
-            "start": "2003-01-01",
-            "end": "2006-01-01"
-          },
-          {
-            "company": "Avenue Capital Group",
-            "start": "2006-01-01",
-            "end": null
-          },
           {
             "company": "Expedia Group",
             "start": "2017-03-01",
@@ -134,14 +119,29 @@
             "end": null
           },
           {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
+          },
+          {
+            "company": "Clinton Foundation",
+            "start": "2011-01-01",
+            "end": null
+          },
+          {
+            "company": "Avenue Capital Group",
+            "start": "2006-01-01",
+            "end": null
+          },
+          {
             "company": "New York University",
             "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
+            "company": "McKinsey & Company",
+            "start": "2003-01-01",
+            "end": "2006-01-01"
           }
         ],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-10-19T09:46:25.398954Z",
+  "fetchedAt": "2026-10-26T10:25:29.035515Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "Cornell University",
@@ -23,29 +23,14 @@
         ],
         "employers": [
           {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
-          },
-          {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
             "company": "Deutsche Bank",
             "start": "2002-01-01",
             "end": "2004-01-01"
           },
           {
-            "company": "Silicon Valley Bridge Bank",
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -61,27 +46,24 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
-          }
-        ],
-        "positions": [
+          },
           {
-            "title": "chief executive officer",
-            "company": null,
+            "company": "Silicon Valley Bridge Bank",
             "start": "2023-03-13",
             "end": null
           },
           {
-            "title": "company secretary",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2010-01-01"
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
           },
           {
-            "title": "chairperson",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2018-01-01"
-          },
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          }
+        ],
+        "positions": [
           {
             "title": "board of directors member",
             "company": null,
@@ -117,6 +99,24 @@
             "company": null,
             "start": "2009-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "title": "company secretary",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
           }
         ]
       }
@@ -174,9 +174,9 @@
           "university teacher"
         ],
         "education": [
-          "University of Manchester",
           "Massachusetts Institute of Technology",
-          "University of Oxford"
+          "University of Oxford",
+          "University of Manchester"
         ],
         "employers": [
           {
@@ -217,11 +217,11 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
           "university teacher",
-          "politician",
+          "businessperson",
           "lawyer",
-          "businessperson"
+          "economist",
+          "politician"
         ],
         "education": [
           "University of Kansas",
@@ -284,13 +284,13 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "adjunct professor",
-          "businessperson"
+          "businessperson",
+          "adjunct professor"
         ],
         "education": [
           "College of Europe",
-          "Yale University",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -334,9 +334,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
+          "John F. Kennedy School of Government",
           "Stanford University",
-          "John F. Kennedy School of Government"
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
+          "Yale University",
           "Boston University",
-          "Fisk University",
-          "Yale University"
+          "Fisk University"
         ],
         "employers": [],
         "positions": []
