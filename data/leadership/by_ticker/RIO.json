@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-10-26T13:25:04.741310Z",
+  "fetchedAt": "2026-11-02T16:23:44.309670Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -119,14 +119,19 @@
           "anatomist",
           "military officer",
           "diplomat",
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
-          "University of Edinburgh",
-          "George Watson's College"
+          "George Watson's College",
+          "University of Edinburgh"
         ],
         "employers": [
+          {
+            "company": "University of Edinburgh",
+            "start": null,
+            "end": null
+          },
           {
             "company": "McGill University",
             "start": null,
@@ -136,14 +141,21 @@
             "company": "Foreign Office",
             "start": null,
             "end": null
-          },
-          {
-            "company": "University of Edinburgh",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "Minister of Reconstruction",
+            "company": null,
+            "start": "1919-01-01",
+            "end": "1919-01-01"
+          },
+          {
+            "title": "member of the 31st Parliament of the United Kingdom",
+            "company": null,
+            "start": "1918-12-14",
+            "end": "1920-03-15"
+          },
           {
             "title": "ambassador of the United Kingdom to the United States",
             "company": null,
@@ -179,18 +191,6 @@
             "company": null,
             "start": "1917-10-25",
             "end": "1918-11-25"
-          },
-          {
-            "title": "Minister of Reconstruction",
-            "company": null,
-            "start": "1919-01-01",
-            "end": "1919-01-01"
-          },
-          {
-            "title": "member of the 31st Parliament of the United Kingdom",
-            "company": null,
-            "start": "1918-12-14",
-            "end": "1920-03-15"
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-10-26T13:25:04.755572Z",
+  "fetchedAt": "2026-11-02T16:23:44.318624Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
+          "businessperson",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -226,14 +226,14 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [
+          "University of Pennsylvania",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Pennsylvania",
           "University of Chicago",
           "Stanford Law School"
         ],
@@ -290,9 +290,9 @@
           "economist"
         ],
         "education": [
-          "University of Pennsylvania",
           "The Wharton School",
           "West Virginia University",
+          "University of Pennsylvania",
           "West Virginia University School of Medicine"
         ],
         "employers": [],
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
+          "businessperson",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -376,15 +376,15 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
+          "Stanford University",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [

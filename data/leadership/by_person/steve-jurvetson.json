@@ -5,14 +5,14 @@
   "birthPlace": "Arizona",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
   "occupations": [
-    "philanthropist",
     "businessperson",
-    "business executive"
+    "business executive",
+    "philanthropist"
   ],
   "education": [
-    "Stanford University",
     "St. Mark's School of Texas",
-    "Stanford Graduate School of Business"
+    "Stanford Graduate School of Business",
+    "Stanford University"
   ],
   "employers": [
     {

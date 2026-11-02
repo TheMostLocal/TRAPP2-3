@@ -1,6 +1,6 @@
 {
   "ticker": "XYL",
-  "fetchedAt": "2026-10-26T13:25:04.759432Z",
+  "fetchedAt": "2026-11-02T16:23:44.321036Z",
   "people": [
     {
       "qid": "Q125966875",
@@ -10,11 +10,14 @@
       "career": {
         "qid": "Q125966875",
         "name": "Matthew Pine",
-        "dateOfBirth": null,
+        "dateOfBirth": "1972-01-01",
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matthew%20Pine%20%28P-070311-00-20%29%20%28cropped%29.jpg",
         "occupations": [],
-        "education": [],
+        "education": [
+          "University of Alabama",
+          "Northeastern University"
+        ],
         "employers": [],
         "positions": [
           {
