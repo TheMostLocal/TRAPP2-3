@@ -5,10 +5,10 @@
   "birthPlace": "Corfu",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
   "occupations": [
+    "military officer",
     "polo player",
     "naval officer",
-    "prince consort",
-    "military officer"
+    "prince consort"
   ],
   "education": [
     "Cheam School",
@@ -24,6 +24,12 @@
     }
   ],
   "positions": [
+    {
+      "title": "Chancellor of the University of Cambridge",
+      "company": null,
+      "start": "1976-01-01",
+      "end": "2011-01-01"
+    },
     {
       "title": "Lord High Admiral",
       "company": null,

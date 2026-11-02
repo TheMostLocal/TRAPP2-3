@@ -5,9 +5,9 @@
   "birthPlace": "Winnipeg",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
   "occupations": [
-    "physician",
     "university teacher",
-    "surgeon"
+    "surgeon",
+    "physician"
   ],
   "education": [
     "University of Manitoba"
