@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-10-26T10:25:29.029255Z",
+  "fetchedAt": "2026-11-02T12:48:35.794615Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -108,8 +108,8 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "journalist",
-          "physician"
+          "physician",
+          "journalist"
         ],
         "education": [
           "University of Sydney",
@@ -194,8 +194,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [],
         "employers": [],
@@ -233,8 +233,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "neurosurgeon",
-          "physician"
+          "physician",
+          "neurosurgeon"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -303,8 +303,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "University of Edinburgh"
@@ -354,8 +354,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -391,9 +391,9 @@
         "occupations": [
           "banker",
           "surgeon",
-          "politician",
+          "writer",
           "physician",
-          "writer"
+          "politician"
         ],
         "education": [
           "McGill University"
@@ -445,8 +445,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "McGill University"
@@ -467,9 +467,9 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "physician",
           "university teacher",
-          "surgeon"
+          "surgeon",
+          "physician"
         ],
         "education": [
           "University of Manitoba"
@@ -503,10 +503,10 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
+          "military officer",
           "polo player",
           "naval officer",
-          "prince consort",
-          "military officer"
+          "prince consort"
         ],
         "education": [
           "Cheam School",
@@ -522,6 +522,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "Chancellor of the University of Cambridge",
+            "company": null,
+            "start": "1976-01-01",
+            "end": "2011-01-01"
+          },
           {
             "title": "Lord High Admiral",
             "company": null,
@@ -567,10 +573,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "diplomat",
+          "politician",
           "lawyer",
-          "physician",
-          "politician"
+          "diplomat",
+          "physician"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -694,11 +700,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "physician",
+          "surgeon",
           "university teacher",
           "dean",
-          "surgeon",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "Nova Scotia Teachers College",
