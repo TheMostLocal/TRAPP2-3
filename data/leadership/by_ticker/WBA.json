@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-11-02T16:23:44.318624Z",
+  "fetchedAt": "2026-11-09T16:44:45.179524Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer",
           "entrepreneur",
-          "engineer"
+          "engineer",
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -166,8 +166,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Arkansas",
-          "Harvard University"
+          "Harvard University",
+          "University of Arkansas"
         ],
         "employers": [],
         "positions": []
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer",
           "entrepreneur",
-          "engineer"
+          "engineer",
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -376,8 +376,8 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
           "Stanford University",

@@ -1,6 +1,6 @@
 {
   "ticker": "NEU",
-  "fetchedAt": "2026-11-02T16:23:44.300625Z",
+  "fetchedAt": "2026-11-09T16:44:45.149388Z",
   "people": [
     {
       "qid": "Q6281101",
@@ -14,14 +14,14 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Aoun%20%282897155178%29%20%28cropped%29.jpg",
         "occupations": [
+          "linguist",
           "philosopher",
-          "university president",
-          "linguist"
+          "university president"
         ],
         "education": [
-          "University of Paris",
           "Saint Joseph University of Beirut",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Paris"
         ],
         "employers": [
           {
