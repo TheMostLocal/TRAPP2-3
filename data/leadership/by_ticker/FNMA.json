@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-11-02T12:48:35.800783Z",
+  "fetchedAt": "2026-11-09T13:09:44.645831Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,14 +14,24 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
-          "New York University School of Law",
-          "Cornell University"
+          "Cornell University",
+          "New York University School of Law"
         ],
         "employers": [
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
+          },
+          {
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
+          },
           {
             "company": "Credit Suisse",
             "start": "2000-01-01",
@@ -31,11 +41,6 @@
             "company": "Deutsche Bank",
             "start": "2002-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -56,32 +61,9 @@
             "company": "Silicon Valley Bridge Bank",
             "start": "2023-03-13",
             "end": null
-          },
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "title": "company secretary",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2018-01-01"
-          },
           {
             "title": "board of directors member",
             "company": null,
@@ -101,6 +83,30 @@
             "end": "2018-01-01"
           },
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "title": "company secretary",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "chief administrative officer",
             "company": null,
             "start": "2010-01-01",
@@ -111,12 +117,6 @@
             "company": null,
             "start": "2009-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Cranfield School of Management",
@@ -170,12 +170,12 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "economist"
+          "economist",
+          "university teacher"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "University of Manchester",
+          "Massachusetts Institute of Technology",
           "University of Oxford"
         ],
         "employers": [
@@ -217,16 +217,16 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
           "university teacher",
-          "businessperson",
+          "economist",
           "politician",
+          "businessperson",
           "lawyer"
         ],
         "education": [
-          "University of Kansas School of Law",
           "University of Kansas",
-          "University of Massachusetts Amherst"
+          "University of Massachusetts Amherst",
+          "University of Kansas School of Law"
         ],
         "employers": [
           {
@@ -288,9 +288,9 @@
           "businessperson"
         ],
         "education": [
-          "College of Europe",
+          "Yale University",
           "London School of Economics and Political Science",
-          "Yale University"
+          "College of Europe"
         ],
         "employers": [],
         "positions": []
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Wheaton College"
+          "Wheaton College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -334,8 +334,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
           "Stanford University",
+          "University of Oxford",
           "John F. Kennedy School of Government"
         ],
         "employers": [],
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
+          "Yale University",
           "Boston University",
-          "Fisk University",
-          "Yale University"
+          "Fisk University"
         ],
         "employers": [],
         "positions": []
@@ -421,10 +421,15 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Stanford University"
+          "Stanford University",
+          "Princeton University"
         ],
         "employers": [
+          {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
+          },
           {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
@@ -434,11 +439,6 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": []
