@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-11-02T12:48:35.794615Z",
+  "fetchedAt": "2026-11-09T13:09:44.641552Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -144,8 +144,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "historian",
-          "surgeon"
+          "surgeon",
+          "historian"
         ],
         "education": [
           "New York University"
@@ -194,8 +194,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [],
         "employers": [],
@@ -233,8 +233,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -354,8 +354,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Toronto"
@@ -389,11 +389,11 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "banker",
           "surgeon",
-          "writer",
+          "banker",
+          "politician",
           "physician",
-          "politician"
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -445,8 +445,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -467,9 +467,9 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
+          "physician",
           "university teacher",
-          "surgeon",
-          "physician"
+          "surgeon"
         ],
         "education": [
           "University of Manitoba"
@@ -503,10 +503,10 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
-          "military officer",
           "polo player",
           "naval officer",
-          "prince consort"
+          "prince consort",
+          "military officer"
         ],
         "education": [
           "Cheam School",
@@ -573,10 +573,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "politician",
-          "lawyer",
           "diplomat",
-          "physician"
+          "lawyer",
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -700,11 +700,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "surgeon",
           "university teacher",
-          "dean",
           "politician",
-          "physician"
+          "surgeon",
+          "physician",
+          "dean"
         ],
         "education": [
           "Nova Scotia Teachers College",

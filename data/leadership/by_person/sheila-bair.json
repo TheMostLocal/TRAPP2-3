@@ -5,16 +5,16 @@
   "birthPlace": "Wichita",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
   "occupations": [
-    "economist",
     "university teacher",
-    "businessperson",
+    "economist",
     "politician",
+    "businessperson",
     "lawyer"
   ],
   "education": [
-    "University of Kansas School of Law",
     "University of Kansas",
-    "University of Massachusetts Amherst"
+    "University of Massachusetts Amherst",
+    "University of Kansas School of Law"
   ],
   "employers": [
     {
