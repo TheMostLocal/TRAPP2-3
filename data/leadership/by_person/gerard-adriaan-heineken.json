@@ -5,10 +5,10 @@
   "birthPlace": "Amsterdam",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Adriaan%20Heineken.jpg",
   "occupations": [
-    "collector",
     "brewer",
-    "entrepreneur",
-    "merchant"
+    "collector",
+    "merchant",
+    "entrepreneur"
   ],
   "education": [],
   "employers": [
