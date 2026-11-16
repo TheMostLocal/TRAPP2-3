@@ -20,6 +20,11 @@
       "end": null
     },
     {
+      "company": "Lion Capital LLP",
+      "start": null,
+      "end": "2019-01-01"
+    },
+    {
       "company": "Desigual",
       "start": "2014-01-01",
       "end": "2017-01-01"
@@ -33,11 +38,6 @@
       "company": "Diageo",
       "start": "2016-01-01",
       "end": null
-    },
-    {
-      "company": "Lion Capital LLP",
-      "start": null,
-      "end": "2019-01-01"
     }
   ],
   "positions": [],

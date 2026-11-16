@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-11-09T13:09:44.645831Z",
+  "fetchedAt": "2026-11-16T13:09:21.217991Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -18,15 +18,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Cornell University",
-          "New York University School of Law"
+          "New York University School of Law",
+          "Cornell University"
         ],
         "employers": [
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
-          },
           {
             "company": "Bank of America",
             "start": "2004-01-01",
@@ -43,6 +38,16 @@
             "end": "2004-01-01"
           },
           {
+            "company": "Silicon Valley Bridge Bank",
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
+          },
+          {
             "company": "Fannie Mae",
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -56,32 +61,9 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Silicon Valley Bridge Bank",
-            "start": "2023-03-13",
-            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "general counsel",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2018-01-01"
-          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -101,10 +83,28 @@
             "end": "2018-01-01"
           },
           {
+            "title": "board of directors member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "member of the board of trustees",
             "company": null,
             "start": null,
             "end": null
+          },
+          {
+            "title": "general counsel",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
           },
           {
             "title": "chief administrative officer",
@@ -170,12 +170,12 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
-          "university teacher"
+          "university teacher",
+          "economist"
         ],
         "education": [
-          "University of Manchester",
           "Massachusetts Institute of Technology",
+          "University of Manchester",
           "University of Oxford"
         ],
         "employers": [
@@ -284,13 +284,13 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "adjunct professor",
-          "businessperson"
+          "businessperson",
+          "adjunct professor"
         ],
         "education": [
           "Yale University",
-          "London School of Economics and Political Science",
-          "College of Europe"
+          "College of Europe",
+          "London School of Economics and Political Science"
         ],
         "employers": [],
         "positions": []
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Wheaton College",
-          "Harvard University"
+          "Harvard University",
+          "Wheaton College"
         ],
         "employers": [],
         "positions": []
@@ -335,8 +335,8 @@
         ],
         "education": [
           "Stanford University",
-          "University of Oxford",
-          "John F. Kennedy School of Government"
+          "John F. Kennedy School of Government",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -421,15 +421,10 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Princeton University"
+          "Princeton University",
+          "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
@@ -439,6 +434,11 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": []
@@ -476,8 +476,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "law professor",
+          "university teacher",
           "jurist"
         ],
         "education": [],

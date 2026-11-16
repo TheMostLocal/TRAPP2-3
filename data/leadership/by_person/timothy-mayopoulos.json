@@ -9,15 +9,10 @@
     "entrepreneur"
   ],
   "education": [
-    "Cornell University",
-    "New York University School of Law"
+    "New York University School of Law",
+    "Cornell University"
   ],
   "employers": [
-    {
-      "company": "Donaldson, Lufkin & Jenrette",
-      "start": "1996-01-01",
-      "end": "2000-01-01"
-    },
     {
       "company": "Bank of America",
       "start": "2004-01-01",
@@ -34,6 +29,16 @@
       "end": "2004-01-01"
     },
     {
+      "company": "Silicon Valley Bridge Bank",
+      "start": "2023-03-13",
+      "end": null
+    },
+    {
+      "company": "Donaldson, Lufkin & Jenrette",
+      "start": "1996-01-01",
+      "end": "2000-01-01"
+    },
+    {
       "company": "Fannie Mae",
       "start": "2009-01-01",
       "end": "2010-01-01"
@@ -47,32 +52,9 @@
       "company": "Fannie Mae",
       "start": "2012-01-01",
       "end": "2018-01-01"
-    },
-    {
-      "company": "Silicon Valley Bridge Bank",
-      "start": "2023-03-13",
-      "end": null
     }
   ],
   "positions": [
-    {
-      "title": "board of directors member",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
-      "title": "general counsel",
-      "company": null,
-      "start": "2009-01-01",
-      "end": "2010-01-01"
-    },
-    {
-      "title": "chief executive officer",
-      "company": null,
-      "start": "2012-01-01",
-      "end": "2018-01-01"
-    },
     {
       "title": "chief executive officer",
       "company": null,
@@ -92,10 +74,28 @@
       "end": "2018-01-01"
     },
     {
+      "title": "board of directors member",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
       "title": "member of the board of trustees",
       "company": null,
       "start": null,
       "end": null
+    },
+    {
+      "title": "general counsel",
+      "company": null,
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2012-01-01",
+      "end": "2018-01-01"
     },
     {
       "title": "chief administrative officer",
