@@ -2,7 +2,7 @@
   "qid": "Q9079904",
   "name": "Steve Jurvetson",
   "dateOfBirth": "1967-03-01",
-  "birthPlace": "Arizona",
+  "birthPlace": null,
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
   "occupations": [
     "business executive",
@@ -10,21 +10,11 @@
     "businessperson"
   ],
   "education": [
+    "Stanford University",
     "St. Mark's School of Texas",
-    "Stanford Graduate School of Business",
-    "Stanford University"
+    "Stanford Graduate School of Business"
   ],
   "employers": [
-    {
-      "company": "NeXT",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Hewlett-Packard",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Draper Fisher Jurvetson",
       "start": null,
@@ -32,6 +22,16 @@
     },
     {
       "company": "Bain & Company",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "NeXT",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Hewlett-Packard",
       "start": null,
       "end": null
     }
