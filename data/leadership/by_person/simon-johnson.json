@@ -5,12 +5,12 @@
   "birthPlace": "Sheffield",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
   "occupations": [
-    "economist",
-    "university teacher"
+    "university teacher",
+    "economist"
   ],
   "education": [
-    "University of Manchester",
     "Massachusetts Institute of Technology",
+    "University of Manchester",
     "University of Oxford"
   ],
   "employers": [
