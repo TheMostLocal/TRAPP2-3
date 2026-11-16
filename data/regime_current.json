@@ -24,7 +24,7 @@
   },
   "current_probabilities": {
     "expansion": 0.343,
-    "risk_on_melt_up": 0.0463,
+    "risk_on_melt_up": 0.0462,
     "inflation_shock": 0.02,
     "recession_fear": 0.0022,
     "risk_off": 0.0396,
@@ -70,10 +70,10 @@
       "vix9d_over_vix": 0.9233
     },
     "valuation": {
-      "spy_pe": 23.51,
-      "earnings_yield": 0.0425,
+      "spy_pe": 23.5,
+      "earnings_yield": 0.0426,
       "real_10y": 0.0102,
-      "fed_model_spread": 0.0323
+      "fed_model_spread": 0.0324
     },
     "trend": {
       "spy_price": 754.37,
@@ -100,6 +100,6 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-11-16T20:25:03+00:00",
+  "computed_at": "2026-11-16T20:40:04+00:00",
   "inputs_complete": true
 }
