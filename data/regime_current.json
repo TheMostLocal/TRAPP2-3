@@ -6,7 +6,7 @@
     "macro": 0.147,
     "liquidity": -0.045,
     "volatility": -0.426,
-    "valuation": -0.206,
+    "valuation": -0.205,
     "trend": 0.421,
     "breadth": 0.091,
     "commodity": -0.256,
@@ -25,7 +25,7 @@
   "current_probabilities": {
     "expansion": 0.0492,
     "risk_on_melt_up": 0.0016,
-    "inflation_shock": 0.082,
+    "inflation_shock": 0.0821,
     "recession_fear": 0.0557,
     "risk_off": 0.2929,
     "neutral": 0.5186
