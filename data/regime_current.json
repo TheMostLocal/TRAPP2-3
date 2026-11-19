@@ -28,7 +28,7 @@
     "inflation_shock": 0.0456,
     "recession_fear": 0.0263,
     "risk_off": 0.1802,
-    "neutral": 0.6519
+    "neutral": 0.6518
   },
   "drivers": [
     {
@@ -70,7 +70,7 @@
       "vix9d_over_vix": 0.9407
     },
     "valuation": {
-      "spy_pe": 23.26,
+      "spy_pe": 23.25,
       "earnings_yield": 0.043,
       "real_10y": 0.0102,
       "fed_model_spread": 0.0328
@@ -100,6 +100,6 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-11-19T16:10:56+00:00",
+  "computed_at": "2026-11-19T16:25:12+00:00",
   "inputs_complete": true
 }
