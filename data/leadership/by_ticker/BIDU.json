@@ -1,6 +1,6 @@
 {
   "ticker": "BIDU",
-  "fetchedAt": "2026-11-16T13:09:21.207589Z",
+  "fetchedAt": "2026-11-23T15:03:04.186451Z",
   "people": [
     {
       "qid": "Q92985",
@@ -17,9 +17,9 @@
           "software engineer",
           "inventor",
           "software developer",
+          "entrepreneur",
           "computer scientist",
-          "businessperson",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "University at Buffalo",
