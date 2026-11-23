@@ -5,8 +5,8 @@
   "birthPlace": "Evanston",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwynne%20Shotwell%20at%20pre-launch%20briefing%20for%20CRS-2%20mission%20%28KSC-2013-1704%29.jpg",
   "occupations": [
-    "entrepreneur",
     "businessperson",
+    "entrepreneur",
     "military flight engineer"
   ],
   "education": [
@@ -14,16 +14,6 @@
     "Libertyville High School"
   ],
   "employers": [
-    {
-      "company": "Chrysler",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "SpaceX",
-      "start": "2002-01-01",
-      "end": null
-    },
     {
       "company": "Microcosm",
       "start": "1998-01-01",
@@ -33,6 +23,16 @@
       "company": "The Aerospace Corporation",
       "start": "1988-01-01",
       "end": "1998-01-01"
+    },
+    {
+      "company": "Chrysler",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "SpaceX",
+      "start": "2002-01-01",
+      "end": null
     }
   ],
   "positions": [
