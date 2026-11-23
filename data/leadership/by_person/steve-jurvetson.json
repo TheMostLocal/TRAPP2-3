@@ -10,21 +10,11 @@
     "businessperson"
   ],
   "education": [
-    "Stanford University",
     "St. Mark's School of Texas",
-    "Stanford Graduate School of Business"
+    "Stanford Graduate School of Business",
+    "Stanford University"
   ],
   "employers": [
-    {
-      "company": "Draper Fisher Jurvetson",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Bain & Company",
-      "start": null,
-      "end": null
-    },
     {
       "company": "NeXT",
       "start": null,
@@ -32,6 +22,16 @@
     },
     {
       "company": "Hewlett-Packard",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Draper Fisher Jurvetson",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Bain & Company",
       "start": null,
       "end": null
     }
