@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-11-16T13:09:21.211439Z",
+  "fetchedAt": "2026-11-23T15:03:04.190534Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -354,8 +354,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Toronto"
@@ -389,9 +389,9 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "politician",
           "banker",
           "surgeon",
+          "politician",
           "physician",
           "writer"
         ],
@@ -467,8 +467,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "university teacher",
           "surgeon",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -573,10 +573,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "politician",
-          "diplomat",
           "physician",
-          "lawyer"
+          "lawyer",
+          "diplomat",
+          "politician"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -703,8 +703,8 @@
           "university teacher",
           "surgeon",
           "dean",
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "Nova Scotia Teachers College",

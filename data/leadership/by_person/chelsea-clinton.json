@@ -5,29 +5,39 @@
   "birthPlace": "Little Rock",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
   "occupations": [
-    "journalist",
     "children's writer",
     "university teacher",
-    "political scientist",
     "film producer",
+    "political scientist",
+    "journalist",
+    "historian",
     "businessperson",
     "entrepreneur",
-    "historian",
     "writer"
   ],
   "education": [
-    "Stanford University",
     "Sidwell Friends School",
     "Robert F. Wagner Graduate School of Public Service",
     "University College, Oxford",
+    "Stanford University",
     "Mann Arts and Science Magnet Middle School",
     "Columbia University Mailman School of Public Health"
   ],
   "employers": [
     {
-      "company": "NBC",
-      "start": "2011-11-01",
-      "end": "2014-08-01"
+      "company": "Clinton Foundation",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "company": "McKinsey & Company",
+      "start": "2003-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "company": "Avenue Capital Group",
+      "start": "2006-01-01",
+      "end": null
     },
     {
       "company": "Expedia Group",
@@ -45,19 +55,9 @@
       "end": null
     },
     {
-      "company": "Clinton Foundation",
-      "start": "2011-01-01",
-      "end": null
-    },
-    {
-      "company": "McKinsey & Company",
-      "start": "2003-01-01",
-      "end": "2006-01-01"
-    },
-    {
-      "company": "Avenue Capital Group",
-      "start": "2006-01-01",
-      "end": null
+      "company": "NBC",
+      "start": "2011-11-01",
+      "end": "2014-08-01"
     }
   ],
   "positions": [],
