@@ -25,7 +25,7 @@
   "current_probabilities": {
     "expansion": 0.0088,
     "risk_on_melt_up": 0.0001,
-    "inflation_shock": 0.097,
+    "inflation_shock": 0.0969,
     "recession_fear": 0.1409,
     "risk_off": 0.4548,
     "neutral": 0.2983
@@ -100,6 +100,6 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-11-24T17:25:13+00:00",
+  "computed_at": "2026-11-24T17:26:15+00:00",
   "inputs_complete": true
 }
