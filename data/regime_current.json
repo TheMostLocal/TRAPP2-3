@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "regime": "neutral",
+  "regime": "risk_off",
   "confidence": 0.981,
   "scores": {
     "macro": -0.078,
@@ -39,17 +39,17 @@
       "direction": "bearish"
     },
     {
+      "signal": "volatility",
+      "score": -0.435,
+      "confidence": 1.0,
+      "weight": 0.435,
+      "direction": "bearish"
+    },
+    {
       "signal": "commodity",
       "score": -0.349,
       "confidence": 1.0,
       "weight": 0.349,
-      "direction": "bearish"
-    },
-    {
-      "signal": "liquidity",
-      "score": -0.326,
-      "confidence": 1.0,
-      "weight": 0.326,
       "direction": "bearish"
     }
   ],
@@ -66,8 +66,8 @@
       "hyg_minus_lqd_1m": -0.0076
     },
     "volatility": {
-      "vix_level": 35.89,
-      "vix9d_over_vix": 0.7735
+      "vix_level": 26.62,
+      "vix9d_over_vix": 1.0428
     },
     "valuation": {
       "spy_pe": 21.68,
